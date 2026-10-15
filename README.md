@@ -52,9 +52,9 @@
 | Nome | Papel no projeto | GitHub |
 |---|---|---|
 | Kaike Martins | Organização, tratamento dos dados e arquitetura | [@kaike-martins](https://github.com/kaike-martins) |
-| Raquel | Problema, contexto, pitch e contato com o mentor | [@rachelpereira8663](https://github.com/rachelpereira8663) |
-| Vitória | Bases de dados e identidade visual | [@vitoria1551](https://github.com/vitoria1551) |
-| José Vitor | Tecnologias, requisitos e protótipo | [@josevitorea](https://github.com/josevitorea) |
+| Raquel Costa Pereira | Problema, contexto, pitch e contato com o mentor | [@rachelpereira8663](https://github.com/rachelpereira8663) |
+| Vitória da Silva | Bases de dados e identidade visual | [@vitoria1551](https://github.com/vitoria1551) |
+| José Vitor Gonçalves | Tecnologias, requisitos e protótipo | [@josevitorea](https://github.com/josevitorea) |
 
 ---
 
