@@ -167,10 +167,25 @@ Conversa com o Prof. Gerson em 07/10/2026:
 
 ## Uso de IA no projeto
 
-<!-- KAIKE: em que etapas a IA ajudou e o que foi decidido pelo grupo.
-     Apague este comentário quando escrever. -->
 
-*Em construção.*
+Seguindo a orientação do mentor, documentamos aqui como a inteligência artificial
+foi usada. A IA foi uma ferramenta de apoio; **as decisões e os textos de cada
+seção são do grupo**.
+
+**Ferramenta:** Claude (Anthropic), usado principalmente pelo organizador do grupo.
+
+| Etapa | Como a IA ajudou | O que foi decidido ou feito pelo grupo |
+|---|---|---|
+| Planejamento | Sugestão de cronograma, quadro de tarefas e divisão inicial de papéis | Papéis e prazos confirmados e ajustados pelo grupo |
+| Escolha do tema | Levantamento de 6 temas do ODS 3 com bases públicas verificadas | Tema escolhido por votação unânime, unindo duas das sugestões |
+| Pesquisa e dados | Busca de fontes oficiais e conferência dos arquivos baixados, como a identificação de linhas de total que duplicavam somas e do corte nos dados de 2024 | Recorte (municípios de SP, 2019 a 2023) definido pelo grupo e aprovado pelo mentor |
+| Revisão de textos | Revisão crítica dos rascunhos, apontando erros e pontos fracos | Cada seção foi escrita pelo seu responsável e reescrita a partir das revisões |
+
+**Princípios que seguimos:**
+
+- Nenhum número entra no projeto sem que a fonte original seja conferida.
+- Cada integrante escreve a própria seção; a IA revisa, não escreve no lugar.
+- Todo uso de IA por qualquer integrante é registrado nesta tabela.
 
 ---
 
