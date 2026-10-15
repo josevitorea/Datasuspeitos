@@ -217,6 +217,6 @@ Datasuspeitos/
 - [ ] Tecnologias com justificativa
 - [ ] Logo, paleta de cores e tipografia
 - [ ] Pitch inicial
-- [ ] Todos os integrantes identificados
+- [x] Todos os integrantes identificados
 
 **Próximas etapas:** Checkpoint 2 — Protótipo (09 a 13/11) · Banca final (07 e 08/12)
