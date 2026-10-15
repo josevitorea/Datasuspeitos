@@ -27,7 +27,7 @@
 | **Grupo** | DataSUSpeitos |
 | **Desafio** | FMU Tech Inovação 2026.2 · ODS 3 — Saúde e Bem-Estar |
 | **Recorte** | Municípios do estado de São Paulo, de 2019 a 2023 |
-| **Mentor** | Prof. Gerson |
+| **Mentor** | Prof. Gerson Lourenço Gazola |
 | **Etapa atual** | Checkpoint 1 — Ideação |
 
 ## Sumário
