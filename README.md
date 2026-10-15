@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Título do projeto — em votação]
+# Saúde da Gestante em Dados: pré-natal e sífilis congênita nos municípios de SP
 
 **Onde o pré-natal falha e a sífilis congênita avança nos municípios de São Paulo**
 
@@ -187,11 +187,11 @@ Datasuspeitos/
 
 ## Andamento do projeto
 
-**Checkpoint 1 — Ideação** (entrega de 19 a 23/10/2026)
+**Checkpoint 1 - Ideação** (entrega de 19 a 23/10/2026)
 
 - [x] Repositório público criado
 - [x] Tema e recorte definidos
-- [ ] Título do projeto
+- [x] Título do projeto
 - [ ] Descrição do problema, público e contexto
 - [ ] Bases de dados públicas identificadas
 - [ ] Tecnologias com justificativa
