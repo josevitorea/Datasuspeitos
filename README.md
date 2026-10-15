@@ -97,10 +97,15 @@
 
 ## Proposta de solução
 
-<!-- KAIKE: o painel, para quem, que decisão apoia (150 a 250 palavras)
-     + diagrama da arquitetura em docs/arquitetura.png. Apague este comentário quando escrever. -->
+O projeto propõe um painel que mostra, para cada município do estado de São Paulo, onde o pré-natal está falhando e onde essa falha já resulta em bebês nascidos com sífilis.
 
-*Em construção.*
+O público-alvo são os gestores municipais de saúde e as equipes da atenção básica, que podem usar o painel para decidir em quais municípios priorizar a busca ativa de gestantes, a testagem e o tratamento.
+
+As fontes utilizadas são o SINASC, com o número de consultas de pré-natal de cada nascimento e o Painel de Indicadores de Sífilis do Ministério da Saúde, com os casos de sífilis congênita e as informações de pré-natal e tratamento das mães.
+
+Os dados das duas fontes são tratados em Python, unidos pelo código de cada município e guardados em um banco de dados. O painel, feito em Power BI, mostra três camadas para cada município: o acesso ao pré-natal (gestantes com menos de 7 consultas), a consequência (taxa de sífilis congênita) e a qualidade do cuidado (mães diagnosticadas e tratadas adequadamente). Medir as três é necessário porque, em 2023, 82,7% dos bebês com sífilis no estado tinham mães que fizeram pré-natal: o problema não é só chegar ao serviço é o cuidado se completar.
+
+O diferencial está no ranking dos municípios pelas maiores taxas de sífilis congênita (casos por mil nascidos vivos), cruzando dois indicadores: os municípios prioritários são aqueles com pré-natal ruim e sífilis alta ao mesmo tempo.
 
 ```text
 Dados públicos  →  Python (tratamento)  →  Banco de dados  →  Power BI (painel)
