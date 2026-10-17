@@ -166,6 +166,7 @@ foi usada. A IA foi uma ferramenta de apoio; **as decisões e os textos de cada
 seção são do grupo**.
 
 **Ferramenta:** Claude (Anthropic), usado principalmente pelo organizador do grupo.
+                Gemini, uso da IA para ajustar os textos junta base de dados
 
 | Etapa | Como a IA ajudou | O que foi decidido ou feito pelo grupo |
 |---|---|---|
@@ -173,6 +174,7 @@ seção são do grupo**.
 | Escolha do tema | Levantamento de 6 temas do ODS 3 com bases públicas verificadas | Tema escolhido por votação unânime, unindo duas das sugestões |
 | Pesquisa e dados | Busca de fontes oficiais e conferência dos arquivos baixados, como a identificação de linhas de total que duplicavam somas e do corte nos dados de 2024 | Recorte (municípios de SP, 2019 a 2023) definido pelo grupo e aprovado pelo mentor |
 | Revisão de textos | Revisão crítica dos rascunhos, apontando erros e pontos fracos | Cada seção foi escrita pelo seu responsável e reescrita a partir das revisões |
+| Usado para ajustes dos textos junto as bases de dados obtidas | 
 
 **Princípios que seguimos:**
 
