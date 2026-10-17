@@ -60,24 +60,14 @@
 
 ## O problema
 
-<!-- RAQUEL: responda em parágrafos curtos
-     O quê? Pré-natal insuficiente e a sífilis congênita como consequência
-     Onde? Municípios do estado de SP, 2019 a 2023
-     Quem? Gestantes e bebês (perfil vem dos números da Vitória)
-     Quanto? Pelo menos 2 números reais, com fonte
-     Por que importa? Evitável; metas 3.1, 3.2 e 3.3 do ODS 3
-     200 a 350 palavras. Apague este comentário quando escrever. -->
-
-*Em construção.*
+No estado de São Paulo, entre 2019 e 2023, o acompanhamento gestacional inadequado está associado à incidência de infecções congênitas, evidenciando que cada caso de sífilis congênita representa um atendimento de pré-natal que não se completou de forma efetiva. 
+O público afetado engloba gestantes e recém-nascidos em todo o território paulista, com cenários particularmente críticos em municípios da Região Metropolitana, como Osasco e Carapicuíba, onde tanto a taxa de sífilis congênita quanto o percentual de gestantes com menos de 7 consultas estão muito acima da média estadual. 
+Em 2023, o estado registrou 4.276 bebês nascidos com sífilis congênita (Painel de Indicadores de Sífilis, Ministério da Saúde), o que representa uma taxa de 8,5 casos a cada 1.000 nascidos vivos, muito acima da meta de eliminação da OPAS/OMS, fixada em 0,5 por 1.000 nascidos vivos. No mesmo período, 82,7% das mães desses bebês realizaram consultas de pré-natal e 66,3% tiveram o diagnóstico da doença identificado durante o acompanhamento. Além disso, dados do SINASC indicam que 17,1% dos bebês nascidos no estado (86.190 crianças em um total de 503.910 nascidos vivos) vieram de mães que realizaram menos de 7 consultas de pré-natal. 
+Essa realidade importa porque o agravo é evitável: o diagnóstico é simples e acessível na rotina de acompanhamento, e o tratamento possui baixo custo e alta eficácia no âmbito do SUS. A falha observada não recai sobre as gestantes, mas sim sobre o sistema de cuidado, que não assegura a integralidade do tratamento e o vínculo contínuo. Dessa forma, o projeto conecta-se diretamente às metas 3.1, 3.2 e 3.3 do ODS 3 da Agenda 2030. 
 
 ## Público e contexto
 
-<!-- RAQUEL: quem é afetado pelo problema e quem vai usar a solução
-     (gestores e equipes da atenção básica). Apague este comentário quando escrever. -->
-
-*Em construção.*
-
----
+O problema afeta diretamente gestantes e recém-nascidos, sobretudo em municípios onde a cobertura e a retenção no pré-natal apresentam maiores fragilidades. A solução desenvolvida destina-se a gestores municipais de saúde e equipes da atenção básica (unidades básicas de saúde), que poderão utilizá-la como ferramenta estratégica para identificar quais municípios prioritários demandam ações imediatas de busca ativa de gestantes, ampliação da testagem e garantia do tratamento completo. 
 
 ## Bases de dados
 
@@ -150,12 +140,7 @@ Dados públicos  →  Python (tratamento)  →  Banco de dados  →  Power BI (p
 
 ## Pitch
 
-<!-- RAQUEL: 80 a 120 palavras. Dor com número → quem sofre → o que fazemos → diferencial.
-     Apague este comentário quando escrever. -->
-
-*Em construção.*
-
----
+Em 2023, 8,5 a cada 1.000 bebês nasceram com sífilis congênita no estado de São Paulo. E 82,7% das mães desses bebês fizeram pré-natal: estavam no serviço, mas o cuidado não se completou. Para enfrentar esse desafio, o grupo DataSUSpeitos está desenvolvendo um painel analítico interativo que cruza dados de pré-natal e de sífilis congênita por município. O nosso diferencial é integrar essas bases públicas em uma única interface intuitiva, apontando em quais municípios os gestores públicos devem agir primeiro. 
 
 ## Orientação do mentor
 
@@ -220,11 +205,11 @@ Datasuspeitos/
 - [x] Repositório público criado
 - [x] Tema e recorte definidos
 - [x] Título do projeto
-- [ ] Descrição do problema, público e contexto
-- [ ] Bases de dados públicas identificadas
+- [x] Descrição do problema, público e contexto
+- [x] Bases de dados públicas identificadas
 - [ ] Tecnologias com justificativa
 - [ ] Logo, paleta de cores e tipografia
-- [ ] Pitch inicial
+- [x] Pitch inicial
 - [x] Todos os integrantes identificados
 
 **Próximas etapas:** Checkpoint 2 — Protótipo (09 a 13/11) · Banca final (07 e 08/12)
