@@ -84,14 +84,22 @@
 <!-- VITÓRIA: preencha a tabela e escreva as limitações.
      Apague este comentário quando escrever. -->
 
-| Base | Fonte | O que usamos | Período |
-|---|---|---|---|
-| SINASC — Nascidos Vivos | [TabNet / DATASUS](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/) | Consultas de pré-natal por município | 2019–2023 |
-| Painel de Indicadores de Sífilis | [Ministério da Saúde](https://indicadoressifilis.aids.gov.br/) | Sífilis congênita, pré-natal e tratamento das mães | 2019–2023 |
+## Bases de dados
+
+| Base | Fonte | O que usamos | Nível | Período |
+|---|---|---|---|---|
+| SINASC — Nascidos Vivos | [TabNet / DATASUS](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/) | Nascidos vivos e número de consultas de pré-natal da mãe | Município de residência da mãe | 2019–2023 |
+| Painel de Indicadores de Sífilis | [Ministério da Saúde](https://indicadoressifilis.aids.gov.br/) | Casos de sífilis congênita, pré-natal, momento do diagnóstico e tratamento da mãe | Município de residência | 2019–2023 |
+
+As duas bases são unidas pelo **código IBGE do município (6 dígitos)**, formando uma tabela com uma linha por município e ano.
 
 **Limitações conhecidas:**
 
-- *Em construção.*
+- **Municípios pequenos têm taxas instáveis.** Em uma cidade com 200 nascimentos, um único caso de sífilis congênita já gera uma taxa de 5 por mil, o que pode colocá-la no topo do ranking por acaso. Por isso, o ranking considera apenas municípios com pelo menos 1.000 nascidos vivos no ano.
+- **Subnotificação.** Um município que testa e notifica pouco aparece com menos casos do que tem na realidade, então uma taxa baixa pode ser falsa. Como pouco pré-natal costuma significar pouca testagem, o painel destaca municípios com pré-natal ruim e sífilis baixa como casos a investigar.
+- **Período de 2019 a 2023.** Os dados de 2024 ainda não estão consolidados: o Painel de Sífilis vai só até 30/06/2024 e os nascidos vivos, só até 2023. Incluir 2024 mostraria uma queda falsa de casos, causada apenas por registros que ainda não entraram no sistema.
+- **Os dados mostram municípios, não pessoas.** As informações de pré-natal e de sífilis estão agregadas por município, em bases separadas, então não é possível ligar cada bebê com sífilis às consultas que a mãe fez. O painel mostra que pré-natal insuficiente e sífilis alta aparecem juntos em um município, mas não prova que as mães com menos consultas são as mesmas dos bebês com sífilis. Por isso, ele serve para priorizar municípios onde agir, e não para explicar a causa de cada caso.
+- **Informação ignorada.** No SINASC, parte das declarações não informa o número de consultas (868 em 2023, no estado). Esses registros são excluídos do cálculo do percentual de pré-natal insuficiente.
 
 ---
 
