@@ -69,10 +69,6 @@ Essa realidade importa porque o agravo é evitável: o diagnóstico é simples e
 
 O problema afeta diretamente gestantes e recém-nascidos, sobretudo em municípios onde a cobertura e a retenção no pré-natal apresentam maiores fragilidades. A solução desenvolvida destina-se a gestores municipais de saúde e equipes da atenção básica (unidades básicas de saúde), que poderão utilizá-la como ferramenta estratégica para identificar quais municípios prioritários demandam ações imediatas de busca ativa de gestantes, ampliação da testagem e garantia do tratamento completo. 
 
-## Bases de dados
-
-<!-- VITÓRIA: preencha a tabela e escreva as limitações.
-     Apague este comentário quando escrever. -->
 
 ## Bases de dados
 
