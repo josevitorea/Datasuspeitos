@@ -13,7 +13,7 @@
 ![Dados abertos](https://img.shields.io/badge/Dados-DATASUS-0B5394?style=flat-square)
 
 
- <img src="docs/identidade/logo.png" alt="Logo do projeto" width="220"> 
+ <img src="docs/indentidade/logo.png" alt="Logo do projeto" width="220"> 
 
 </div>
 
