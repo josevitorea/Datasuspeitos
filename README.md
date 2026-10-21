@@ -121,18 +121,24 @@ Dados públicos  →  Python (tratamento)  →  Banco de dados  →  Power BI (p
 ---
 
 ## Identidade visual
+<p align="center"><img src="docs/indentidade/logo.png" alt="Logo do projeto" width="200"></p>
+*Logo:* um pino de mapa com um embrião e um gráfico de barras.
+O pino de mapa representa a localização, pois será uma análise de dados por região.
+O embrião significa o bebê ainda em desenvolvimento desde a gestação.
+O gráfico de barras representa a análise estatística e a apresentação dos dados em um dashboard.
 
-<!-- VITÓRIA: logo, paleta e tipografia. Apague este comentário quando escrever. -->
-
-**Paleta de cores**
+## Paleta de cores
 
 | Cor | HEX | Uso |
 |---|---|---|
-| | | |
+| Principal | #174A5B | Títulos e elementos principais |
+| Secundária | #70A6A8 | Barras e pontos dos demais municípios |
+| Apoio | #7950A1 | Linhas de referência, como a média do estado |
+| *Destaque* | #C8572B | *Somente municípios prioritários* |
+| Fundo | #F7F4EF | Fundo do painel e dos slides |
+| Neutro | #E9DCCB | Bordas e divisórias |
 
-**Tipografia:** *em construção.*
-
----
+*Tipografia:* Montserrat (títulos) e Open Sans (textos). No Power BI: Segoe UI.
 
 ## Pitch
 
