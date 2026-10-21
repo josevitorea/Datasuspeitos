@@ -13,7 +13,7 @@
 ![Dados abertos](https://img.shields.io/badge/Dados-DATASUS-0B5394?style=flat-square)
 
 
- <img src="docs/indentidade/logo.png" alt="Logo do projeto" width="220"> 
+ <img src="docs/identidade/logo.png" alt="Logo do projeto" width="220"> 
 
 </div>
 
@@ -121,11 +121,8 @@ Dados públicos  →  Python (tratamento)  →  Banco de dados  →  Power BI (p
 ---
 
 ## Identidade visual
-<p align="center"><img src="docs/indentidade/logo.png" alt="Logo do projeto" width="200"></p>
-*Logo:* um pino de mapa com um embrião e um gráfico de barras.
-O pino de mapa representa a localização, pois será uma análise de dados por região.
-O embrião significa o bebê ainda em desenvolvimento desde a gestação.
-O gráfico de barras representa a análise estatística e a apresentação dos dados em um dashboard.
+<p align="center"><img src="docs/identidade/logo.png" alt="Logo do projeto" width="200"></p>
+**Logo:** um pino de mapa com um embrião e um gráfico de barras. O pino de mapa representa a localização, pois a análise é feita por município. O embrião representa o bebê em desenvolvimento durante a gestação. O gráfico de barras representa a análise estatística e a apresentação dos dados em um painel.
 
 ## Paleta de cores
 
@@ -134,11 +131,13 @@ O gráfico de barras representa a análise estatística e a apresentação dos d
 | Principal | #174A5B | Títulos e elementos principais |
 | Secundária | #70A6A8 | Barras e pontos dos demais municípios |
 | Apoio | #7950A1 | Linhas de referência, como a média do estado |
-| *Destaque* | #C8572B | *Somente municípios prioritários* |
+| **Destaque** | #C8572B | **Somente municípios prioritários** |
 | Fundo | #F7F4EF | Fundo do painel e dos slides |
 | Neutro | #E9DCCB | Bordas e divisórias |
 
-*Tipografia:* Montserrat (títulos) e Open Sans (textos). No Power BI: Segoe UI.
+A cor de destaque é usada só para os municípios prioritários, para que o gestor os encontre de imediato. Ela foi testada para continuar visível para pessoas com daltonismo.
+
+**Tipografia:** Montserrat nos títulos e Open Sans nos textos (Google Fonts). No painel do Power BI, usamos Segoe UI, fonte padrão do programa, para garantir que o texto apareça igual em qualquer computador.
 
 ## Pitch
 
@@ -189,14 +188,12 @@ seção são do grupo**.
 
 ```text
 Datasuspeitos/
-├── README.md          → apresentação do projeto (esta página)
+├── README.md            → apresentação do projeto (esta página)
 ├── docs/
-│   ├── identidade/    → logo, paleta e tipografia
-│   └── arquitetura.png
-├── data/
-│   └── dicionario.md  → o que significa cada coluna usada
-├── notebooks/         → análise exploratória (CP2)
-└── src/               → tratamento dos dados (CP2)
+│   └── identidade/      → logo e paleta de cores
+├── data/                → (CP2) dados tratados e dicionário de dados
+├── notebooks/           → (CP2) análise exploratória
+└── src/                 → (CP2) scripts de tratamento dos dados
 ```
 
 ---
@@ -211,7 +208,7 @@ Datasuspeitos/
 - [x] Descrição do problema, público e contexto
 - [x] Bases de dados públicas identificadas
 - [ ] Tecnologias com justificativa
-- [ ] Logo, paleta de cores e tipografia
+- [x] Logo, paleta de cores e tipografia
 - [x] Pitch inicial
 - [x] Todos os integrantes identificados
 
