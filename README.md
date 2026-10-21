@@ -60,10 +60,13 @@
 
 ## O problema
 
-No estado de São Paulo, entre 2019 e 2023, o acompanhamento gestacional inadequado está associado à incidência de infecções congênitas, evidenciando que cada caso de sífilis congênita representa um atendimento de pré-natal que não se completou de forma efetiva. 
-O público afetado engloba gestantes e recém-nascidos em todo o território paulista, com cenários particularmente críticos em municípios da Região Metropolitana, como Osasco e Carapicuíba, onde tanto a taxa de sífilis congênita quanto o percentual de gestantes com menos de 7 consultas estão muito acima da média estadual. 
-Em 2023, o estado registrou 4.276 bebês nascidos com sífilis congênita (Painel de Indicadores de Sífilis, Ministério da Saúde), o que representa uma taxa de 8,5 casos a cada 1.000 nascidos vivos, muito acima da meta de eliminação da OPAS/OMS, fixada em 0,5 por 1.000 nascidos vivos. No mesmo período, 82,7% das mães desses bebês realizaram consultas de pré-natal e 66,3% tiveram o diagnóstico da doença identificado durante o acompanhamento. Além disso, dados do SINASC indicam que 17,1% dos bebês nascidos no estado (86.190 crianças em um total de 503.910 nascidos vivos) vieram de mães que realizaram menos de 7 consultas de pré-natal. 
-Essa realidade importa porque o agravo é evitável: o diagnóstico é simples e acessível na rotina de acompanhamento, e o tratamento possui baixo custo e alta eficácia no âmbito do SUS. A falha observada não recai sobre as gestantes, mas sim sobre o sistema de cuidado, que não assegura a integralidade do tratamento e o vínculo contínuo. Dessa forma, o projeto conecta-se diretamente às metas 3.1, 3.2 e 3.3 do ODS 3 da Agenda 2030. 
+No estado de São Paulo, entre 2019 e 2023, o acompanhamento gestacional inadequado está associado à incidência de infecções congênitas, evidenciando que cada caso de sífilis congênita representa um atendimento de pré-natal que não se completou de forma efetiva.
+
+O público afetado engloba gestantes e recém-nascidos em todo o território paulista, com cenários particularmente críticos em municípios da Região Metropolitana, como Osasco e Carapicuíba, onde tanto a taxa de sífilis congênita quanto o percentual de gestantes com menos de 7 consultas estão muito acima da média estadual.
+
+Em 2023, o estado registrou 4.276 bebês nascidos com sífilis congênita (Painel de Indicadores de Sífilis, Ministério da Saúde), o que representa uma taxa de 8,5 casos a cada 1.000 nascidos vivos, muito acima da meta de eliminação da OPAS/OMS, fixada em 0,5 por 1.000 nascidos vivos. No mesmo período, 82,7% das mães desses bebês realizaram consultas de pré-natal e 66,3% tiveram o diagnóstico da doença identificado durante o acompanhamento. Além disso, dados do SINASC indicam que 17,1% dos bebês nascidos no estado (86.190 crianças em um total de 503.910 nascidos vivos) vieram de mães que realizaram menos de 7 consultas de pré-natal.
+
+Essa realidade importa porque o agravo é evitável: o diagnóstico é simples e acessível na rotina de acompanhamento, e o tratamento possui baixo custo e alta eficácia no âmbito do SUS. A falha observada não recai sobre as gestantes, mas sim sobre o sistema de cuidado, que não assegura a integralidade do tratamento e o vínculo contínuo. Dessa forma, o projeto conecta-se diretamente às metas 3.1, 3.2 e 3.3 do ODS 3 da Agenda 2030.
 
 ## Público e contexto
 
@@ -97,7 +100,7 @@ O público-alvo são os gestores municipais de saúde e as equipes da atenção 
 
 As fontes utilizadas são o SINASC, com o número de consultas de pré-natal de cada nascimento e o Painel de Indicadores de Sífilis do Ministério da Saúde, com os casos de sífilis congênita e as informações de pré-natal e tratamento das mães.
 
-Os dados das duas fontes são tratados em Python, unidos pelo código de cada município e guardados em um banco de dados. O painel, feito em Power BI, mostra três camadas para cada município: o acesso ao pré-natal (gestantes com menos de 7 consultas), a consequência (taxa de sífilis congênita) e a qualidade do cuidado (mães diagnosticadas e tratadas adequadamente). Medir as três é necessário porque, em 2023, 82,7% dos bebês com sífilis no estado tinham mães que fizeram pré-natal: o problema não é só chegar ao serviço é o cuidado se completar.
+Os dados das duas fontes são tratados em Python, unidos pelo código de cada município e guardados em um banco de dados. O painel, feito em Power BI, mostra três camadas para cada município: o acesso ao pré-natal (gestantes com menos de 7 consultas), a consequência (taxa de sífilis congênita) e a qualidade do cuidado (mães com sífilis diagnosticada ainda durante o pré-natal). Medir as três é necessário porque, em 2023, 82,7% dos bebês com sífilis no estado tinham mães que fizeram pré-natal: o problema não é só chegar ao serviço, é o cuidado se completar.
 
 O diferencial está no ranking dos municípios pelas maiores taxas de sífilis congênita (casos por mil nascidos vivos), cruzando dois indicadores: os municípios prioritários são aqueles com pré-natal ruim e sífilis alta ao mesmo tempo.
 
@@ -121,10 +124,12 @@ Dados públicos  →  Python (tratamento)  →  Banco de dados  →  Power BI (p
 ---
 
 ## Identidade visual
+
 <p align="center"><img src="docs/identidade/logo.png" alt="Logo do projeto" width="200"></p>
+
 **Logo:** um pino de mapa com um embrião e um gráfico de barras. O pino de mapa representa a localização, pois a análise é feita por município. O embrião representa o bebê em desenvolvimento durante a gestação. O gráfico de barras representa a análise estatística e a apresentação dos dados em um painel.
 
-## Paleta de cores
+### Paleta de cores
 
 | Cor | HEX | Uso |
 |---|---|---|
@@ -145,8 +150,6 @@ Em 2023, 8,5 a cada 1.000 bebês nasceram com sífilis congênita no estado de S
 
 ## Orientação do mentor
 
-<!-- RAQUEL: confira se o texto está igual ao que o professor disse. -->
-
 Conversa com o Prof. Gerson em 07/10/2026:
 
 | Dúvida | Orientação |
@@ -166,20 +169,21 @@ Seguindo a orientação do mentor, documentamos aqui como a inteligência artifi
 foi usada. A IA foi uma ferramenta de apoio; **as decisões e os textos de cada
 seção são do grupo**.
 
-**Ferramenta:** Claude (Anthropic), usado principalmente pelo organizador do grupo.
-                Gemini, uso da IA para ajustar os textos junta base de dados
+**Ferramentas:** Claude (Anthropic), usado principalmente pelo organizador do grupo; Gemini (Google), usado por integrantes para revisar a redação dos textos e gerar o logo.
 
 | Etapa | Como a IA ajudou | O que foi decidido ou feito pelo grupo |
 |---|---|---|
 | Planejamento | Sugestão de cronograma, quadro de tarefas e divisão inicial de papéis | Papéis e prazos confirmados e ajustados pelo grupo |
 | Escolha do tema | Levantamento de 6 temas do ODS 3 com bases públicas verificadas | Tema escolhido por votação unânime, unindo duas das sugestões |
 | Pesquisa e dados | Busca de fontes oficiais e conferência dos arquivos baixados, como a identificação de linhas de total que duplicavam somas e do corte nos dados de 2024 | Recorte (municípios de SP, 2019 a 2023) definido pelo grupo e aprovado pelo mentor |
-| Revisão de textos | Revisão crítica dos rascunhos, apontando erros e pontos fracos | Cada seção foi escrita pelo seu responsável e reescrita a partir das revisões | 
+| Textos | Revisão crítica dos rascunhos e sugestão de versões corrigidas | Cada seção partiu de um rascunho do seu responsável, que decidiu o que manter |
+| Identidade visual | Geração do logo e de opções de paleta; teste de contraste e daltonismo | Escolha da paleta, inclusão da cor de destaque e conceito do logo |
 
 **Princípios que seguimos:**
 
 - Nenhum número entra no projeto sem que a fonte original seja conferida.
-- Cada integrante escreve a própria seção; a IA revisa, não escreve no lugar.
+- Cada seção parte de um rascunho do seu responsável; a IA revisa e sugere, e o grupo decide o que entra.
+- Cada integrante precisa saber explicar a própria seção sem ajuda.
 - Todo uso de IA por qualquer integrante é registrado nesta tabela.
 
 ---
