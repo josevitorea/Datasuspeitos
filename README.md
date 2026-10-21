@@ -12,8 +12,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Dados abertos](https://img.shields.io/badge/Dados-DATASUS-0B5394?style=flat-square)
 
-<!-- Vitória: quando o logo estiver pronto, suba em docs/identidade/logo.png e descomente a linha abaixo -->
-<!-- <img src="docs/identidade/logo.png" alt="Logo do projeto" width="220"> -->
+
+ <img src="docs/identidade/logo.png" alt="Logo do projeto" width="220"> 
 
 </div>
 
