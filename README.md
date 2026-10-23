@@ -119,7 +119,10 @@ Dados públicos  →  Python (tratamento)  →  Banco de dados  →  Power BI (p
 
 | Tecnologia | Para que serve no projeto | Por que ela | Alternativa descartada |
 |---|---|---|---|
-| | | | |
+| **Python (pandas)** | Limpar e unir as duas bases | Linguagem flexível e de fácil leitura, o que ajuda a criar melhorias. A biblioteca pandas facilita a limpeza e o tratamento dos dados e se conecta a diferentes fontes. | R |
+| **PostgreSQL** | Guardar a tabela final (município × ano) | Banco robusto, que segue o padrão SQL e é de código aberto. | SQL Server |
+| **Power BI** | Painel com quadrante e ranking de municípios | Permite visualização interativa e storytelling com os dados. | Excel |
+| **GitHub** | Versionar e entregar o projeto | Controle de versões do código, trabalho colaborativo, segurança e backup na nuvem. | — |
 
 ---
 
