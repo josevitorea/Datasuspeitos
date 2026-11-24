@@ -1,0 +1,7 @@
+{
+  "name": "DataSUSpeitos",
+  "dataColors": ["#174A5B", "#70A6A8", "#7950A1"],
+  "background": "#F7F4EF",
+  "foreground": "#174A5B",
+  "tableAccent": "#174A5B"
+}
