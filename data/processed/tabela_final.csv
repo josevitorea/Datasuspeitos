@@ -1,0 +1,3226 @@
+cod_ibge,municipio,ano,nascidos_vivos,nv_consultas_informadas,nv_menos_7_consultas,casos_sc,casos_sc_diag_prenatal,elegivel_ranking
+350010,Adamantina,2019,393,393,27,0,0,False
+350020,Adolfo,2019,41,41,3,0,0,False
+350030,Aguaí,2019,420,419,91,1,1,False
+350040,Águas da Prata,2019,52,52,5,0,0,False
+350050,Águas de Lindóia,2019,258,254,59,0,0,False
+350055,Águas de Santa Bárbara,2019,68,68,12,0,0,False
+350060,Águas de São Pedro,2019,19,19,1,0,0,False
+350070,Agudos,2019,530,529,117,4,3,False
+350075,Alambari,2019,80,79,19,0,0,False
+350080,Alfredo Marcondes,2019,44,44,10,0,0,False
+350090,Altair,2019,45,45,3,0,0,False
+350100,Altinópolis,2019,197,195,15,1,0,False
+350110,Alto Alegre,2019,34,34,2,0,0,False
+350115,Alumínio,2019,243,243,44,4,4,False
+350120,Álvares Florence,2019,32,32,3,0,0,False
+350130,Álvares Machado,2019,326,326,71,4,4,False
+350140,Álvaro de Carvalho,2019,52,52,13,0,0,False
+350150,Alvinlândia,2019,44,44,4,0,0,False
+350160,Americana,2019,2642,2638,424,5,4,True
+350170,Américo Brasiliense,2019,459,459,59,2,1,False
+350180,Américo de Campos,2019,58,58,3,1,0,False
+350190,Amparo,2019,834,831,92,1,1,False
+350200,Analândia,2019,39,37,1,0,0,False
+350210,Andradina,2019,667,667,84,2,1,False
+350220,Angatuba,2019,307,307,22,0,0,False
+350230,Anhembi,2019,82,82,17,1,1,False
+350240,Anhumas,2019,51,51,5,1,1,False
+350250,Aparecida,2019,417,415,91,2,2,False
+350260,Aparecida d'Oeste,2019,40,40,4,0,0,False
+350270,Apiaí,2019,333,333,59,4,3,False
+350275,Araçariguama,2019,385,385,51,4,3,False
+350280,Araçatuba,2019,2394,2392,394,15,9,True
+350290,Araçoiaba da Serra,2019,371,370,56,0,0,False
+350300,Aramina,2019,64,64,10,0,0,False
+350310,Arandu,2019,90,90,7,0,0,False
+350315,Arapeí,2019,12,12,5,0,0,False
+350320,Araraquara,2019,2598,2594,372,18,13,True
+350330,Araras,2019,1554,1554,186,10,9,True
+350335,Arco-Íris,2019,19,19,4,0,0,False
+350340,Arealva,2019,77,77,16,2,2,False
+350350,Areias,2019,39,39,9,0,0,False
+350360,Areiópolis,2019,120,120,19,0,0,False
+350370,Ariranha,2019,86,86,16,1,0,False
+350380,Artur Nogueira,2019,606,594,109,2,1,False
+350390,Arujá,2019,1389,1387,304,8,6,True
+350395,Aspásia,2019,21,21,2,0,0,False
+350400,Assis,2019,1203,1203,182,8,5,True
+350410,Atibaia,2019,2089,2074,445,37,32,True
+350420,Auriflama,2019,153,153,24,1,1,False
+350430,Avaí,2019,58,58,6,1,1,False
+350440,Avanhandava,2019,127,127,26,2,2,False
+350450,Avaré,2019,1185,1185,212,2,1,True
+350460,Bady Bassitt,2019,307,307,25,2,2,False
+350470,Balbinos,2019,8,8,3,0,0,False
+350480,Bálsamo,2019,93,93,11,0,0,False
+350490,Bananal,2019,88,88,22,0,0,False
+350500,Barão de Antonina,2019,30,30,3,0,0,False
+350510,Barbosa,2019,83,83,11,0,0,False
+350520,Bariri,2019,403,401,44,1,0,False
+350530,Barra Bonita,2019,311,311,56,0,0,False
+350535,Barra do Chapéu,2019,74,74,4,1,1,False
+350540,Barra do Turvo,2019,88,88,19,3,1,False
+350550,Barretos,2019,1435,1428,232,1,1,True
+350560,Barrinha,2019,428,427,79,7,4,False
+350570,Barueri,2019,5729,5724,917,9,7,True
+350580,Bastos,2019,298,298,37,3,2,False
+350590,Batatais,2019,746,740,103,2,2,False
+350600,Bauru,2019,4582,4582,779,77,52,True
+350610,Bebedouro,2019,918,917,202,12,8,False
+350620,Bento de Abreu,2019,34,34,3,0,0,False
+350630,Bernardino de Campos,2019,150,150,18,0,0,False
+350635,Bertioga,2019,963,962,219,1,0,False
+350640,Bilac,2019,83,83,12,0,0,False
+350650,Birigui,2019,1402,1391,275,9,7,True
+350660,Biritiba-Mirim,2019,406,406,87,2,2,False
+350670,Boa Esperança do Sul,2019,169,169,21,0,0,False
+350680,Bocaina,2019,127,127,19,2,2,False
+350690,Bofete,2019,121,121,17,1,1,False
+350700,Boituva,2019,756,753,103,2,1,False
+350710,Bom Jesus dos Perdões,2019,322,322,76,4,2,False
+350715,Bom Sucesso de Itararé,2019,66,66,7,0,0,False
+350720,Borá,2019,12,12,1,0,0,False
+350730,Boracéia,2019,65,64,4,0,0,False
+350740,Borborema,2019,139,139,14,1,0,False
+350745,Borebi,2019,22,22,4,0,0,False
+350750,Botucatu,2019,1722,1721,246,15,13,True
+350760,Bragança Paulista,2019,2116,2114,392,10,3,True
+350770,Braúna,2019,65,65,12,0,0,False
+350775,Brejo Alegre,2019,27,27,2,0,0,False
+350780,Brodowski,2019,311,299,53,1,1,False
+350790,Brotas,2019,300,300,55,0,0,False
+350800,Buri,2019,301,301,53,0,0,False
+350810,Buritama,2019,202,202,26,1,1,False
+350820,Buritizal,2019,48,48,2,0,0,False
+350830,Cabrália Paulista,2019,56,56,6,0,0,False
+350840,Cabreúva,2019,714,714,92,3,0,False
+350850,Caçapava,2019,1242,1240,199,6,5,True
+350860,Cachoeira Paulista,2019,387,387,99,0,0,False
+350870,Caconde,2019,201,198,26,0,0,False
+350880,Cafelândia,2019,245,245,67,1,1,False
+350890,Caiabu,2019,38,38,11,0,0,False
+350900,Caieiras,2019,1367,1366,329,7,5,True
+350910,Caiuá,2019,43,43,15,0,0,False
+350920,Cajamar,2019,1332,1330,313,3,2,True
+350925,Cajati,2019,431,430,57,3,2,False
+350930,Cajobi,2019,114,113,13,0,0,False
+350940,Cajuru,2019,324,324,95,2,0,False
+350945,Campina do Monte Alegre,2019,66,66,7,0,0,False
+350950,Campinas,2019,14583,14320,2476,65,35,True
+350960,Campo Limpo Paulista,2019,943,941,241,1,0,False
+350970,Campos do Jordão,2019,724,719,75,1,1,False
+350980,Campos Novos Paulista,2019,64,64,6,0,0,False
+350990,Cananéia,2019,174,174,56,0,0,False
+350995,Canas,2019,72,72,15,0,0,False
+351000,Cândido Mota,2019,338,337,30,2,2,False
+351010,Cândido Rodrigues,2019,30,30,2,0,0,False
+351015,Canitar,2019,73,73,17,0,0,False
+351020,Capão Bonito,2019,638,638,38,2,2,False
+351030,Capela do Alto,2019,243,243,40,0,0,False
+351040,Capivari,2019,684,684,155,1,1,False
+351050,Caraguatatuba,2019,1714,1713,289,10,7,True
+351060,Carapicuíba,2019,6561,6523,2485,89,60,True
+351070,Cardoso,2019,103,101,11,1,1,False
+351080,Casa Branca,2019,296,293,27,1,1,False
+351090,Cássia dos Coqueiros,2019,21,21,3,0,0,False
+351100,Castilho,2019,257,257,52,0,0,False
+351110,Catanduva,2019,1329,1328,222,4,2,True
+351120,Catiguá,2019,64,64,12,3,2,False
+351130,Cedral,2019,118,118,11,1,1,False
+351140,Cerqueira César,2019,267,267,69,1,1,False
+351150,Cerquilho,2019,508,508,64,0,0,False
+351160,Cesário Lange,2019,233,233,21,1,1,False
+351170,Charqueada,2019,175,175,29,2,2,False
+351190,Clementina,2019,98,97,13,1,0,False
+351200,Colina,2019,201,201,33,0,0,False
+351210,Colômbia,2019,90,90,34,2,2,False
+351220,Conchal,2019,447,447,56,4,2,False
+351230,Conchas,2019,209,209,34,0,0,False
+351240,Cordeirópolis,2019,290,289,36,0,0,False
+351250,Coroados,2019,54,54,10,1,1,False
+351260,Coronel Macedo,2019,52,52,4,0,0,False
+351270,Corumbataí,2019,58,58,4,0,0,False
+351280,Cosmópolis,2019,653,633,89,5,3,False
+351290,Cosmorama,2019,94,93,9,0,0,False
+351300,Cotia,2019,4189,4183,1226,12,7,True
+351310,Cravinhos,2019,400,394,52,3,1,False
+351320,Cristais Paulista,2019,115,115,9,0,0,False
+351330,Cruzália,2019,14,14,1,0,0,False
+351340,Cruzeiro,2019,885,879,278,0,0,False
+351350,Cubatão,2019,1489,1485,372,46,36,True
+351360,Cunha,2019,262,262,58,0,0,False
+351370,Descalvado,2019,341,335,37,0,0,False
+351380,Diadema,2019,5412,5407,972,46,21,True
+351385,Dirce Reis,2019,15,15,3,0,0,False
+351390,Divinolândia,2019,139,139,18,0,0,False
+351400,Dobrada,2019,99,99,19,0,0,False
+351410,Dois Córregos,2019,303,303,61,0,0,False
+351420,Dolcinópolis,2019,22,22,2,0,0,False
+351430,Dourado,2019,90,88,10,0,0,False
+351440,Dracena,2019,496,496,73,10,10,False
+351450,Duartina,2019,150,149,33,1,1,False
+351460,Dumont,2019,108,106,21,0,0,False
+351470,Echaporã,2019,81,81,9,0,0,False
+351480,Eldorado,2019,183,183,34,1,1,False
+351490,Elias Fausto,2019,204,204,35,0,0,False
+351492,Elisiário,2019,35,35,5,0,0,False
+351495,Embaúba,2019,23,23,3,0,0,False
+351500,Embu das Artes,2019,4024,4007,1069,64,36,True
+351510,Embu-Guaçu,2019,857,843,177,9,8,False
+351512,Emilianópolis,2019,33,33,11,1,0,False
+351515,Engenheiro Coelho,2019,261,261,41,0,0,False
+351518,Espírito Santo do Pinhal,2019,441,441,58,2,2,False
+351519,Espírito Santo do Turvo,2019,76,76,5,0,0,False
+351520,Estrela d'Oeste,2019,95,95,22,0,0,False
+351530,Estrela do Norte,2019,42,42,7,0,0,False
+351535,Euclides da Cunha Paulista,2019,102,102,25,0,0,False
+351540,Fartura,2019,226,226,18,0,0,False
+351550,Fernandópolis,2019,754,751,113,2,2,False
+351560,Fernando Prestes,2019,48,48,3,0,0,False
+351565,Fernão,2019,15,15,2,0,0,False
+351570,Ferraz de Vasconcelos,2019,2777,2776,969,22,11,True
+351580,Flora Rica,2019,15,15,4,0,0,False
+351590,Floreal,2019,14,14,1,0,0,False
+351600,Flórida Paulista,2019,112,112,4,0,0,False
+351610,Florínia,2019,31,31,9,0,0,False
+351620,Franca,2019,4657,4636,1255,5,2,True
+351630,Francisco Morato,2019,2838,2837,709,16,8,True
+351640,Franco da Rocha,2019,2160,2160,559,33,23,True
+351650,Gabriel Monteiro,2019,22,22,1,1,1,False
+351660,Gália,2019,64,64,7,0,0,False
+351670,Garça,2019,516,515,121,1,1,False
+351680,Gastão Vidigal,2019,29,29,13,0,0,False
+351685,Gavião Peixoto,2019,78,78,5,0,0,False
+351690,General Salgado,2019,93,93,11,0,0,False
+351700,Getulina,2019,91,91,12,0,0,False
+351710,Glicério,2019,51,51,12,0,0,False
+351720,Guaiçara,2019,142,142,46,2,2,False
+351730,Guaimbê,2019,72,72,9,0,0,False
+351740,Guaíra,2019,487,484,45,0,0,False
+351750,Guapiaçu,2019,238,238,29,1,0,False
+351760,Guapiara,2019,248,248,11,0,0,False
+351770,Guará,2019,219,218,26,0,0,False
+351780,Guaraçaí,2019,75,75,8,0,0,False
+351790,Guaraci,2019,114,114,17,0,0,False
+351800,Guarani d'Oeste,2019,24,24,1,0,0,False
+351810,Guarantã,2019,63,63,15,2,1,False
+351820,Guararapes,2019,357,357,35,1,1,False
+351830,Guararema,2019,412,412,29,0,0,False
+351840,Guaratinguetá,2019,1567,1560,368,18,17,True
+351850,Guareí,2019,158,158,11,1,1,False
+351860,Guariba,2019,480,472,106,10,7,False
+351870,Guarujá,2019,4139,4114,1104,33,11,True
+351880,Guarulhos,2019,20479,20448,7041,296,183,True
+351885,Guatapará,2019,104,102,15,4,4,False
+351890,Guzolândia,2019,49,49,2,0,0,False
+351900,Herculândia,2019,116,116,29,1,0,False
+351905,Holambra,2019,185,183,27,1,0,False
+351907,Hortolândia,2019,2954,2940,570,5,1,True
+351910,Iacanga,2019,154,153,24,0,0,False
+351920,Iacri,2019,63,63,12,0,0,False
+351925,Iaras,2019,77,77,25,0,0,False
+351930,Ibaté,2019,514,504,68,0,0,False
+351940,Ibirá,2019,141,141,28,0,0,False
+351950,Ibirarema,2019,60,60,9,0,0,False
+351960,Ibitinga,2019,757,756,78,2,2,False
+351970,Ibiúna,2019,1050,1047,253,2,1,True
+351980,Icém,2019,89,89,10,0,0,False
+351990,Iepê,2019,77,77,7,0,0,False
+352000,Igaraçu do Tietê,2019,279,279,52,0,0,False
+352010,Igarapava,2019,294,294,41,0,0,False
+352020,Igaratá,2019,139,139,47,1,0,False
+352030,Iguape,2019,330,329,68,6,5,False
+352040,Ilhabela,2019,541,539,80,0,0,False
+352042,Ilha Comprida,2019,150,148,27,3,3,False
+352044,Ilha Solteira,2019,255,255,38,1,0,False
+352050,Indaiatuba,2019,3227,3219,378,8,7,True
+352060,Indiana,2019,56,56,8,0,0,False
+352070,Indiaporã,2019,34,34,2,0,0,False
+352080,Inúbia Paulista,2019,25,25,5,0,0,False
+352090,Ipaussu,2019,187,187,28,0,0,False
+352100,Iperó,2019,367,366,53,2,1,False
+352110,Ipeúna,2019,81,81,11,0,0,False
+352115,Ipiguá,2019,83,83,10,0,0,False
+352120,Iporanga,2019,45,44,11,0,0,False
+352130,Ipuã,2019,169,169,23,0,0,False
+352140,Iracemápolis,2019,252,252,27,0,0,False
+352150,Irapuã,2019,74,74,4,0,0,False
+352160,Irapuru,2019,66,66,16,1,1,False
+352170,Itaberá,2019,259,259,10,1,1,False
+352180,Itaí,2019,327,327,74,0,0,False
+352190,Itajobi,2019,229,229,21,0,0,False
+352200,Itaju,2019,35,35,5,0,0,False
+352210,Itanhaém,2019,1340,1340,259,3,3,True
+352215,Itaóca,2019,39,39,4,0,0,False
+352220,Itapecerica da Serra,2019,2554,2522,646,24,13,True
+352230,Itapetininga,2019,2100,2095,206,12,9,True
+352240,Itapeva,2019,1463,1463,106,1,1,True
+352250,Itapevi,2019,4001,3919,1379,12,0,True
+352260,Itapira,2019,821,820,138,2,2,False
+352265,Itapirapuã Paulista,2019,74,74,7,0,0,False
+352270,Itápolis,2019,467,467,74,0,0,False
+352280,Itaporanga,2019,177,177,19,0,0,False
+352290,Itapuí,2019,193,193,24,1,1,False
+352300,Itapura,2019,49,49,14,0,0,False
+352310,Itaquaquecetuba,2019,5867,5839,2417,87,45,True
+352320,Itararé,2019,621,621,117,3,2,False
+352330,Itariri,2019,159,159,21,0,0,False
+352340,Itatiba,2019,1418,1413,150,2,1,True
+352350,Itatinga,2019,264,264,31,5,3,False
+352360,Itirapina,2019,161,159,39,2,2,False
+352370,Itirapuã,2019,74,74,18,0,0,False
+352380,Itobi,2019,85,84,4,0,0,False
+352390,Itu,2019,2248,2246,466,9,5,True
+352400,Itupeva,2019,869,869,116,2,2,False
+352410,Ituverava,2019,434,434,61,1,1,False
+352420,Jaborandi,2019,62,62,12,0,0,False
+352430,Jaboticabal,2019,766,756,96,10,9,False
+352440,Jacareí,2019,2889,2888,549,22,14,True
+352450,Jaci,2019,94,94,15,0,0,False
+352460,Jacupiranga,2019,228,228,40,5,4,False
+352470,Jaguariúna,2019,778,768,75,0,0,False
+352480,Jales,2019,529,527,90,3,3,False
+352490,Jambeiro,2019,67,67,16,0,0,False
+352500,Jandira,2019,1596,1572,477,13,8,True
+352510,Jardinópolis,2019,593,580,88,4,4,False
+352520,Jarinu,2019,495,494,118,1,1,False
+352530,Jaú,2019,1534,1532,308,4,2,True
+352540,Jeriquara,2019,27,26,2,0,0,False
+352550,Joanópolis,2019,155,155,14,0,0,False
+352560,João Ramalho,2019,49,49,4,1,1,False
+352570,José Bonifácio,2019,449,449,79,1,0,False
+352580,Júlio Mesquita,2019,63,63,11,0,0,False
+352585,Jumirim,2019,40,40,5,0,0,False
+352590,Jundiaí,2019,6144,6130,768,28,19,True
+352600,Junqueirópolis,2019,235,235,47,3,3,False
+352610,Juquiá,2019,281,281,67,0,0,False
+352620,Juquitiba,2019,452,448,112,3,1,False
+352630,Lagoinha,2019,55,54,7,0,0,False
+352640,Laranjal Paulista,2019,362,361,44,0,0,False
+352650,Lavínia,2019,45,45,9,0,0,False
+352660,Lavrinhas,2019,82,82,17,0,0,False
+352670,Leme,2019,1125,1123,106,12,8,True
+352680,Lençóis Paulista,2019,814,809,93,2,0,False
+352690,Limeira,2019,3499,3499,800,22,17,True
+352700,Lindóia,2019,73,71,18,0,0,False
+352710,Lins,2019,905,905,183,2,1,False
+352720,Lorena,2019,1098,1097,259,1,0,True
+352725,Lourdes,2019,13,13,4,0,0,False
+352730,Louveira,2019,808,808,74,2,2,False
+352740,Lucélia,2019,203,203,29,1,1,False
+352750,Lucianópolis,2019,25,25,6,0,0,False
+352760,Luís Antônio,2019,154,148,19,3,3,False
+352770,Luiziânia,2019,56,56,8,0,0,False
+352780,Lupércio,2019,43,43,3,1,1,False
+352790,Lutécia,2019,36,36,7,0,0,False
+352800,Macatuba,2019,201,201,29,1,1,False
+352810,Macaubal,2019,79,77,4,0,0,False
+352820,Macedônia,2019,39,39,12,0,0,False
+352830,Magda,2019,29,28,7,0,0,False
+352840,Mairinque,2019,685,684,128,2,0,False
+352850,Mairiporã,2019,1020,1020,222,4,1,True
+352860,Manduri,2019,115,115,13,0,0,False
+352870,Marabá Paulista,2019,39,39,17,0,0,False
+352880,Maracaí,2019,144,143,11,0,0,False
+352885,Marapoama,2019,31,31,1,0,0,False
+352890,Mariápolis,2019,43,43,6,0,0,False
+352900,Marília,2019,3051,3046,618,26,17,True
+352910,Marinópolis,2019,14,14,3,1,1,False
+352920,Martinópolis,2019,311,311,68,6,6,False
+352930,Matão,2019,943,940,142,0,0,False
+352940,Mauá,2019,5091,5087,1396,54,34,True
+352950,Mendonça,2019,82,82,6,0,0,False
+352960,Meridiano,2019,35,35,2,0,0,False
+352965,Mesópolis,2019,32,32,4,0,0,False
+352970,Miguelópolis,2019,228,227,47,0,0,False
+352980,Mineiros do Tietê,2019,153,153,9,2,1,False
+352990,Miracatu,2019,307,306,80,0,0,False
+353000,Mira Estrela,2019,26,26,2,0,0,False
+353010,Mirandópolis,2019,239,239,67,0,0,False
+353020,Mirante do Paranapanema,2019,174,174,37,5,4,False
+353030,Mirassol,2019,732,730,173,4,2,False
+353040,Mirassolândia,2019,62,62,6,0,0,False
+353050,Mococa,2019,750,747,87,2,2,False
+353060,Mogi das Cruzes,2019,6370,6369,1338,58,43,True
+353070,Mogi Guaçu,2019,1914,1881,300,17,6,True
+353080,Mogi Mirim,2019,1043,1036,157,6,4,True
+353090,Mombuca,2019,50,50,5,0,0,False
+353100,Monções,2019,21,21,3,0,0,False
+353110,Mongaguá,2019,720,720,211,2,0,False
+353120,Monte Alegre do Sul,2019,86,86,6,0,0,False
+353130,Monte Alto,2019,570,567,68,1,1,False
+353140,Monte Aprazível,2019,241,241,26,0,0,False
+353150,Monte Azul Paulista,2019,217,217,41,1,1,False
+353160,Monte Castelo,2019,57,57,13,0,0,False
+353170,Monteiro Lobato,2019,34,33,4,1,0,False
+353180,Monte Mor,2019,964,961,161,1,1,False
+353190,Morro Agudo,2019,381,381,44,0,0,False
+353200,Morungaba,2019,156,154,28,1,1,False
+353205,Motuca,2019,52,52,6,0,0,False
+353210,Murutinga do Sul,2019,27,27,2,0,0,False
+353215,Nantes,2019,39,39,1,0,0,False
+353220,Narandiba,2019,80,80,8,0,0,False
+353230,Natividade da Serra,2019,55,55,10,1,0,False
+353240,Nazaré Paulista,2019,223,223,62,0,0,False
+353250,Neves Paulista,2019,87,87,19,0,0,False
+353260,Nhandeara,2019,71,70,5,0,0,False
+353270,Nipoã,2019,57,57,7,1,1,False
+353280,Nova Aliança,2019,89,89,11,0,0,False
+353282,Nova Campina,2019,142,142,6,0,0,False
+353284,Nova Canaã Paulista,2019,18,18,1,0,0,False
+353286,Nova Castilho,2019,7,7,3,0,0,False
+353290,Nova Europa,2019,114,114,10,0,0,False
+353300,Nova Granada,2019,249,249,59,2,1,False
+353310,Nova Guataporanga,2019,26,26,5,0,0,False
+353320,Nova Independência,2019,60,60,8,0,0,False
+353325,Novais,2019,58,58,21,0,0,False
+353330,Nova Luzitânia,2019,23,23,3,0,0,False
+353340,Nova Odessa,2019,685,683,113,0,0,False
+353350,Novo Horizonte,2019,490,490,56,1,1,False
+353360,Nuporanga,2019,83,83,13,0,0,False
+353370,Ocauçu,2019,71,71,15,2,2,False
+353380,Óleo,2019,24,24,4,0,0,False
+353390,Olímpia,2019,690,690,97,3,2,False
+353400,Onda Verde,2019,69,69,6,0,0,False
+353410,Oriente,2019,67,67,13,0,0,False
+353420,Orindiúva,2019,82,82,7,0,0,False
+353430,Orlândia,2019,474,474,54,0,0,False
+353440,Osasco,2019,9564,9518,3119,99,38,True
+353450,Oscar Bressane,2019,18,18,2,0,0,False
+353460,Osvaldo Cruz,2019,296,296,23,2,0,False
+353470,Ourinhos,2019,1282,1282,268,6,2,True
+353475,Ouroeste,2019,149,149,16,0,0,False
+353480,Ouro Verde,2019,103,103,30,1,1,False
+353490,Pacaembu,2019,108,108,18,2,1,False
+353500,Palestina,2019,123,123,12,0,0,False
+353510,Palmares Paulista,2019,103,103,20,0,0,False
+353520,Palmeira d'Oeste,2019,62,62,2,0,0,False
+353530,Palmital,2019,228,228,30,1,0,False
+353540,Panorama,2019,175,175,35,7,6,False
+353550,Paraguaçu Paulista,2019,488,488,43,0,0,False
+353560,Paraibuna,2019,178,178,71,1,1,False
+353570,Paraíso,2019,63,63,19,0,0,False
+353580,Paranapanema,2019,254,254,24,0,0,False
+353590,Paranapuã,2019,49,49,12,0,0,False
+353600,Parapuã,2019,97,97,11,0,0,False
+353610,Pardinho,2019,107,107,12,1,1,False
+353620,Pariquera-Açu,2019,278,278,34,0,0,False
+353625,Parisi,2019,32,32,4,0,0,False
+353630,Patrocínio Paulista,2019,192,192,39,0,0,False
+353640,Paulicéia,2019,108,108,22,2,2,False
+353650,Paulínia,2019,1526,1505,126,2,1,True
+353657,Paulistânia,2019,24,24,0,1,1,False
+353660,Paulo de Faria,2019,74,74,9,0,0,False
+353670,Pederneiras,2019,547,547,56,4,4,False
+353680,Pedra Bela,2019,80,80,11,0,0,False
+353690,Pedranópolis,2019,18,18,4,0,0,False
+353700,Pedregulho,2019,209,209,23,0,0,False
+353710,Pedreira,2019,488,479,55,1,1,False
+353715,Pedrinhas Paulista,2019,31,31,5,0,0,False
+353720,Pedro de Toledo,2019,108,108,25,1,0,False
+353730,Penápolis,2019,760,758,127,1,1,False
+353740,Pereira Barreto,2019,255,255,61,0,0,False
+353750,Pereiras,2019,95,95,18,0,0,False
+353760,Peruíbe,2019,941,939,169,6,5,False
+353770,Piacatu,2019,59,59,9,1,1,False
+353780,Piedade,2019,685,685,71,0,0,False
+353790,Pilar do Sul,2019,414,407,87,1,0,False
+353800,Pindamonhangaba,2019,2300,2235,325,2,0,True
+353810,Pindorama,2019,130,130,18,0,0,False
+353820,Pinhalzinho,2019,172,172,52,2,0,False
+353830,Piquerobi,2019,28,28,6,0,0,False
+353850,Piquete,2019,130,130,24,0,0,False
+353860,Piracaia,2019,322,322,58,8,6,False
+353870,Piracicaba,2019,4928,4920,800,1,1,True
+353880,Piraju,2019,347,347,63,1,1,False
+353890,Pirajuí,2019,244,244,46,3,3,False
+353900,Pirangi,2019,139,139,18,0,0,False
+353910,Pirapora do Bom Jesus,2019,258,256,62,4,2,False
+353920,Pirapozinho,2019,323,323,47,4,4,False
+353930,Pirassununga,2019,868,866,180,4,0,False
+353940,Piratininga,2019,166,166,21,1,1,False
+353950,Pitangueiras,2019,471,469,57,5,4,False
+353960,Planalto,2019,51,51,5,1,0,False
+353970,Platina,2019,33,33,4,0,0,False
+353980,Poá,2019,1456,1453,396,8,5,True
+353990,Poloni,2019,66,66,11,0,0,False
+354000,Pompéia,2019,224,224,31,2,2,False
+354010,Pongaí,2019,28,28,5,0,0,False
+354020,Pontal,2019,520,518,72,5,5,False
+354025,Pontalinda,2019,52,52,8,1,1,False
+354030,Pontes Gestal,2019,31,31,2,0,0,False
+354040,Populina,2019,47,47,11,1,1,False
+354050,Porangaba,2019,94,94,18,0,0,False
+354060,Porto Feliz,2019,698,698,70,0,0,False
+354070,Porto Ferreira,2019,596,586,131,4,3,False
+354075,Potim,2019,231,231,46,0,0,False
+354080,Potirendaba,2019,229,229,27,2,2,False
+354085,Pracinha,2019,7,7,0,0,0,False
+354090,Pradópolis,2019,211,208,22,4,2,False
+354100,Praia Grande,2019,4245,4244,739,41,21,True
+354105,Pratânia,2019,80,80,9,1,1,False
+354110,Presidente Alves,2019,35,35,7,0,0,False
+354120,Presidente Bernardes,2019,112,112,18,2,1,False
+354130,Presidente Epitácio,2019,451,444,139,8,6,False
+354140,Presidente Prudente,2019,2770,2770,414,24,21,True
+354150,Presidente Venceslau,2019,370,369,86,5,4,False
+354160,Promissão,2019,428,428,76,1,1,False
+354165,Quadra,2019,44,44,2,0,0,False
+354170,Quatá,2019,178,178,12,1,1,False
+354180,Queiroz,2019,44,44,4,0,0,False
+354190,Queluz,2019,105,105,39,0,0,False
+354200,Quintana,2019,89,89,11,0,0,False
+354210,Rafard,2019,114,114,23,0,0,False
+354220,Rancharia,2019,364,364,43,4,3,False
+354230,Redenção da Serra,2019,51,51,17,1,1,False
+354240,Regente Feijó,2019,223,223,33,3,3,False
+354250,Reginópolis,2019,44,44,16,1,0,False
+354260,Registro,2019,879,876,145,2,1,False
+354270,Restinga,2019,87,87,18,0,0,False
+354280,Ribeira,2019,41,41,6,0,0,False
+354290,Ribeirão Bonito,2019,158,156,23,0,0,False
+354300,Ribeirão Branco,2019,287,287,29,1,1,False
+354310,Ribeirão Corrente,2019,78,77,22,0,0,False
+354320,Ribeirão do Sul,2019,55,55,3,0,0,False
+354323,Ribeirão dos Índios,2019,22,22,6,0,0,False
+354325,Ribeirão Grande,2019,100,100,6,0,0,False
+354330,Ribeirão Pires,2019,1432,1429,398,6,3,True
+354340,Ribeirão Preto,2019,8153,7968,944,47,31,True
+354350,Riversul,2019,81,81,7,1,0,False
+354360,Rifaina,2019,56,56,9,0,0,False
+354370,Rincão,2019,106,105,20,1,1,False
+354380,Rinópolis,2019,97,97,8,0,0,False
+354390,Rio Claro,2019,2522,2518,396,9,5,True
+354400,Rio das Pedras,2019,407,407,77,0,0,False
+354410,Rio Grande da Serra,2019,501,500,172,6,1,False
+354420,Riolândia,2019,110,110,8,0,0,False
+354425,Rosana,2019,204,204,21,1,1,False
+354430,Roseira,2019,142,139,31,0,0,False
+354440,Rubiácea,2019,21,21,0,0,0,False
+354450,Rubinéia,2019,32,32,6,0,0,False
+354460,Sabino,2019,57,57,13,0,0,False
+354470,Sagres,2019,28,28,9,0,0,False
+354480,Sales,2019,53,53,5,2,0,False
+354490,Sales Oliveira,2019,113,113,6,0,0,False
+354500,Salesópolis,2019,212,212,100,0,0,False
+354510,Salmourão,2019,76,76,22,1,0,False
+354515,Saltinho,2019,93,93,10,0,0,False
+354520,Salto,2019,1663,1659,258,1,1,True
+354530,Salto de Pirapora,2019,515,514,52,2,2,False
+354540,Salto Grande,2019,94,94,14,1,0,False
+354550,Sandovalina,2019,47,47,10,0,0,False
+354560,Santa Adélia,2019,150,150,15,4,2,False
+354570,Santa Albertina,2019,82,82,9,0,0,False
+354580,Santa Bárbara d'Oeste,2019,2188,2186,328,15,11,True
+354600,Santa Branca,2019,153,153,35,1,1,False
+354610,Santa Clara d'Oeste,2019,33,33,6,0,0,False
+354620,Santa Cruz da Conceição,2019,27,27,2,0,0,False
+354625,Santa Cruz da Esperança,2019,14,14,4,0,0,False
+354630,Santa Cruz das Palmeiras,2019,371,370,26,1,1,False
+354640,Santa Cruz do Rio Pardo,2019,605,605,32,0,0,False
+354650,Santa Ernestina,2019,65,65,9,0,0,False
+354660,Santa Fé do Sul,2019,413,413,51,0,0,False
+354670,Santa Gertrudes,2019,310,310,35,3,1,False
+354680,Santa Isabel,2019,729,729,183,8,6,False
+354690,Santa Lúcia,2019,86,85,17,0,0,False
+354700,Santa Maria da Serra,2019,68,67,11,0,0,False
+354710,Santa Mercedes,2019,28,28,9,0,0,False
+354720,Santana da Ponte Pensa,2019,12,12,1,0,0,False
+354730,Santana de Parnaíba,2019,2333,2325,334,11,8,True
+354740,Santa Rita d'Oeste,2019,27,27,3,0,0,False
+354750,Santa Rita do Passa Quatro,2019,228,226,28,1,1,False
+354760,Santa Rosa de Viterbo,2019,232,228,44,1,0,False
+354765,Santa Salete,2019,15,15,0,0,0,False
+354770,Santo Anastácio,2019,202,202,27,0,0,False
+354780,Santo André,2019,8990,8988,2075,61,44,True
+354790,Santo Antônio da Alegria,2019,75,75,11,0,0,False
+354800,Santo Antônio de Posse,2019,269,264,41,1,1,False
+354805,Santo Antônio do Aracanguá,2019,112,112,24,0,0,False
+354810,Santo Antônio do Jardim,2019,64,64,4,0,0,False
+354820,Santo Antônio do Pinhal,2019,88,86,15,0,0,False
+354830,Santo Expedito,2019,34,34,5,1,1,False
+354840,Santópolis do Aguapeí,2019,52,52,1,0,0,False
+354850,Santos,2019,4364,4357,738,42,6,True
+354860,São Bento do Sapucaí,2019,106,106,11,0,0,False
+354870,São Bernardo do Campo,2019,9889,9888,1803,72,47,True
+354880,São Caetano do Sul,2019,1631,1631,253,4,2,True
+354890,São Carlos,2019,2961,2855,417,27,20,True
+354900,São Francisco,2019,22,22,5,0,0,False
+354910,São João da Boa Vista,2019,1005,1003,159,1,0,True
+354920,São João das Duas Pontes,2019,33,33,7,1,1,False
+354925,São João de Iracema,2019,16,16,1,0,0,False
+354930,São João do Pau d'Alho,2019,31,31,8,0,0,False
+354940,São Joaquim da Barra,2019,553,553,90,2,1,False
+354950,São José da Bela Vista,2019,87,86,16,2,2,False
+354960,São José do Barreiro,2019,39,39,8,0,0,False
+354970,São José do Rio Pardo,2019,661,658,90,0,0,False
+354980,São José do Rio Preto,2019,5678,5678,655,21,17,True
+354990,São José dos Campos,2019,9076,9056,1499,55,38,True
+354995,São Lourenço da Serra,2019,196,192,43,2,0,False
+355000,São Luís do Paraitinga,2019,97,96,19,1,1,False
+355010,São Manuel,2019,426,425,61,7,7,False
+355020,São Miguel Arcanjo,2019,407,407,57,1,1,False
+355030,São Paulo,2019,158587,158559,29712,1159,681,True
+355040,São Pedro,2019,419,419,53,1,1,False
+355050,São Pedro do Turvo,2019,93,93,14,1,0,False
+355060,São Roque,2019,1063,1061,177,1,0,True
+355070,São Sebastião,2019,1231,1218,235,36,23,True
+355080,São Sebastião da Grama,2019,102,101,7,0,0,False
+355090,São Simão,2019,145,139,21,1,1,False
+355100,São Vicente,2019,4298,4292,1211,58,29,True
+355110,Sarapuí,2019,109,109,16,0,0,False
+355120,Sarutaiá,2019,50,50,5,1,1,False
+355130,Sebastianópolis do Sul,2019,37,37,9,0,0,False
+355140,Serra Azul,2019,111,105,7,1,0,False
+355150,Serrana,2019,615,602,94,10,6,False
+355160,Serra Negra,2019,316,315,57,1,1,False
+355170,Sertãozinho,2019,1629,1619,255,20,12,True
+355180,Sete Barras,2019,195,195,47,1,0,False
+355190,Severínia,2019,205,205,38,1,0,False
+355200,Silveiras,2019,67,67,13,0,0,False
+355210,Socorro,2019,437,436,75,6,3,False
+355220,Sorocaba,2019,8914,8891,1200,37,28,True
+355230,Sud Mennucci,2019,86,86,7,0,0,False
+355240,Sumaré,2019,3889,3870,649,20,17,True
+355250,Suzano,2019,4287,4285,1108,16,5,True
+355255,Suzanápolis,2019,29,29,6,0,0,False
+355260,Tabapuã,2019,113,113,17,0,0,False
+355270,Tabatinga,2019,200,200,36,0,0,False
+355280,Taboão da Serra,2019,4055,4055,819,30,19,True
+355290,Taciba,2019,77,77,2,2,2,False
+355300,Taguaí,2019,200,200,17,0,0,False
+355310,Taiaçu,2019,72,72,11,0,0,False
+355320,Taiúva,2019,47,47,6,0,0,False
+355330,Tambaú,2019,283,281,46,0,0,False
+355340,Tanabi,2019,281,281,54,4,4,False
+355350,Tapiraí,2019,97,97,11,0,0,False
+355360,Tapiratiba,2019,112,112,3,1,1,False
+355365,Taquaral,2019,28,28,2,0,0,False
+355370,Taquaritinga,2019,568,568,80,1,0,False
+355380,Taquarituba,2019,331,331,23,1,1,False
+355385,Taquarivaí,2019,108,108,14,0,0,False
+355390,Tarabai,2019,85,85,31,3,2,False
+355395,Tarumã,2019,190,190,24,0,0,False
+355400,Tatuí,2019,1602,1602,184,5,4,True
+355410,Taubaté,2019,3851,3819,783,42,39,True
+355420,Tejupá,2019,74,74,8,0,0,False
+355430,Teodoro Sampaio,2019,328,328,24,5,5,False
+355440,Terra Roxa,2019,94,94,18,0,0,False
+355450,Tietê,2019,486,483,54,0,0,False
+355460,Timburi,2019,21,21,5,0,0,False
+355465,Torre de Pedra,2019,29,29,0,0,0,False
+355470,Torrinha,2019,97,97,15,2,2,False
+355475,Trabiju,2019,27,27,6,0,0,False
+355480,Tremembé,2019,574,572,172,2,2,False
+355490,Três Fronteiras,2019,70,70,20,0,0,False
+355495,Tuiuti,2019,64,64,11,0,0,False
+355500,Tupã,2019,695,695,109,6,4,False
+355510,Tupi Paulista,2019,126,126,23,6,6,False
+355520,Turiúba,2019,15,15,0,0,0,False
+355530,Turmalina,2019,11,11,1,0,0,False
+355535,Ubarana,2019,89,89,11,0,0,False
+355540,Ubatuba,2019,1312,1310,291,9,7,True
+355550,Ubirajara,2019,66,66,13,0,0,False
+355560,Uchoa,2019,111,111,15,0,0,False
+355570,União Paulista,2019,24,24,4,0,0,False
+355580,Urânia,2019,90,90,11,0,0,False
+355590,Uru,2019,11,11,3,0,0,False
+355600,Urupês,2019,118,118,17,0,0,False
+355610,Valentim Gentil,2019,178,178,18,0,0,False
+355620,Valinhos,2019,1362,1354,162,1,1,True
+355630,Valparaíso,2019,304,304,37,1,1,False
+355635,Vargem,2019,108,108,21,1,1,False
+355640,Vargem Grande do Sul,2019,529,526,78,2,1,False
+355645,Vargem Grande Paulista,2019,816,814,162,1,1,False
+355650,Várzea Paulista,2019,1368,1363,241,8,7,True
+355660,Vera Cruz,2019,110,109,29,0,0,False
+355670,Vinhedo,2019,939,937,104,7,6,False
+355680,Viradouro,2019,233,233,67,4,0,False
+355690,Vista Alegre do Alto,2019,115,114,18,0,0,False
+355695,Vitória Brasil,2019,19,19,2,0,0,False
+355700,Votorantim,2019,1642,1642,216,2,2,True
+355710,Votuporanga,2019,1166,1159,81,2,1,True
+355715,Zacarias,2019,25,25,4,0,0,False
+355720,Chavantes,2019,154,154,30,0,0,False
+355730,Estiva Gerbi,2019,145,144,29,0,0,False
+350010,Adamantina,2020,383,382,35,3,3,False
+350020,Adolfo,2020,44,44,12,0,0,False
+350030,Aguaí,2020,383,381,68,0,0,False
+350040,Águas da Prata,2020,66,65,10,1,1,False
+350050,Águas de Lindóia,2020,249,244,54,1,1,False
+350055,Águas de Santa Bárbara,2020,72,72,17,1,1,False
+350060,Águas de São Pedro,2020,35,35,1,0,0,False
+350070,Agudos,2020,491,490,113,0,0,False
+350075,Alambari,2020,64,62,4,0,0,False
+350080,Alfredo Marcondes,2020,40,40,6,1,1,False
+350090,Altair,2020,35,35,0,0,0,False
+350100,Altinópolis,2020,164,158,30,1,1,False
+350110,Alto Alegre,2020,37,37,11,0,0,False
+350115,Alumínio,2020,201,201,44,0,0,False
+350120,Álvares Florence,2020,32,31,2,0,0,False
+350130,Álvares Machado,2020,319,318,56,6,4,False
+350140,Álvaro de Carvalho,2020,33,33,12,0,0,False
+350150,Alvinlândia,2020,36,36,9,0,0,False
+350160,Americana,2020,2425,2420,342,6,4,True
+350170,Américo Brasiliense,2020,414,413,46,1,1,False
+350180,Américo de Campos,2020,60,60,5,0,0,False
+350190,Amparo,2020,775,772,86,0,0,False
+350200,Analândia,2020,42,41,5,0,0,False
+350210,Andradina,2020,641,641,73,1,1,False
+350220,Angatuba,2020,316,314,35,0,0,False
+350230,Anhembi,2020,69,69,12,2,2,False
+350240,Anhumas,2020,56,56,8,0,0,False
+350250,Aparecida,2020,352,351,73,1,1,False
+350260,Aparecida d'Oeste,2020,34,34,5,0,0,False
+350270,Apiaí,2020,363,363,47,0,0,False
+350275,Araçariguama,2020,334,334,38,0,0,False
+350280,Araçatuba,2020,2199,2197,346,16,13,True
+350290,Araçoiaba da Serra,2020,353,353,73,0,0,False
+350300,Aramina,2020,73,73,14,0,0,False
+350310,Arandu,2020,83,83,14,1,0,False
+350315,Arapeí,2020,13,13,3,0,0,False
+350320,Araraquara,2020,2582,2576,328,9,7,True
+350330,Araras,2020,1498,1498,194,9,6,True
+350335,Arco-Íris,2020,22,22,3,0,0,False
+350340,Arealva,2020,110,110,18,0,0,False
+350350,Areias,2020,35,35,15,0,0,False
+350360,Areiópolis,2020,129,129,13,2,1,False
+350370,Ariranha,2020,60,60,11,0,0,False
+350380,Artur Nogueira,2020,587,566,101,2,1,False
+350390,Arujá,2020,1363,1360,265,6,5,True
+350395,Aspásia,2020,23,23,1,0,0,False
+350400,Assis,2020,1084,1084,182,4,2,True
+350410,Atibaia,2020,1964,1959,427,13,9,True
+350420,Auriflama,2020,158,158,24,0,0,False
+350430,Avaí,2020,71,71,12,0,0,False
+350440,Avanhandava,2020,125,125,22,0,0,False
+350450,Avaré,2020,1225,1225,227,2,2,True
+350460,Bady Bassitt,2020,327,327,34,1,1,False
+350470,Balbinos,2020,11,11,1,0,0,False
+350480,Bálsamo,2020,93,93,13,1,1,False
+350490,Bananal,2020,92,92,24,0,0,False
+350500,Barão de Antonina,2020,47,47,10,0,0,False
+350510,Barbosa,2020,64,64,9,0,0,False
+350520,Bariri,2020,373,371,86,0,0,False
+350530,Barra Bonita,2020,291,290,55,1,1,False
+350535,Barra do Chapéu,2020,85,85,8,0,0,False
+350540,Barra do Turvo,2020,89,89,19,1,1,False
+350550,Barretos,2020,1441,1441,233,3,2,True
+350560,Barrinha,2020,449,441,86,6,4,False
+350570,Barueri,2020,5488,5476,1065,13,5,True
+350580,Bastos,2020,256,256,31,1,1,False
+350590,Batatais,2020,725,719,82,3,3,False
+350600,Bauru,2020,4384,4382,746,73,50,True
+350610,Bebedouro,2020,914,911,263,5,2,False
+350620,Bento de Abreu,2020,32,32,6,0,0,False
+350630,Bernardino de Campos,2020,97,97,15,1,0,False
+350635,Bertioga,2020,955,955,198,4,3,False
+350640,Bilac,2020,64,64,7,0,0,False
+350650,Birigui,2020,1268,1264,226,17,12,True
+350660,Biritiba-Mirim,2020,345,345,64,1,1,False
+350670,Boa Esperança do Sul,2020,183,183,28,0,0,False
+350680,Bocaina,2020,126,126,13,3,3,False
+350690,Bofete,2020,99,99,9,0,0,False
+350700,Boituva,2020,762,760,101,0,0,False
+350710,Bom Jesus dos Perdões,2020,336,336,74,4,2,False
+350715,Bom Sucesso de Itararé,2020,64,64,6,0,0,False
+350720,Borá,2020,15,15,0,0,0,False
+350730,Boracéia,2020,56,56,9,0,0,False
+350740,Borborema,2020,136,136,20,0,0,False
+350745,Borebi,2020,41,41,8,1,1,False
+350750,Botucatu,2020,1646,1645,205,8,6,True
+350760,Bragança Paulista,2020,2161,2157,408,2,0,True
+350770,Braúna,2020,60,60,8,1,1,False
+350775,Brejo Alegre,2020,17,17,4,1,1,False
+350780,Brodowski,2020,294,290,53,6,3,False
+350790,Brotas,2020,295,295,41,0,0,False
+350800,Buri,2020,311,311,40,0,0,False
+350810,Buritama,2020,174,174,11,0,0,False
+350820,Buritizal,2020,50,50,6,0,0,False
+350830,Cabrália Paulista,2020,46,46,8,0,0,False
+350840,Cabreúva,2020,728,728,97,3,3,False
+350850,Caçapava,2020,1135,1133,186,14,7,True
+350860,Cachoeira Paulista,2020,436,436,108,1,1,False
+350870,Caconde,2020,215,215,14,0,0,False
+350880,Cafelândia,2020,224,224,58,1,1,False
+350890,Caiabu,2020,49,49,16,0,0,False
+350900,Caieiras,2020,1287,1286,328,11,5,True
+350910,Caiuá,2020,31,31,9,0,0,False
+350920,Cajamar,2020,1320,1319,290,4,3,True
+350925,Cajati,2020,430,430,46,6,3,False
+350930,Cajobi,2020,99,99,20,0,0,False
+350940,Cajuru,2020,318,317,94,0,0,False
+350945,Campina do Monte Alegre,2020,80,80,11,0,0,False
+350950,Campinas,2020,13637,13128,2228,67,37,True
+350960,Campo Limpo Paulista,2020,913,910,194,3,1,False
+350970,Campos do Jordão,2020,675,674,83,1,0,False
+350980,Campos Novos Paulista,2020,57,56,9,0,0,False
+350990,Cananéia,2020,173,173,65,2,1,False
+350995,Canas,2020,73,73,15,0,0,False
+351000,Cândido Mota,2020,332,332,51,3,3,False
+351010,Cândido Rodrigues,2020,22,22,1,0,0,False
+351015,Canitar,2020,90,90,8,1,0,False
+351020,Capão Bonito,2020,580,579,47,2,2,False
+351030,Capela do Alto,2020,290,290,67,0,0,False
+351040,Capivari,2020,692,691,148,1,0,False
+351050,Caraguatatuba,2020,1774,1774,260,3,2,True
+351060,Carapicuíba,2020,5671,5617,2352,99,42,True
+351070,Cardoso,2020,95,95,6,0,0,False
+351080,Casa Branca,2020,275,271,21,0,0,False
+351090,Cássia dos Coqueiros,2020,14,14,3,0,0,False
+351100,Castilho,2020,192,192,44,0,0,False
+351110,Catanduva,2020,1288,1288,241,0,0,True
+351120,Catiguá,2020,74,74,11,0,0,False
+351130,Cedral,2020,119,119,12,0,0,False
+351140,Cerqueira César,2020,233,233,44,0,0,False
+351150,Cerquilho,2020,467,467,40,1,1,False
+351160,Cesário Lange,2020,240,240,32,0,0,False
+351170,Charqueada,2020,181,181,29,1,1,False
+351190,Clementina,2020,85,85,11,4,4,False
+351200,Colina,2020,191,191,34,1,1,False
+351210,Colômbia,2020,67,67,12,0,0,False
+351220,Conchal,2020,398,398,43,2,2,False
+351230,Conchas,2020,165,164,17,0,0,False
+351240,Cordeirópolis,2020,297,297,28,0,0,False
+351250,Coroados,2020,59,59,12,4,3,False
+351260,Coronel Macedo,2020,51,51,8,0,0,False
+351270,Corumbataí,2020,57,57,5,0,0,False
+351280,Cosmópolis,2020,640,625,76,4,2,False
+351290,Cosmorama,2020,98,98,12,1,1,False
+351300,Cotia,2020,3978,3919,1193,9,2,True
+351310,Cravinhos,2020,396,388,53,5,2,False
+351320,Cristais Paulista,2020,104,104,22,2,1,False
+351330,Cruzália,2020,22,22,2,0,0,False
+351340,Cruzeiro,2020,877,877,289,1,1,False
+351350,Cubatão,2020,1600,1593,372,53,30,True
+351360,Cunha,2020,231,231,36,0,0,False
+351370,Descalvado,2020,350,347,46,1,0,False
+351380,Diadema,2020,4805,4798,902,30,13,True
+351385,Dirce Reis,2020,25,25,7,0,0,False
+351390,Divinolândia,2020,118,118,4,0,0,False
+351400,Dobrada,2020,103,102,22,0,0,False
+351410,Dois Córregos,2020,285,281,69,0,0,False
+351420,Dolcinópolis,2020,30,30,2,0,0,False
+351430,Dourado,2020,75,75,12,0,0,False
+351440,Dracena,2020,471,468,67,7,4,False
+351450,Duartina,2020,126,126,19,0,0,False
+351460,Dumont,2020,111,106,11,0,0,False
+351470,Echaporã,2020,85,84,6,0,0,False
+351480,Eldorado,2020,191,191,44,0,0,False
+351490,Elias Fausto,2020,208,208,26,1,1,False
+351492,Elisiário,2020,22,22,7,0,0,False
+351495,Embaúba,2020,28,28,5,0,0,False
+351500,Embu das Artes,2020,3588,3586,862,63,33,True
+351510,Embu-Guaçu,2020,845,838,160,8,3,False
+351512,Emilianópolis,2020,32,32,6,1,1,False
+351515,Engenheiro Coelho,2020,277,277,54,0,0,False
+351518,Espírito Santo do Pinhal,2020,434,431,45,0,0,False
+351519,Espírito Santo do Turvo,2020,54,54,5,0,0,False
+351520,Estrela d'Oeste,2020,89,89,17,0,0,False
+351530,Estrela do Norte,2020,29,29,3,0,0,False
+351535,Euclides da Cunha Paulista,2020,102,102,12,0,0,False
+351540,Fartura,2020,189,189,13,1,0,False
+351550,Fernandópolis,2020,690,690,115,0,0,False
+351560,Fernando Prestes,2020,55,55,11,0,0,False
+351565,Fernão,2020,19,19,1,1,1,False
+351570,Ferraz de Vasconcelos,2020,2607,2604,870,21,10,True
+351580,Flora Rica,2020,14,14,3,0,0,False
+351590,Floreal,2020,23,22,3,0,0,False
+351600,Flórida Paulista,2020,115,115,15,0,0,False
+351610,Florínia,2020,31,31,5,0,0,False
+351620,Franca,2020,4446,4432,1229,12,7,True
+351630,Francisco Morato,2020,2604,2600,651,37,27,True
+351640,Franco da Rocha,2020,1955,1954,448,23,10,True
+351650,Gabriel Monteiro,2020,30,30,2,1,1,False
+351660,Gália,2020,62,61,11,0,0,False
+351670,Garça,2020,484,483,108,2,1,False
+351680,Gastão Vidigal,2020,45,45,10,0,0,False
+351685,Gavião Peixoto,2020,69,69,4,0,0,False
+351690,General Salgado,2020,85,85,14,0,0,False
+351700,Getulina,2020,87,87,14,0,0,False
+351710,Glicério,2020,45,45,12,1,0,False
+351720,Guaiçara,2020,144,144,35,1,0,False
+351730,Guaimbê,2020,75,75,14,0,0,False
+351740,Guaíra,2020,424,424,35,3,3,False
+351750,Guapiaçu,2020,251,251,43,2,2,False
+351760,Guapiara,2020,194,194,12,1,1,False
+351770,Guará,2020,195,195,9,0,0,False
+351780,Guaraçaí,2020,66,66,5,1,1,False
+351790,Guaraci,2020,111,111,14,2,1,False
+351800,Guarani d'Oeste,2020,15,15,2,0,0,False
+351810,Guarantã,2020,52,52,10,2,2,False
+351820,Guararapes,2020,340,340,24,0,0,False
+351830,Guararema,2020,432,431,29,1,1,False
+351840,Guaratinguetá,2020,1479,1479,294,8,5,True
+351850,Guareí,2020,144,143,9,1,1,False
+351860,Guariba,2020,485,481,105,8,7,False
+351870,Guarujá,2020,3975,3947,934,35,18,True
+351880,Guarulhos,2020,19175,19158,6955,292,187,True
+351885,Guatapará,2020,85,85,11,1,1,False
+351890,Guzolândia,2020,55,55,11,0,0,False
+351900,Herculândia,2020,114,114,41,1,1,False
+351905,Holambra,2020,213,207,45,0,0,False
+351907,Hortolândia,2020,2832,2820,492,2,0,True
+351910,Iacanga,2020,121,121,29,2,2,False
+351920,Iacri,2020,58,58,6,0,0,False
+351925,Iaras,2020,78,78,19,0,0,False
+351930,Ibaté,2020,482,479,58,3,2,False
+351940,Ibirá,2020,131,131,29,1,1,False
+351950,Ibirarema,2020,70,70,12,0,0,False
+351960,Ibitinga,2020,743,741,82,0,0,False
+351970,Ibiúna,2020,992,987,258,1,0,False
+351980,Icém,2020,85,85,16,0,0,False
+351990,Iepê,2020,81,81,5,1,1,False
+352000,Igaraçu do Tietê,2020,263,263,54,1,0,False
+352010,Igarapava,2020,285,285,42,0,0,False
+352020,Igaratá,2020,142,142,50,1,1,False
+352030,Iguape,2020,325,325,67,6,4,False
+352040,Ilhabela,2020,488,488,57,0,0,False
+352042,Ilha Comprida,2020,145,145,26,5,4,False
+352044,Ilha Solteira,2020,225,225,24,0,0,False
+352050,Indaiatuba,2020,3113,3107,290,16,5,True
+352060,Indiana,2020,60,60,7,0,0,False
+352070,Indiaporã,2020,29,29,2,0,0,False
+352080,Inúbia Paulista,2020,34,34,7,0,0,False
+352090,Ipaussu,2020,178,178,31,0,0,False
+352100,Iperó,2020,351,351,33,3,1,False
+352110,Ipeúna,2020,79,79,4,0,0,False
+352115,Ipiguá,2020,86,86,9,0,0,False
+352120,Iporanga,2020,34,34,10,0,0,False
+352130,Ipuã,2020,160,160,7,0,0,False
+352140,Iracemápolis,2020,259,259,30,0,0,False
+352150,Irapuã,2020,91,91,10,0,0,False
+352160,Irapuru,2020,54,54,13,1,1,False
+352170,Itaberá,2020,235,235,12,1,1,False
+352180,Itaí,2020,292,292,65,2,1,False
+352190,Itajobi,2020,178,178,30,0,0,False
+352200,Itaju,2020,40,39,8,0,0,False
+352210,Itanhaém,2020,1403,1403,262,4,3,True
+352215,Itaóca,2020,34,33,3,0,0,False
+352220,Itapecerica da Serra,2020,2401,2373,672,14,6,True
+352230,Itapetininga,2020,2086,2082,176,13,12,True
+352240,Itapeva,2020,1374,1374,93,3,3,True
+352250,Itapevi,2020,3778,3695,1408,9,7,True
+352260,Itapira,2020,701,695,123,0,0,False
+352265,Itapirapuã Paulista,2020,75,75,3,0,0,False
+352270,Itápolis,2020,415,414,70,0,0,False
+352280,Itaporanga,2020,174,174,13,0,0,False
+352290,Itapuí,2020,194,194,22,1,1,False
+352300,Itapura,2020,43,43,6,0,0,False
+352310,Itaquaquecetuba,2020,5589,5481,1986,111,64,True
+352320,Itararé,2020,569,569,184,0,0,False
+352330,Itariri,2020,161,161,24,0,0,False
+352340,Itatiba,2020,1348,1339,157,1,0,True
+352350,Itatinga,2020,237,237,24,3,2,False
+352360,Itirapina,2020,159,159,26,1,1,False
+352370,Itirapuã,2020,71,71,24,0,0,False
+352380,Itobi,2020,95,94,5,0,0,False
+352390,Itu,2020,2245,2242,410,5,2,True
+352400,Itupeva,2020,842,840,118,2,2,False
+352410,Ituverava,2020,481,481,75,0,0,False
+352420,Jaborandi,2020,59,59,12,0,0,False
+352430,Jaboticabal,2020,753,751,112,10,9,False
+352440,Jacareí,2020,2774,2774,558,16,13,True
+352450,Jaci,2020,105,105,13,1,1,False
+352460,Jacupiranga,2020,238,238,27,2,1,False
+352470,Jaguariúna,2020,707,688,93,0,0,False
+352480,Jales,2020,530,530,82,3,1,False
+352490,Jambeiro,2020,65,65,13,0,0,False
+352500,Jandira,2020,1483,1465,461,9,3,True
+352510,Jardinópolis,2020,546,534,55,3,2,False
+352520,Jarinu,2020,414,413,70,1,1,False
+352530,Jaú,2020,1495,1494,344,10,7,True
+352540,Jeriquara,2020,43,43,4,0,0,False
+352550,Joanópolis,2020,152,151,12,2,2,False
+352560,João Ramalho,2020,54,54,8,0,0,False
+352570,José Bonifácio,2020,424,424,72,3,3,False
+352580,Júlio Mesquita,2020,57,57,14,0,0,False
+352585,Jumirim,2020,35,35,3,0,0,False
+352590,Jundiaí,2020,5794,5771,686,30,17,True
+352600,Junqueirópolis,2020,216,216,41,0,0,False
+352610,Juquiá,2020,238,237,66,0,0,False
+352620,Juquitiba,2020,426,425,106,1,0,False
+352630,Lagoinha,2020,37,37,8,1,1,False
+352640,Laranjal Paulista,2020,370,370,55,0,0,False
+352650,Lavínia,2020,43,43,5,0,0,False
+352660,Lavrinhas,2020,107,107,23,0,0,False
+352670,Leme,2020,1210,1210,120,3,1,True
+352680,Lençóis Paulista,2020,807,803,105,1,1,False
+352690,Limeira,2020,3343,3342,797,11,9,True
+352700,Lindóia,2020,72,67,18,0,0,False
+352710,Lins,2020,868,868,163,4,1,False
+352720,Lorena,2020,1040,1038,228,10,9,True
+352725,Lourdes,2020,21,21,8,0,0,False
+352730,Louveira,2020,781,779,54,1,1,False
+352740,Lucélia,2020,192,192,35,2,2,False
+352750,Lucianópolis,2020,28,28,5,0,0,False
+352760,Luís Antônio,2020,150,148,24,0,0,False
+352770,Luiziânia,2020,53,53,7,1,0,False
+352780,Lupércio,2020,48,48,9,1,1,False
+352790,Lutécia,2020,23,23,3,0,0,False
+352800,Macatuba,2020,200,200,33,1,0,False
+352810,Macaubal,2020,66,66,5,0,0,False
+352820,Macedônia,2020,36,36,5,0,0,False
+352830,Magda,2020,20,20,0,0,0,False
+352840,Mairinque,2020,653,652,118,2,2,False
+352850,Mairiporã,2020,1053,1051,222,9,6,True
+352860,Manduri,2020,92,92,16,0,0,False
+352870,Marabá Paulista,2020,38,38,5,0,0,False
+352880,Maracaí,2020,168,168,10,0,0,False
+352885,Marapoama,2020,37,37,3,0,0,False
+352890,Mariápolis,2020,32,32,2,0,0,False
+352900,Marília,2020,2932,2928,598,17,11,True
+352910,Marinópolis,2020,15,15,0,0,0,False
+352920,Martinópolis,2020,277,277,51,2,1,False
+352930,Matão,2020,872,870,119,0,0,False
+352940,Mauá,2020,4909,4903,1195,47,25,True
+352950,Mendonça,2020,73,73,8,0,0,False
+352960,Meridiano,2020,46,46,7,0,0,False
+352965,Mesópolis,2020,19,19,3,0,0,False
+352970,Miguelópolis,2020,264,262,97,1,1,False
+352980,Mineiros do Tietê,2020,119,119,13,0,0,False
+352990,Miracatu,2020,271,271,56,0,0,False
+353000,Mira Estrela,2020,24,24,3,0,0,False
+353010,Mirandópolis,2020,230,230,60,0,0,False
+353020,Mirante do Paranapanema,2020,163,163,15,2,1,False
+353030,Mirassol,2020,762,762,172,0,0,False
+353040,Mirassolândia,2020,49,49,6,0,0,False
+353050,Mococa,2020,691,689,73,0,0,False
+353060,Mogi das Cruzes,2020,5989,5987,1181,31,21,True
+353070,Mogi Guaçu,2020,1800,1766,239,10,4,True
+353080,Mogi Mirim,2020,944,938,123,2,1,False
+353090,Mombuca,2020,59,59,14,0,0,False
+353100,Monções,2020,16,16,0,0,0,False
+353110,Mongaguá,2020,750,750,216,1,1,False
+353120,Monte Alegre do Sul,2020,58,54,3,0,0,False
+353130,Monte Alto,2020,467,467,50,0,0,False
+353140,Monte Aprazível,2020,261,261,29,2,2,False
+353150,Monte Azul Paulista,2020,200,200,42,0,0,False
+353160,Monte Castelo,2020,38,38,10,0,0,False
+353170,Monteiro Lobato,2020,41,41,9,1,1,False
+353180,Monte Mor,2020,853,849,149,1,1,False
+353190,Morro Agudo,2020,349,348,39,0,0,False
+353200,Morungaba,2020,164,164,31,0,0,False
+353205,Motuca,2020,39,39,3,0,0,False
+353210,Murutinga do Sul,2020,24,24,2,1,1,False
+353215,Nantes,2020,39,39,5,1,1,False
+353220,Narandiba,2020,73,73,7,0,0,False
+353230,Natividade da Serra,2020,53,53,14,0,0,False
+353240,Nazaré Paulista,2020,208,208,54,2,2,False
+353250,Neves Paulista,2020,87,87,4,1,1,False
+353260,Nhandeara,2020,93,93,10,0,0,False
+353270,Nipoã,2020,60,60,10,0,0,False
+353280,Nova Aliança,2020,83,83,13,0,0,False
+353282,Nova Campina,2020,122,122,13,0,0,False
+353284,Nova Canaã Paulista,2020,14,14,1,0,0,False
+353286,Nova Castilho,2020,9,9,2,0,0,False
+353290,Nova Europa,2020,133,133,20,1,1,False
+353300,Nova Granada,2020,247,247,39,2,1,False
+353310,Nova Guataporanga,2020,29,29,9,0,0,False
+353320,Nova Independência,2020,47,47,5,0,0,False
+353325,Novais,2020,57,57,25,1,1,False
+353330,Nova Luzitânia,2020,19,19,5,0,0,False
+353340,Nova Odessa,2020,621,619,90,0,0,False
+353350,Novo Horizonte,2020,429,429,43,2,1,False
+353360,Nuporanga,2020,86,86,9,0,0,False
+353370,Ocauçu,2020,58,58,6,0,0,False
+353380,Óleo,2020,23,23,3,0,0,False
+353390,Olímpia,2020,646,646,90,5,3,False
+353400,Onda Verde,2020,56,56,7,0,0,False
+353410,Oriente,2020,70,70,10,0,0,False
+353420,Orindiúva,2020,76,76,5,1,1,False
+353430,Orlândia,2020,427,425,51,0,0,False
+353440,Osasco,2020,8911,8882,2877,98,41,True
+353450,Oscar Bressane,2020,17,17,1,0,0,False
+353460,Osvaldo Cruz,2020,321,321,37,0,0,False
+353470,Ourinhos,2020,1308,1308,299,7,2,True
+353475,Ouroeste,2020,98,98,4,0,0,False
+353480,Ouro Verde,2020,96,96,18,0,0,False
+353490,Pacaembu,2020,109,109,8,0,0,False
+353500,Palestina,2020,135,135,17,1,1,False
+353510,Palmares Paulista,2020,138,138,43,0,0,False
+353520,Palmeira d'Oeste,2020,94,94,10,0,0,False
+353530,Palmital,2020,214,213,16,1,0,False
+353540,Panorama,2020,177,175,48,3,2,False
+353550,Paraguaçu Paulista,2020,524,524,58,0,0,False
+353560,Paraibuna,2020,195,193,77,0,0,False
+353570,Paraíso,2020,53,53,8,1,1,False
+353580,Paranapanema,2020,263,262,49,1,1,False
+353590,Paranapuã,2020,51,51,10,0,0,False
+353600,Parapuã,2020,97,96,10,0,0,False
+353610,Pardinho,2020,78,78,3,0,0,False
+353620,Pariquera-Açu,2020,282,282,50,0,0,False
+353625,Parisi,2020,29,28,2,1,1,False
+353630,Patrocínio Paulista,2020,178,177,43,0,0,False
+353640,Paulicéia,2020,100,100,12,3,3,False
+353650,Paulínia,2020,1424,1382,153,3,3,True
+353657,Paulistânia,2020,28,28,6,0,0,False
+353660,Paulo de Faria,2020,93,93,15,0,0,False
+353670,Pederneiras,2020,503,502,51,4,4,False
+353680,Pedra Bela,2020,75,75,10,0,0,False
+353690,Pedranópolis,2020,16,16,4,0,0,False
+353700,Pedregulho,2020,190,190,26,1,0,False
+353710,Pedreira,2020,438,417,59,1,0,False
+353715,Pedrinhas Paulista,2020,31,31,5,0,0,False
+353720,Pedro de Toledo,2020,104,104,17,0,0,False
+353730,Penápolis,2020,720,720,124,2,2,False
+353740,Pereira Barreto,2020,243,243,41,1,1,False
+353750,Pereiras,2020,92,92,19,1,1,False
+353760,Peruíbe,2020,947,947,153,2,0,False
+353770,Piacatu,2020,49,49,1,1,1,False
+353780,Piedade,2020,662,661,68,1,1,False
+353790,Pilar do Sul,2020,377,377,67,1,1,False
+353800,Pindamonhangaba,2020,2334,2308,392,6,4,True
+353810,Pindorama,2020,146,146,25,2,2,False
+353820,Pinhalzinho,2020,169,169,41,2,1,False
+353830,Piquerobi,2020,30,30,4,1,1,False
+353850,Piquete,2020,128,128,33,0,0,False
+353860,Piracaia,2020,316,316,56,2,2,False
+353870,Piracicaba,2020,4907,4896,757,3,2,True
+353880,Piraju,2020,360,360,66,4,3,False
+353890,Pirajuí,2020,212,211,48,0,0,False
+353900,Pirangi,2020,107,107,18,0,0,False
+353910,Pirapora do Bom Jesus,2020,182,182,50,0,0,False
+353920,Pirapozinho,2020,263,262,32,3,2,False
+353930,Pirassununga,2020,822,822,154,4,2,False
+353940,Piratininga,2020,183,183,36,3,2,False
+353950,Pitangueiras,2020,424,424,52,18,4,False
+353960,Planalto,2020,59,59,10,2,2,False
+353970,Platina,2020,40,40,11,0,0,False
+353980,Poá,2020,1367,1364,393,12,6,True
+353990,Poloni,2020,68,68,10,0,0,False
+354000,Pompéia,2020,221,220,26,1,1,False
+354010,Pongaí,2020,35,35,12,0,0,False
+354020,Pontal,2020,526,526,83,4,4,False
+354025,Pontalinda,2020,57,57,8,0,0,False
+354030,Pontes Gestal,2020,24,23,1,0,0,False
+354040,Populina,2020,41,40,11,0,0,False
+354050,Porangaba,2020,88,88,15,2,2,False
+354060,Porto Feliz,2020,681,680,43,0,0,False
+354070,Porto Ferreira,2020,530,524,133,0,0,False
+354075,Potim,2020,261,261,63,0,0,False
+354080,Potirendaba,2020,212,212,29,4,4,False
+354085,Pracinha,2020,15,15,2,0,0,False
+354090,Pradópolis,2020,195,192,19,3,3,False
+354100,Praia Grande,2020,4371,4369,763,64,39,True
+354105,Pratânia,2020,76,76,5,1,1,False
+354110,Presidente Alves,2020,45,45,12,0,0,False
+354120,Presidente Bernardes,2020,110,110,17,1,1,False
+354130,Presidente Epitácio,2020,452,452,159,4,2,False
+354140,Presidente Prudente,2020,2667,2661,314,33,22,True
+354150,Presidente Venceslau,2020,364,363,67,8,5,False
+354160,Promissão,2020,395,395,95,1,0,False
+354165,Quadra,2020,33,33,3,0,0,False
+354170,Quatá,2020,155,155,24,2,2,False
+354180,Queiroz,2020,44,44,9,1,1,False
+354190,Queluz,2020,108,108,37,0,0,False
+354200,Quintana,2020,88,88,13,0,0,False
+354210,Rafard,2020,113,113,23,0,0,False
+354220,Rancharia,2020,366,366,39,5,5,False
+354230,Redenção da Serra,2020,45,45,13,0,0,False
+354240,Regente Feijó,2020,212,212,26,4,3,False
+354250,Reginópolis,2020,55,55,11,1,0,False
+354260,Registro,2020,760,759,123,4,3,False
+354270,Restinga,2020,118,118,27,1,0,False
+354280,Ribeira,2020,41,41,7,0,0,False
+354290,Ribeirão Bonito,2020,131,127,28,0,0,False
+354300,Ribeirão Branco,2020,288,288,35,0,0,False
+354310,Ribeirão Corrente,2020,61,61,15,0,0,False
+354320,Ribeirão do Sul,2020,57,57,11,0,0,False
+354323,Ribeirão dos Índios,2020,15,15,1,0,0,False
+354325,Ribeirão Grande,2020,86,85,1,0,0,False
+354330,Ribeirão Pires,2020,1261,1260,320,8,4,True
+354340,Ribeirão Preto,2020,8009,7862,875,27,19,True
+354350,Riversul,2020,76,76,6,0,0,False
+354360,Rifaina,2020,50,50,7,0,0,False
+354370,Rincão,2020,113,113,14,0,0,False
+354380,Rinópolis,2020,101,101,19,3,3,False
+354390,Rio Claro,2020,2240,2225,320,8,3,True
+354400,Rio das Pedras,2020,344,343,64,1,1,False
+354410,Rio Grande da Serra,2020,531,531,170,2,0,False
+354420,Riolândia,2020,126,126,23,1,1,False
+354425,Rosana,2020,224,224,21,0,0,False
+354430,Roseira,2020,123,123,25,0,0,False
+354440,Rubiácea,2020,37,37,3,0,0,False
+354450,Rubinéia,2020,44,44,7,0,0,False
+354460,Sabino,2020,50,50,9,0,0,False
+354470,Sagres,2020,30,30,7,0,0,False
+354480,Sales,2020,58,58,13,0,0,False
+354490,Sales Oliveira,2020,127,127,11,0,0,False
+354500,Salesópolis,2020,202,202,88,1,0,False
+354510,Salmourão,2020,51,51,15,0,0,False
+354515,Saltinho,2020,84,84,9,0,0,False
+354520,Salto,2020,1643,1641,225,6,4,True
+354530,Salto de Pirapora,2020,494,494,58,1,0,False
+354540,Salto Grande,2020,114,114,19,0,0,False
+354550,Sandovalina,2020,56,56,17,0,0,False
+354560,Santa Adélia,2020,146,146,17,1,1,False
+354570,Santa Albertina,2020,67,67,7,0,0,False
+354580,Santa Bárbara d'Oeste,2020,2126,2124,254,7,4,True
+354600,Santa Branca,2020,146,146,42,1,1,False
+354610,Santa Clara d'Oeste,2020,30,30,5,0,0,False
+354620,Santa Cruz da Conceição,2020,28,27,3,1,0,False
+354625,Santa Cruz da Esperança,2020,25,25,11,1,1,False
+354630,Santa Cruz das Palmeiras,2020,350,348,25,2,2,False
+354640,Santa Cruz do Rio Pardo,2020,606,605,57,1,0,False
+354650,Santa Ernestina,2020,73,73,7,0,0,False
+354660,Santa Fé do Sul,2020,400,400,38,1,0,False
+354670,Santa Gertrudes,2020,320,320,36,0,0,False
+354680,Santa Isabel,2020,651,648,160,1,0,False
+354690,Santa Lúcia,2020,75,75,7,0,0,False
+354700,Santa Maria da Serra,2020,69,69,12,1,1,False
+354710,Santa Mercedes,2020,30,30,12,0,0,False
+354720,Santana da Ponte Pensa,2020,7,7,1,0,0,False
+354730,Santana de Parnaíba,2020,2400,2395,385,11,9,True
+354740,Santa Rita d'Oeste,2020,21,21,5,0,0,False
+354750,Santa Rita do Passa Quatro,2020,238,235,28,0,0,False
+354760,Santa Rosa de Viterbo,2020,211,207,43,2,2,False
+354765,Santa Salete,2020,18,18,1,0,0,False
+354770,Santo Anastácio,2020,196,196,21,1,0,False
+354780,Santo André,2020,8598,8598,1805,62,30,True
+354790,Santo Antônio da Alegria,2020,83,82,11,0,0,False
+354800,Santo Antônio de Posse,2020,272,259,36,0,0,False
+354805,Santo Antônio do Aracanguá,2020,76,76,21,1,0,False
+354810,Santo Antônio do Jardim,2020,58,58,5,0,0,False
+354820,Santo Antônio do Pinhal,2020,69,68,8,0,0,False
+354830,Santo Expedito,2020,38,38,4,0,0,False
+354840,Santópolis do Aguapeí,2020,46,46,4,0,0,False
+354850,Santos,2020,4084,4068,763,45,24,True
+354860,São Bento do Sapucaí,2020,105,105,15,1,0,False
+354870,São Bernardo do Campo,2020,9158,9157,1694,60,41,True
+354880,São Caetano do Sul,2020,1525,1525,231,2,2,True
+354890,São Carlos,2020,2995,2875,483,26,22,True
+354900,São Francisco,2020,24,24,6,0,0,False
+354910,São João da Boa Vista,2020,991,989,116,0,0,False
+354920,São João das Duas Pontes,2020,25,25,2,0,0,False
+354925,São João de Iracema,2020,20,20,2,0,0,False
+354930,São João do Pau d'Alho,2020,16,16,5,0,0,False
+354940,São Joaquim da Barra,2020,543,543,78,1,0,False
+354950,São José da Bela Vista,2020,83,83,20,0,0,False
+354960,São José do Barreiro,2020,43,43,14,0,0,False
+354970,São José do Rio Pardo,2020,647,643,56,1,0,False
+354980,São José do Rio Preto,2020,5538,5537,629,17,11,True
+354990,São José dos Campos,2020,8682,8663,1406,57,42,True
+354995,São Lourenço da Serra,2020,195,194,46,0,0,False
+355000,São Luís do Paraitinga,2020,106,106,21,0,0,False
+355010,São Manuel,2020,492,492,73,4,3,False
+355020,São Miguel Arcanjo,2020,357,355,54,0,0,False
+355030,São Paulo,2020,147133,147109,25918,1102,702,True
+355040,São Pedro,2020,395,392,42,3,3,False
+355050,São Pedro do Turvo,2020,78,78,7,0,0,False
+355060,São Roque,2020,966,964,172,0,0,False
+355070,São Sebastião,2020,1178,1171,209,13,9,True
+355080,São Sebastião da Grama,2020,76,75,16,0,0,False
+355090,São Simão,2020,128,125,23,0,0,False
+355100,São Vicente,2020,4160,4156,1296,59,26,True
+355110,Sarapuí,2020,112,112,11,0,0,False
+355120,Sarutaiá,2020,49,49,5,0,0,False
+355130,Sebastianópolis do Sul,2020,35,35,2,0,0,False
+355140,Serra Azul,2020,115,112,11,0,0,False
+355150,Serrana,2020,570,556,87,2,2,False
+355160,Serra Negra,2020,292,282,46,0,0,False
+355170,Sertãozinho,2020,1565,1559,229,9,5,True
+355180,Sete Barras,2020,197,197,55,0,0,False
+355190,Severínia,2020,187,187,36,2,0,False
+355200,Silveiras,2020,62,62,25,0,0,False
+355210,Socorro,2020,395,392,70,1,1,False
+355220,Sorocaba,2020,8963,8929,1064,21,15,True
+355230,Sud Mennucci,2020,101,101,14,0,0,False
+355240,Sumaré,2020,3620,3609,564,7,2,True
+355250,Suzano,2020,4279,4277,957,9,5,True
+355255,Suzanápolis,2020,29,29,4,0,0,False
+355260,Tabapuã,2020,99,99,21,1,1,False
+355270,Tabatinga,2020,185,185,33,0,0,False
+355280,Taboão da Serra,2020,3811,3810,695,27,11,True
+355290,Taciba,2020,65,65,3,0,0,False
+355300,Taguaí,2020,203,203,12,0,0,False
+355310,Taiaçu,2020,60,60,16,0,0,False
+355320,Taiúva,2020,60,60,14,0,0,False
+355330,Tambaú,2020,245,241,31,0,0,False
+355340,Tanabi,2020,295,295,49,5,5,False
+355350,Tapiraí,2020,106,106,13,0,0,False
+355360,Tapiratiba,2020,124,124,17,0,0,False
+355365,Taquaral,2020,24,23,1,0,0,False
+355370,Taquaritinga,2020,559,559,114,3,2,False
+355380,Taquarituba,2020,297,297,29,2,2,False
+355385,Taquarivaí,2020,93,93,6,0,0,False
+355390,Tarabai,2020,84,84,18,2,1,False
+355395,Tarumã,2020,183,183,26,0,0,False
+355400,Tatuí,2020,1541,1540,191,3,3,True
+355410,Taubaté,2020,3564,3557,782,63,54,True
+355420,Tejupá,2020,60,60,7,0,0,False
+355430,Teodoro Sampaio,2020,299,299,29,2,2,False
+355440,Terra Roxa,2020,77,77,18,0,0,False
+355450,Tietê,2020,425,425,43,0,0,False
+355460,Timburi,2020,18,18,4,0,0,False
+355465,Torre de Pedra,2020,24,24,0,0,0,False
+355470,Torrinha,2020,104,104,11,1,1,False
+355475,Trabiju,2020,18,18,1,0,0,False
+355480,Tremembé,2020,486,482,123,9,9,False
+355490,Três Fronteiras,2020,84,84,19,0,0,False
+355495,Tuiuti,2020,66,66,13,1,1,False
+355500,Tupã,2020,639,639,107,2,1,False
+355510,Tupi Paulista,2020,139,139,20,3,3,False
+355520,Turiúba,2020,16,16,5,0,0,False
+355530,Turmalina,2020,20,20,1,0,0,False
+355535,Ubarana,2020,86,86,14,1,1,False
+355540,Ubatuba,2020,1343,1343,333,7,2,True
+355550,Ubirajara,2020,67,67,27,0,0,False
+355560,Uchoa,2020,106,106,15,1,1,False
+355570,União Paulista,2020,21,21,3,0,0,False
+355580,Urânia,2020,83,83,6,0,0,False
+355590,Uru,2020,13,13,3,0,0,False
+355600,Urupês,2020,127,127,14,1,1,False
+355610,Valentim Gentil,2020,174,173,14,1,1,False
+355620,Valinhos,2020,1258,1252,155,3,3,True
+355630,Valparaíso,2020,288,288,19,0,0,False
+355635,Vargem,2020,109,109,14,1,1,False
+355640,Vargem Grande do Sul,2020,495,493,43,0,0,False
+355645,Vargem Grande Paulista,2020,670,667,137,0,0,False
+355650,Várzea Paulista,2020,1221,1219,212,6,4,True
+355660,Vera Cruz,2020,112,112,36,0,0,False
+355670,Vinhedo,2020,878,868,93,2,1,False
+355680,Viradouro,2020,212,212,64,0,0,False
+355690,Vista Alegre do Alto,2020,94,94,19,0,0,False
+355695,Vitória Brasil,2020,15,15,2,0,0,False
+355700,Votorantim,2020,1608,1604,187,2,1,True
+355710,Votuporanga,2020,1076,1065,100,6,6,True
+355715,Zacarias,2020,27,27,3,0,0,False
+355720,Chavantes,2020,135,135,44,0,0,False
+355730,Estiva Gerbi,2020,128,124,23,0,0,False
+350010,Adamantina,2021,350,350,50,2,2,False
+350020,Adolfo,2021,44,44,4,0,0,False
+350030,Aguaí,2021,367,366,62,0,0,False
+350040,Águas da Prata,2021,62,61,10,0,0,False
+350050,Águas de Lindóia,2021,224,224,27,0,0,False
+350055,Águas de Santa Bárbara,2021,72,72,23,0,0,False
+350060,Águas de São Pedro,2021,28,28,2,0,0,False
+350070,Agudos,2021,488,488,103,1,1,False
+350075,Alambari,2021,70,70,6,0,0,False
+350080,Alfredo Marcondes,2021,49,49,6,0,0,False
+350090,Altair,2021,37,37,1,0,0,False
+350100,Altinópolis,2021,182,177,20,1,0,False
+350110,Alto Alegre,2021,32,32,4,0,0,False
+350115,Alumínio,2021,222,222,32,1,0,False
+350120,Álvares Florence,2021,29,29,6,0,0,False
+350130,Álvares Machado,2021,302,302,60,3,3,False
+350140,Álvaro de Carvalho,2021,29,29,7,0,0,False
+350150,Alvinlândia,2021,33,33,9,2,1,False
+350160,Americana,2021,2402,2397,347,6,4,True
+350170,Américo Brasiliense,2021,410,410,63,0,0,False
+350180,Américo de Campos,2021,52,52,3,1,1,False
+350190,Amparo,2021,775,772,111,1,1,False
+350200,Analândia,2021,40,40,5,0,0,False
+350210,Andradina,2021,650,650,69,3,3,False
+350220,Angatuba,2021,336,336,20,0,0,False
+350230,Anhembi,2021,69,69,16,1,1,False
+350240,Anhumas,2021,38,38,3,0,0,False
+350250,Aparecida,2021,352,352,64,0,0,False
+350260,Aparecida d'Oeste,2021,40,40,4,0,0,False
+350270,Apiaí,2021,300,299,50,0,0,False
+350275,Araçariguama,2021,316,316,52,3,2,False
+350280,Araçatuba,2021,2109,2107,332,20,12,True
+350290,Araçoiaba da Serra,2021,354,353,61,0,0,False
+350300,Aramina,2021,56,56,13,0,0,False
+350310,Arandu,2021,85,85,14,1,1,False
+350315,Arapeí,2021,19,19,8,0,0,False
+350320,Araraquara,2021,2606,2606,351,3,2,True
+350330,Araras,2021,1423,1423,205,3,3,True
+350335,Arco-Íris,2021,18,18,2,0,0,False
+350340,Arealva,2021,86,86,9,0,0,False
+350350,Areias,2021,55,55,19,0,0,False
+350360,Areiópolis,2021,116,115,12,1,0,False
+350370,Ariranha,2021,90,90,18,0,0,False
+350380,Artur Nogueira,2021,623,621,85,2,1,False
+350390,Arujá,2021,1339,1337,206,2,2,True
+350395,Aspásia,2021,20,20,2,0,0,False
+350400,Assis,2021,1028,1028,154,3,2,True
+350410,Atibaia,2021,2005,1992,384,8,3,True
+350420,Auriflama,2021,128,128,29,2,1,False
+350430,Avaí,2021,64,64,12,0,0,False
+350440,Avanhandava,2021,130,130,17,2,2,False
+350450,Avaré,2021,1136,1136,215,2,2,True
+350460,Bady Bassitt,2021,355,355,36,0,0,False
+350470,Balbinos,2021,14,14,4,0,0,False
+350480,Bálsamo,2021,82,82,6,0,0,False
+350490,Bananal,2021,89,88,22,0,0,False
+350500,Barão de Antonina,2021,49,49,3,0,0,False
+350510,Barbosa,2021,72,72,15,0,0,False
+350520,Bariri,2021,359,355,83,5,2,False
+350530,Barra Bonita,2021,329,329,58,0,0,False
+350535,Barra do Chapéu,2021,78,78,10,0,0,False
+350540,Barra do Turvo,2021,82,82,22,3,1,False
+350550,Barretos,2021,1404,1399,219,7,3,True
+350560,Barrinha,2021,380,374,71,4,3,False
+350570,Barueri,2021,5216,5215,1068,12,7,True
+350580,Bastos,2021,266,266,32,2,1,False
+350590,Batatais,2021,673,667,72,1,0,False
+350600,Bauru,2021,4282,4279,648,100,81,True
+350610,Bebedouro,2021,782,779,199,4,4,False
+350620,Bento de Abreu,2021,27,27,2,0,0,False
+350630,Bernardino de Campos,2021,105,105,10,1,1,False
+350635,Bertioga,2021,980,980,214,4,3,False
+350640,Bilac,2021,46,46,5,0,0,False
+350650,Birigui,2021,1273,1264,155,11,2,True
+350660,Biritiba-Mirim,2021,360,360,80,1,1,False
+350670,Boa Esperança do Sul,2021,171,171,35,0,0,False
+350680,Bocaina,2021,115,115,9,0,0,False
+350690,Bofete,2021,109,109,20,0,0,False
+350700,Boituva,2021,753,752,97,0,0,False
+350710,Bom Jesus dos Perdões,2021,283,283,73,1,0,False
+350715,Bom Sucesso de Itararé,2021,64,64,3,0,0,False
+350720,Borá,2021,6,6,1,0,0,False
+350730,Boracéia,2021,69,69,9,0,0,False
+350740,Borborema,2021,115,115,16,0,0,False
+350745,Borebi,2021,34,34,3,0,0,False
+350750,Botucatu,2021,1606,1606,174,8,7,True
+350760,Bragança Paulista,2021,2099,2099,411,2,0,True
+350770,Braúna,2021,71,71,8,0,0,False
+350775,Brejo Alegre,2021,26,26,1,0,0,False
+350780,Brodowski,2021,306,300,54,3,2,False
+350790,Brotas,2021,290,289,37,0,0,False
+350800,Buri,2021,269,269,32,0,0,False
+350810,Buritama,2021,154,154,7,1,1,False
+350820,Buritizal,2021,38,38,3,0,0,False
+350830,Cabrália Paulista,2021,40,40,7,1,1,False
+350840,Cabreúva,2021,742,741,102,0,0,False
+350850,Caçapava,2021,1096,1095,163,12,8,True
+350860,Cachoeira Paulista,2021,342,342,100,0,0,False
+350870,Caconde,2021,183,183,7,1,1,False
+350880,Cafelândia,2021,195,195,44,1,0,False
+350890,Caiabu,2021,46,46,9,0,0,False
+350900,Caieiras,2021,1256,1256,317,16,6,True
+350910,Caiuá,2021,34,33,7,0,0,False
+350920,Cajamar,2021,1287,1285,234,7,4,True
+350925,Cajati,2021,421,419,40,11,9,False
+350930,Cajobi,2021,87,87,16,1,1,False
+350940,Cajuru,2021,315,313,65,0,0,False
+350945,Campina do Monte Alegre,2021,63,63,8,0,0,False
+350950,Campinas,2021,12839,12712,2161,74,44,True
+350960,Campo Limpo Paulista,2021,883,878,188,4,2,False
+350970,Campos do Jordão,2021,623,622,59,0,0,False
+350980,Campos Novos Paulista,2021,59,59,8,1,1,False
+350990,Cananéia,2021,168,168,58,7,4,False
+350995,Canas,2021,80,80,26,0,0,False
+351000,Cândido Mota,2021,332,331,46,2,1,False
+351010,Cândido Rodrigues,2021,21,21,4,0,0,False
+351015,Canitar,2021,89,89,18,0,0,False
+351020,Capão Bonito,2021,631,631,30,1,1,False
+351030,Capela do Alto,2021,289,289,44,1,1,False
+351040,Capivari,2021,608,608,107,0,0,False
+351050,Caraguatatuba,2021,1596,1596,231,8,6,True
+351060,Carapicuíba,2021,5611,5591,2145,193,127,True
+351070,Cardoso,2021,88,88,12,0,0,False
+351080,Casa Branca,2021,242,242,27,0,0,False
+351090,Cássia dos Coqueiros,2021,13,13,2,0,0,False
+351100,Castilho,2021,212,212,65,0,0,False
+351110,Catanduva,2021,1164,1162,210,7,6,True
+351120,Catiguá,2021,75,75,18,1,1,False
+351130,Cedral,2021,139,139,25,1,1,False
+351140,Cerqueira César,2021,242,242,53,0,0,False
+351150,Cerquilho,2021,451,451,57,0,0,False
+351160,Cesário Lange,2021,226,226,26,2,1,False
+351170,Charqueada,2021,186,185,31,0,0,False
+351190,Clementina,2021,81,80,13,1,0,False
+351200,Colina,2021,235,234,33,2,1,False
+351210,Colômbia,2021,87,87,19,0,0,False
+351220,Conchal,2021,385,384,47,2,2,False
+351230,Conchas,2021,192,192,19,2,2,False
+351240,Cordeirópolis,2021,251,251,30,0,0,False
+351250,Coroados,2021,38,38,6,0,0,False
+351260,Coronel Macedo,2021,44,44,3,1,1,False
+351270,Corumbataí,2021,38,38,5,0,0,False
+351280,Cosmópolis,2021,665,654,80,0,0,False
+351290,Cosmorama,2021,78,78,11,0,0,False
+351300,Cotia,2021,3809,3761,1034,10,3,True
+351310,Cravinhos,2021,371,361,57,0,0,False
+351320,Cristais Paulista,2021,120,120,19,0,0,False
+351330,Cruzália,2021,22,22,4,0,0,False
+351340,Cruzeiro,2021,871,871,277,3,3,False
+351350,Cubatão,2021,1399,1393,266,62,45,True
+351360,Cunha,2021,226,225,62,0,0,False
+351370,Descalvado,2021,325,324,52,1,1,False
+351380,Diadema,2021,4482,4471,804,35,20,True
+351385,Dirce Reis,2021,15,15,1,0,0,False
+351390,Divinolândia,2021,112,112,5,0,0,False
+351400,Dobrada,2021,93,93,6,0,0,False
+351410,Dois Córregos,2021,273,272,68,0,0,False
+351420,Dolcinópolis,2021,30,30,2,0,0,False
+351430,Dourado,2021,81,81,6,3,3,False
+351440,Dracena,2021,419,419,52,8,7,False
+351450,Duartina,2021,141,141,17,0,0,False
+351460,Dumont,2021,111,108,15,1,1,False
+351470,Echaporã,2021,66,66,4,0,0,False
+351480,Eldorado,2021,203,202,32,4,1,False
+351490,Elias Fausto,2021,185,185,21,1,0,False
+351492,Elisiário,2021,29,29,7,0,0,False
+351495,Embaúba,2021,23,23,7,0,0,False
+351500,Embu das Artes,2021,3592,3587,853,82,74,True
+351510,Embu-Guaçu,2021,787,781,152,5,1,False
+351512,Emilianópolis,2021,20,20,5,1,0,False
+351515,Engenheiro Coelho,2021,272,272,56,0,0,False
+351518,Espírito Santo do Pinhal,2021,397,392,32,0,0,False
+351519,Espírito Santo do Turvo,2021,61,61,6,1,1,False
+351520,Estrela d'Oeste,2021,99,99,5,1,0,False
+351530,Estrela do Norte,2021,17,17,3,1,1,False
+351535,Euclides da Cunha Paulista,2021,80,80,9,1,0,False
+351540,Fartura,2021,214,214,10,1,0,False
+351550,Fernandópolis,2021,734,733,98,2,2,False
+351560,Fernando Prestes,2021,56,56,7,0,0,False
+351565,Fernão,2021,19,19,4,0,0,False
+351570,Ferraz de Vasconcelos,2021,2430,2429,690,20,10,True
+351580,Flora Rica,2021,12,12,1,0,0,False
+351590,Floreal,2021,17,17,3,0,0,False
+351600,Flórida Paulista,2021,90,89,13,0,0,False
+351610,Florínia,2021,22,22,6,0,0,False
+351620,Franca,2021,4219,4218,1151,20,8,True
+351630,Francisco Morato,2021,2684,2683,687,28,21,True
+351640,Franco da Rocha,2021,2035,2034,466,44,29,True
+351650,Gabriel Monteiro,2021,24,24,3,0,0,False
+351660,Gália,2021,54,54,7,0,0,False
+351670,Garça,2021,490,488,85,9,8,False
+351680,Gastão Vidigal,2021,31,31,9,0,0,False
+351685,Gavião Peixoto,2021,61,61,8,0,0,False
+351690,General Salgado,2021,94,94,7,1,1,False
+351700,Getulina,2021,87,87,15,2,1,False
+351710,Glicério,2021,52,52,2,0,0,False
+351720,Guaiçara,2021,122,122,25,2,1,False
+351730,Guaimbê,2021,61,61,10,0,0,False
+351740,Guaíra,2021,425,425,40,1,1,False
+351750,Guapiaçu,2021,255,255,38,2,2,False
+351760,Guapiara,2021,209,209,10,0,0,False
+351770,Guará,2021,191,188,19,2,1,False
+351780,Guaraçaí,2021,69,69,9,0,0,False
+351790,Guaraci,2021,105,104,32,0,0,False
+351800,Guarani d'Oeste,2021,17,17,0,0,0,False
+351810,Guarantã,2021,70,69,13,1,0,False
+351820,Guararapes,2021,317,317,30,1,0,False
+351830,Guararema,2021,392,392,20,1,1,False
+351840,Guaratinguetá,2021,1380,1379,273,10,7,True
+351850,Guareí,2021,125,124,9,0,0,False
+351860,Guariba,2021,411,410,78,3,3,False
+351870,Guarujá,2021,3804,3791,812,50,21,True
+351880,Guarulhos,2021,18279,18269,5930,351,219,True
+351885,Guatapará,2021,80,80,7,0,0,False
+351890,Guzolândia,2021,49,49,7,0,0,False
+351900,Herculândia,2021,121,121,27,1,1,False
+351905,Holambra,2021,206,204,28,1,0,False
+351907,Hortolândia,2021,2742,2736,457,11,8,True
+351910,Iacanga,2021,124,124,12,2,1,False
+351920,Iacri,2021,49,49,6,0,0,False
+351925,Iaras,2021,63,63,18,0,0,False
+351930,Ibaté,2021,472,470,54,0,0,False
+351940,Ibirá,2021,121,121,21,2,2,False
+351950,Ibirarema,2021,74,74,17,1,1,False
+351960,Ibitinga,2021,720,716,72,0,0,False
+351970,Ibiúna,2021,982,977,216,3,2,False
+351980,Icém,2021,80,80,10,1,1,False
+351990,Iepê,2021,97,97,5,0,0,False
+352000,Igaraçu do Tietê,2021,231,231,48,0,0,False
+352010,Igarapava,2021,285,285,45,1,1,False
+352020,Igaratá,2021,138,138,46,0,0,False
+352030,Iguape,2021,298,298,73,6,6,False
+352040,Ilhabela,2021,459,459,50,0,0,False
+352042,Ilha Comprida,2021,113,113,19,4,4,False
+352044,Ilha Solteira,2021,250,248,32,0,0,False
+352050,Indaiatuba,2021,3105,3101,397,27,15,True
+352060,Indiana,2021,54,54,6,1,0,False
+352070,Indiaporã,2021,35,35,6,0,0,False
+352080,Inúbia Paulista,2021,36,36,7,0,0,False
+352090,Ipaussu,2021,154,153,22,1,1,False
+352100,Iperó,2021,344,343,39,0,0,False
+352110,Ipeúna,2021,83,83,2,0,0,False
+352115,Ipiguá,2021,68,68,8,2,2,False
+352120,Iporanga,2021,60,60,10,0,0,False
+352130,Ipuã,2021,178,178,14,0,0,False
+352140,Iracemápolis,2021,234,234,29,0,0,False
+352150,Irapuã,2021,70,70,13,0,0,False
+352160,Irapuru,2021,58,58,5,0,0,False
+352170,Itaberá,2021,223,223,15,0,0,False
+352180,Itaí,2021,278,278,43,6,4,False
+352190,Itajobi,2021,195,194,30,0,0,False
+352200,Itaju,2021,44,44,8,0,0,False
+352210,Itanhaém,2021,1285,1285,272,9,8,True
+352215,Itaóca,2021,46,46,6,0,0,False
+352220,Itapecerica da Serra,2021,2252,2210,554,20,12,True
+352230,Itapetininga,2021,1892,1888,170,2,2,True
+352240,Itapeva,2021,1304,1304,84,1,1,True
+352250,Itapevi,2021,3634,3528,1332,22,10,True
+352260,Itapira,2021,709,705,105,1,1,False
+352265,Itapirapuã Paulista,2021,57,57,7,0,0,False
+352270,Itápolis,2021,409,407,66,0,0,False
+352280,Itaporanga,2021,151,151,9,0,0,False
+352290,Itapuí,2021,218,218,34,1,0,False
+352300,Itapura,2021,33,33,6,0,0,False
+352310,Itaquaquecetuba,2021,5076,5001,1698,103,60,True
+352320,Itararé,2021,563,563,190,0,0,False
+352330,Itariri,2021,161,161,27,0,0,False
+352340,Itatiba,2021,1326,1322,136,0,0,True
+352350,Itatinga,2021,255,255,36,4,3,False
+352360,Itirapina,2021,162,162,33,2,1,False
+352370,Itirapuã,2021,87,87,22,0,0,False
+352380,Itobi,2021,81,81,6,0,0,False
+352390,Itu,2021,2131,2126,359,6,2,True
+352400,Itupeva,2021,846,845,71,1,1,False
+352410,Ituverava,2021,386,386,78,0,0,False
+352420,Jaborandi,2021,57,56,11,0,0,False
+352430,Jaboticabal,2021,728,722,65,6,3,False
+352440,Jacareí,2021,2587,2582,510,11,9,True
+352450,Jaci,2021,84,84,8,0,0,False
+352460,Jacupiranga,2021,225,225,29,9,5,False
+352470,Jaguariúna,2021,728,722,84,3,1,False
+352480,Jales,2021,475,475,78,2,1,False
+352490,Jambeiro,2021,71,71,3,0,0,False
+352500,Jandira,2021,1456,1440,435,7,3,True
+352510,Jardinópolis,2021,535,523,76,2,1,False
+352520,Jarinu,2021,451,450,78,1,0,False
+352530,Jaú,2021,1409,1407,410,17,9,True
+352540,Jeriquara,2021,58,58,6,0,0,False
+352550,Joanópolis,2021,124,124,11,2,2,False
+352560,João Ramalho,2021,52,52,9,0,0,False
+352570,José Bonifácio,2021,449,449,78,5,5,False
+352580,Júlio Mesquita,2021,60,60,15,0,0,False
+352585,Jumirim,2021,43,43,0,0,0,False
+352590,Jundiaí,2021,5533,5518,586,28,18,True
+352600,Junqueirópolis,2021,199,199,29,0,0,False
+352610,Juquiá,2021,217,217,44,3,2,False
+352620,Juquitiba,2021,350,348,82,4,1,False
+352630,Lagoinha,2021,47,47,1,0,0,False
+352640,Laranjal Paulista,2021,354,354,53,1,1,False
+352650,Lavínia,2021,32,32,5,0,0,False
+352660,Lavrinhas,2021,94,94,23,1,1,False
+352670,Leme,2021,1019,1019,109,2,1,True
+352680,Lençóis Paulista,2021,837,826,102,1,0,False
+352690,Limeira,2021,3198,3198,774,7,2,True
+352700,Lindóia,2021,85,83,17,0,0,False
+352710,Lins,2021,814,812,143,5,3,False
+352720,Lorena,2021,1101,1099,280,13,12,True
+352725,Lourdes,2021,16,16,1,0,0,False
+352730,Louveira,2021,740,739,66,1,1,False
+352740,Lucélia,2021,179,179,33,1,1,False
+352750,Lucianópolis,2021,28,28,3,0,0,False
+352760,Luís Antônio,2021,170,163,25,0,0,False
+352770,Luiziânia,2021,72,72,14,0,0,False
+352780,Lupércio,2021,44,44,8,2,2,False
+352790,Lutécia,2021,38,38,8,1,1,False
+352800,Macatuba,2021,203,203,31,2,2,False
+352810,Macaubal,2021,63,63,6,0,0,False
+352820,Macedônia,2021,41,41,14,0,0,False
+352830,Magda,2021,18,18,1,0,0,False
+352840,Mairinque,2021,613,611,125,0,0,False
+352850,Mairiporã,2021,1016,1015,206,6,4,True
+352860,Manduri,2021,103,103,16,1,1,False
+352870,Marabá Paulista,2021,35,35,9,0,0,False
+352880,Maracaí,2021,142,142,19,1,1,False
+352885,Marapoama,2021,31,31,3,0,0,False
+352890,Mariápolis,2021,37,37,4,0,0,False
+352900,Marília,2021,2786,2765,553,39,23,True
+352910,Marinópolis,2021,15,15,2,0,0,False
+352920,Martinópolis,2021,275,275,52,0,0,False
+352930,Matão,2021,794,794,88,0,0,False
+352940,Mauá,2021,4562,4561,907,79,54,True
+352950,Mendonça,2021,57,57,3,1,1,False
+352960,Meridiano,2021,39,39,4,0,0,False
+352965,Mesópolis,2021,23,23,2,0,0,False
+352970,Miguelópolis,2021,216,216,47,0,0,False
+352980,Mineiros do Tietê,2021,113,113,14,0,0,False
+352990,Miracatu,2021,279,278,53,0,0,False
+353000,Mira Estrela,2021,29,29,1,0,0,False
+353010,Mirandópolis,2021,242,242,54,1,1,False
+353020,Mirante do Paranapanema,2021,167,167,28,2,0,False
+353030,Mirassol,2021,703,703,116,0,0,False
+353040,Mirassolândia,2021,65,65,6,0,0,False
+353050,Mococa,2021,695,694,75,5,3,False
+353060,Mogi das Cruzes,2021,5662,5661,1021,11,9,True
+353070,Mogi Guaçu,2021,1696,1671,266,18,12,True
+353080,Mogi Mirim,2021,941,938,146,5,3,False
+353090,Mombuca,2021,53,53,10,0,0,False
+353100,Monções,2021,15,15,1,0,0,False
+353110,Mongaguá,2021,747,747,167,4,4,False
+353120,Monte Alegre do Sul,2021,65,65,6,0,0,False
+353130,Monte Alto,2021,454,452,60,1,1,False
+353140,Monte Aprazível,2021,190,190,19,0,0,False
+353150,Monte Azul Paulista,2021,216,214,40,0,0,False
+353160,Monte Castelo,2021,44,44,4,0,0,False
+353170,Monteiro Lobato,2021,40,39,6,0,0,False
+353180,Monte Mor,2021,880,879,153,5,2,False
+353190,Morro Agudo,2021,300,299,34,1,0,False
+353200,Morungaba,2021,148,148,23,0,0,False
+353205,Motuca,2021,36,36,2,0,0,False
+353210,Murutinga do Sul,2021,26,26,1,1,1,False
+353215,Nantes,2021,31,31,6,0,0,False
+353220,Narandiba,2021,91,90,21,1,0,False
+353230,Natividade da Serra,2021,56,56,14,0,0,False
+353240,Nazaré Paulista,2021,232,232,74,0,0,False
+353250,Neves Paulista,2021,84,84,12,1,1,False
+353260,Nhandeara,2021,74,74,10,1,0,False
+353270,Nipoã,2021,59,59,6,1,0,False
+353280,Nova Aliança,2021,86,86,16,4,3,False
+353282,Nova Campina,2021,116,116,13,1,1,False
+353284,Nova Canaã Paulista,2021,12,12,0,0,0,False
+353286,Nova Castilho,2021,5,5,1,0,0,False
+353290,Nova Europa,2021,113,113,15,0,0,False
+353300,Nova Granada,2021,235,235,42,2,2,False
+353310,Nova Guataporanga,2021,22,22,8,0,0,False
+353320,Nova Independência,2021,49,49,8,0,0,False
+353325,Novais,2021,57,57,18,2,2,False
+353330,Nova Luzitânia,2021,23,23,7,1,0,False
+353340,Nova Odessa,2021,681,677,93,1,1,False
+353350,Novo Horizonte,2021,405,405,40,3,2,False
+353360,Nuporanga,2021,87,87,4,0,0,False
+353370,Ocauçu,2021,58,58,6,1,0,False
+353380,Óleo,2021,26,26,6,0,0,False
+353390,Olímpia,2021,636,636,99,5,3,False
+353400,Onda Verde,2021,65,65,4,0,0,False
+353410,Oriente,2021,62,62,8,0,0,False
+353420,Orindiúva,2021,74,74,11,0,0,False
+353430,Orlândia,2021,436,435,57,0,0,False
+353440,Osasco,2021,8381,8377,2826,107,63,True
+353450,Oscar Bressane,2021,16,16,1,0,0,False
+353460,Osvaldo Cruz,2021,306,306,28,1,1,False
+353470,Ourinhos,2021,1174,1173,213,9,1,True
+353475,Ouroeste,2021,82,82,6,0,0,False
+353480,Ouro Verde,2021,100,100,26,1,1,False
+353490,Pacaembu,2021,95,95,15,0,0,False
+353500,Palestina,2021,134,134,21,1,1,False
+353510,Palmares Paulista,2021,118,118,32,1,1,False
+353520,Palmeira d'Oeste,2021,80,80,6,0,0,False
+353530,Palmital,2021,211,211,19,5,4,False
+353540,Panorama,2021,181,181,37,2,2,False
+353550,Paraguaçu Paulista,2021,475,475,66,1,0,False
+353560,Paraibuna,2021,206,206,65,2,1,False
+353570,Paraíso,2021,55,55,14,0,0,False
+353580,Paranapanema,2021,268,268,43,0,0,False
+353590,Paranapuã,2021,56,56,11,0,0,False
+353600,Parapuã,2021,102,102,11,3,2,False
+353610,Pardinho,2021,81,81,10,1,1,False
+353620,Pariquera-Açu,2021,264,261,34,2,0,False
+353625,Parisi,2021,29,29,1,0,0,False
+353630,Patrocínio Paulista,2021,220,217,49,0,0,False
+353640,Paulicéia,2021,118,118,8,0,0,False
+353650,Paulínia,2021,1326,1318,136,2,2,True
+353657,Paulistânia,2021,23,23,4,0,0,False
+353660,Paulo de Faria,2021,67,67,9,1,1,False
+353670,Pederneiras,2021,533,533,69,2,2,False
+353680,Pedra Bela,2021,77,77,11,0,0,False
+353690,Pedranópolis,2021,25,25,10,0,0,False
+353700,Pedregulho,2021,192,192,30,0,0,False
+353710,Pedreira,2021,453,448,83,5,3,False
+353715,Pedrinhas Paulista,2021,20,20,5,0,0,False
+353720,Pedro de Toledo,2021,102,102,22,0,0,False
+353730,Penápolis,2021,679,679,91,2,2,False
+353740,Pereira Barreto,2021,257,257,29,0,0,False
+353750,Pereiras,2021,90,90,15,0,0,False
+353760,Peruíbe,2021,897,897,124,8,7,False
+353770,Piacatu,2021,47,47,6,0,0,False
+353780,Piedade,2021,640,638,85,1,0,False
+353790,Pilar do Sul,2021,395,392,73,0,0,False
+353800,Pindamonhangaba,2021,2213,2199,373,5,0,True
+353810,Pindorama,2021,140,140,29,0,0,False
+353820,Pinhalzinho,2021,157,156,33,0,0,False
+353830,Piquerobi,2021,33,33,10,0,0,False
+353850,Piquete,2021,118,118,52,0,0,False
+353860,Piracaia,2021,297,296,72,3,1,False
+353870,Piracicaba,2021,4728,4723,712,11,8,True
+353880,Piraju,2021,328,328,44,1,1,False
+353890,Pirajuí,2021,178,175,29,1,1,False
+353900,Pirangi,2021,103,103,14,0,0,False
+353910,Pirapora do Bom Jesus,2021,234,232,59,0,0,False
+353920,Pirapozinho,2021,263,263,38,4,1,False
+353930,Pirassununga,2021,785,783,158,2,0,False
+353940,Piratininga,2021,143,142,29,1,1,False
+353950,Pitangueiras,2021,441,439,44,10,1,False
+353960,Planalto,2021,62,62,8,0,0,False
+353970,Platina,2021,26,26,2,0,0,False
+353980,Poá,2021,1251,1248,361,7,3,True
+353990,Poloni,2021,64,64,10,0,0,False
+354000,Pompéia,2021,201,200,11,1,1,False
+354010,Pongaí,2021,20,20,3,0,0,False
+354020,Pontal,2021,473,469,94,7,6,False
+354025,Pontalinda,2021,52,52,6,1,1,False
+354030,Pontes Gestal,2021,29,29,4,0,0,False
+354040,Populina,2021,34,34,5,1,1,False
+354050,Porangaba,2021,90,90,13,0,0,False
+354060,Porto Feliz,2021,631,631,48,0,0,False
+354070,Porto Ferreira,2021,569,564,156,1,1,False
+354075,Potim,2021,241,241,46,0,0,False
+354080,Potirendaba,2021,205,205,36,0,0,False
+354085,Pracinha,2021,13,13,1,0,0,False
+354090,Pradópolis,2021,170,168,20,3,3,False
+354100,Praia Grande,2021,4215,4215,697,71,36,True
+354105,Pratânia,2021,87,87,11,0,0,False
+354110,Presidente Alves,2021,42,42,7,3,0,False
+354120,Presidente Bernardes,2021,109,109,12,4,3,False
+354130,Presidente Epitácio,2021,442,442,119,1,1,False
+354140,Presidente Prudente,2021,2505,2503,312,42,32,True
+354150,Presidente Venceslau,2021,332,327,59,4,1,False
+354160,Promissão,2021,348,348,68,3,1,False
+354165,Quadra,2021,47,47,4,0,0,False
+354170,Quatá,2021,142,142,15,1,1,False
+354180,Queiroz,2021,62,62,3,0,0,False
+354190,Queluz,2021,122,122,49,1,1,False
+354200,Quintana,2021,93,93,14,0,0,False
+354210,Rafard,2021,117,117,27,0,0,False
+354220,Rancharia,2021,313,313,38,3,2,False
+354230,Redenção da Serra,2021,45,45,13,0,0,False
+354240,Regente Feijó,2021,187,187,20,1,0,False
+354250,Reginópolis,2021,55,55,6,1,1,False
+354260,Registro,2021,783,783,101,7,6,False
+354270,Restinga,2021,100,100,15,0,0,False
+354280,Ribeira,2021,45,45,7,0,0,False
+354290,Ribeirão Bonito,2021,118,118,24,1,0,False
+354300,Ribeirão Branco,2021,266,266,17,0,0,False
+354310,Ribeirão Corrente,2021,49,48,11,0,0,False
+354320,Ribeirão do Sul,2021,52,52,6,0,0,False
+354323,Ribeirão dos Índios,2021,16,16,4,0,0,False
+354325,Ribeirão Grande,2021,92,92,6,1,1,False
+354330,Ribeirão Pires,2021,1099,1096,286,11,7,True
+354340,Ribeirão Preto,2021,7750,7660,883,60,37,True
+354350,Riversul,2021,52,52,6,1,0,False
+354360,Rifaina,2021,42,41,10,0,0,False
+354370,Rincão,2021,108,108,15,0,0,False
+354380,Rinópolis,2021,76,76,4,3,2,False
+354390,Rio Claro,2021,2277,2271,315,20,13,True
+354400,Rio das Pedras,2021,368,367,70,1,1,False
+354410,Rio Grande da Serra,2021,489,489,145,2,0,False
+354420,Riolândia,2021,125,125,19,1,1,False
+354425,Rosana,2021,193,193,28,0,0,False
+354430,Roseira,2021,104,104,14,0,0,False
+354440,Rubiácea,2021,27,27,2,0,0,False
+354450,Rubinéia,2021,36,36,3,0,0,False
+354460,Sabino,2021,46,46,16,1,1,False
+354470,Sagres,2021,29,29,9,1,1,False
+354480,Sales,2021,33,33,6,1,1,False
+354490,Sales Oliveira,2021,104,103,7,0,0,False
+354500,Salesópolis,2021,211,211,72,0,0,False
+354510,Salmourão,2021,51,51,17,0,0,False
+354515,Saltinho,2021,77,77,13,0,0,False
+354520,Salto,2021,1607,1604,229,6,3,True
+354530,Salto de Pirapora,2021,455,455,38,1,1,False
+354540,Salto Grande,2021,119,119,23,0,0,False
+354550,Sandovalina,2021,46,46,11,0,0,False
+354560,Santa Adélia,2021,154,154,21,0,0,False
+354570,Santa Albertina,2021,70,70,10,1,0,False
+354580,Santa Bárbara d'Oeste,2021,2004,2001,228,5,4,True
+354600,Santa Branca,2021,139,139,33,0,0,False
+354610,Santa Clara d'Oeste,2021,32,32,1,0,0,False
+354620,Santa Cruz da Conceição,2021,30,30,4,0,0,False
+354625,Santa Cruz da Esperança,2021,23,23,4,0,0,False
+354630,Santa Cruz das Palmeiras,2021,343,343,31,0,0,False
+354640,Santa Cruz do Rio Pardo,2021,505,505,37,2,1,False
+354650,Santa Ernestina,2021,71,71,11,1,1,False
+354660,Santa Fé do Sul,2021,437,437,53,0,0,False
+354670,Santa Gertrudes,2021,301,300,39,1,1,False
+354680,Santa Isabel,2021,656,655,154,2,1,False
+354690,Santa Lúcia,2021,67,66,11,0,0,False
+354700,Santa Maria da Serra,2021,69,69,6,0,0,False
+354710,Santa Mercedes,2021,32,32,7,0,0,False
+354720,Santana da Ponte Pensa,2021,21,21,1,0,0,False
+354730,Santana de Parnaíba,2021,2287,2279,342,7,5,True
+354740,Santa Rita d'Oeste,2021,26,26,3,0,0,False
+354750,Santa Rita do Passa Quatro,2021,218,216,34,0,0,False
+354760,Santa Rosa de Viterbo,2021,199,194,41,0,0,False
+354765,Santa Salete,2021,18,18,2,0,0,False
+354770,Santo Anastácio,2021,190,190,26,3,3,False
+354780,Santo André,2021,7992,7992,1583,55,30,True
+354790,Santo Antônio da Alegria,2021,84,84,7,0,0,False
+354800,Santo Antônio de Posse,2021,270,266,41,0,0,False
+354805,Santo Antônio do Aracanguá,2021,94,94,29,0,0,False
+354810,Santo Antônio do Jardim,2021,57,57,3,0,0,False
+354820,Santo Antônio do Pinhal,2021,88,88,8,0,0,False
+354830,Santo Expedito,2021,40,40,5,0,0,False
+354840,Santópolis do Aguapeí,2021,43,43,1,0,0,False
+354850,Santos,2021,3884,3877,650,39,21,True
+354860,São Bento do Sapucaí,2021,127,127,13,0,0,False
+354870,São Bernardo do Campo,2021,8576,8575,1400,97,59,True
+354880,São Caetano do Sul,2021,1397,1397,184,7,5,True
+354890,São Carlos,2021,2837,2802,405,14,9,True
+354900,São Francisco,2021,19,19,4,0,0,False
+354910,São João da Boa Vista,2021,925,920,98,6,0,False
+354920,São João das Duas Pontes,2021,13,13,2,0,0,False
+354925,São João de Iracema,2021,20,20,1,0,0,False
+354930,São João do Pau d'Alho,2021,13,13,2,0,0,False
+354940,São Joaquim da Barra,2021,499,497,77,2,0,False
+354950,São José da Bela Vista,2021,83,83,18,3,2,False
+354960,São José do Barreiro,2021,42,41,6,0,0,False
+354970,São José do Rio Pardo,2021,542,540,44,0,0,False
+354980,São José do Rio Preto,2021,5206,5205,589,23,16,True
+354990,São José dos Campos,2021,8545,8533,1276,68,53,True
+354995,São Lourenço da Serra,2021,175,173,33,0,0,False
+355000,São Luís do Paraitinga,2021,103,103,25,0,0,False
+355010,São Manuel,2021,436,436,39,2,2,False
+355020,São Miguel Arcanjo,2021,354,353,40,1,0,False
+355030,São Paulo,2021,136732,136712,22470,965,671,True
+355040,São Pedro,2021,396,395,50,2,2,False
+355050,São Pedro do Turvo,2021,85,85,13,0,0,False
+355060,São Roque,2021,897,895,130,1,0,False
+355070,São Sebastião,2021,1193,1186,248,23,12,True
+355080,São Sebastião da Grama,2021,73,73,15,0,0,False
+355090,São Simão,2021,117,115,18,0,0,False
+355100,São Vicente,2021,3880,3877,1148,49,29,True
+355110,Sarapuí,2021,106,106,13,0,0,False
+355120,Sarutaiá,2021,45,45,5,0,0,False
+355130,Sebastianópolis do Sul,2021,32,32,2,0,0,False
+355140,Serra Azul,2021,109,109,9,0,0,False
+355150,Serrana,2021,527,512,76,7,0,False
+355160,Serra Negra,2021,295,294,40,0,0,False
+355170,Sertãozinho,2021,1486,1480,229,8,4,True
+355180,Sete Barras,2021,206,206,44,1,1,False
+355190,Severínia,2021,169,169,29,2,0,False
+355200,Silveiras,2021,69,69,9,0,0,False
+355210,Socorro,2021,376,373,59,0,0,False
+355220,Sorocaba,2021,8677,8642,1167,27,19,True
+355230,Sud Mennucci,2021,88,88,9,0,0,False
+355240,Sumaré,2021,3396,3387,491,4,2,True
+355250,Suzano,2021,4188,4182,905,14,3,True
+355255,Suzanápolis,2021,47,47,10,0,0,False
+355260,Tabapuã,2021,100,99,19,0,0,False
+355270,Tabatinga,2021,182,182,37,0,0,False
+355280,Taboão da Serra,2021,3546,3546,664,36,22,True
+355290,Taciba,2021,83,83,14,0,0,False
+355300,Taguaí,2021,188,188,11,1,1,False
+355310,Taiaçu,2021,65,65,21,0,0,False
+355320,Taiúva,2021,45,45,9,0,0,False
+355330,Tambaú,2021,254,251,28,0,0,False
+355340,Tanabi,2021,265,264,43,1,1,False
+355350,Tapiraí,2021,99,99,16,0,0,False
+355360,Tapiratiba,2021,96,96,2,1,1,False
+355365,Taquaral,2021,20,19,4,0,0,False
+355370,Taquaritinga,2021,550,549,78,3,2,False
+355380,Taquarituba,2021,287,287,13,1,0,False
+355385,Taquarivaí,2021,94,94,9,0,0,False
+355390,Tarabai,2021,66,66,19,0,0,False
+355395,Tarumã,2021,172,172,15,0,0,False
+355400,Tatuí,2021,1513,1513,188,2,1,True
+355410,Taubaté,2021,3514,3509,649,42,36,True
+355420,Tejupá,2021,55,55,7,0,0,False
+355430,Teodoro Sampaio,2021,297,297,34,4,3,False
+355440,Terra Roxa,2021,74,74,16,0,0,False
+355450,Tietê,2021,444,443,52,0,0,False
+355460,Timburi,2021,16,16,2,1,1,False
+355465,Torre de Pedra,2021,28,28,2,0,0,False
+355470,Torrinha,2021,87,87,23,0,0,False
+355475,Trabiju,2021,21,21,3,0,0,False
+355480,Tremembé,2021,422,421,114,9,8,False
+355490,Três Fronteiras,2021,67,67,17,1,1,False
+355495,Tuiuti,2021,65,65,14,1,1,False
+355500,Tupã,2021,670,670,94,5,2,False
+355510,Tupi Paulista,2021,124,124,27,1,1,False
+355520,Turiúba,2021,13,13,2,0,0,False
+355530,Turmalina,2021,13,13,1,0,0,False
+355535,Ubarana,2021,58,58,7,0,0,False
+355540,Ubatuba,2021,1290,1290,303,11,6,True
+355550,Ubirajara,2021,76,74,18,2,1,False
+355560,Uchoa,2021,104,104,16,1,1,False
+355570,União Paulista,2021,24,24,5,0,0,False
+355580,Urânia,2021,78,78,8,0,0,False
+355590,Uru,2021,14,14,5,0,0,False
+355600,Urupês,2021,136,136,15,2,1,False
+355610,Valentim Gentil,2021,154,154,8,0,0,False
+355620,Valinhos,2021,1247,1245,155,2,2,True
+355630,Valparaíso,2021,269,269,24,1,1,False
+355635,Vargem,2021,113,113,18,0,0,False
+355640,Vargem Grande do Sul,2021,517,517,59,0,0,False
+355645,Vargem Grande Paulista,2021,715,709,143,0,0,False
+355650,Várzea Paulista,2021,1241,1239,235,6,6,True
+355660,Vera Cruz,2021,79,79,24,0,0,False
+355670,Vinhedo,2021,824,824,88,1,1,False
+355680,Viradouro,2021,206,204,47,0,0,False
+355690,Vista Alegre do Alto,2021,104,104,15,0,0,False
+355695,Vitória Brasil,2021,18,18,0,0,0,False
+355700,Votorantim,2021,1529,1526,180,1,0,True
+355710,Votuporanga,2021,1108,1108,95,4,4,True
+355715,Zacarias,2021,25,25,5,1,1,False
+355720,Chavantes,2021,149,149,42,0,0,False
+355730,Estiva Gerbi,2021,127,125,22,0,0,False
+350010,Adamantina,2022,381,381,56,2,2,False
+350020,Adolfo,2022,54,54,5,0,0,False
+350030,Aguaí,2022,370,370,66,0,0,False
+350040,Águas da Prata,2022,69,69,6,0,0,False
+350050,Águas de Lindóia,2022,213,213,36,0,0,False
+350055,Águas de Santa Bárbara,2022,65,65,15,0,0,False
+350060,Águas de São Pedro,2022,21,21,2,0,0,False
+350070,Agudos,2022,479,479,103,7,3,False
+350075,Alambari,2022,71,71,8,0,0,False
+350080,Alfredo Marcondes,2022,39,39,4,1,1,False
+350090,Altair,2022,40,40,3,0,0,False
+350100,Altinópolis,2022,182,180,18,4,3,False
+350110,Alto Alegre,2022,29,29,4,0,0,False
+350115,Alumínio,2022,182,181,26,1,1,False
+350120,Álvares Florence,2022,34,34,0,0,0,False
+350130,Álvares Machado,2022,331,331,61,9,8,False
+350140,Álvaro de Carvalho,2022,32,32,7,0,0,False
+350150,Alvinlândia,2022,26,25,3,1,1,False
+350160,Americana,2022,2443,2438,374,9,6,True
+350170,Américo Brasiliense,2022,352,352,60,0,0,False
+350180,Américo de Campos,2022,41,41,5,1,1,False
+350190,Amparo,2022,712,709,108,0,0,False
+350200,Analândia,2022,53,53,4,0,0,False
+350210,Andradina,2022,582,581,92,3,3,False
+350220,Angatuba,2022,321,321,23,0,0,False
+350230,Anhembi,2022,66,66,12,0,0,False
+350240,Anhumas,2022,50,50,9,2,1,False
+350250,Aparecida,2022,327,327,61,1,1,False
+350260,Aparecida d'Oeste,2022,47,47,5,0,0,False
+350270,Apiaí,2022,289,289,57,0,0,False
+350275,Araçariguama,2022,352,348,54,4,3,False
+350280,Araçatuba,2022,2013,2011,301,24,15,True
+350290,Araçoiaba da Serra,2022,366,364,45,0,0,False
+350300,Aramina,2022,60,60,12,0,0,False
+350310,Arandu,2022,77,77,25,1,0,False
+350315,Arapeí,2022,23,23,4,0,0,False
+350320,Araraquara,2022,2499,2499,352,10,3,True
+350330,Araras,2022,1435,1435,264,5,3,True
+350335,Arco-Íris,2022,14,14,1,0,0,False
+350340,Arealva,2022,97,97,7,0,0,False
+350350,Areias,2022,38,38,22,0,0,False
+350360,Areiópolis,2022,120,120,15,1,1,False
+350370,Ariranha,2022,78,78,20,0,0,False
+350380,Artur Nogueira,2022,611,609,88,2,2,False
+350390,Arujá,2022,1321,1321,223,8,8,True
+350395,Aspásia,2022,21,21,2,0,0,False
+350400,Assis,2022,963,962,160,5,3,False
+350410,Atibaia,2022,1993,1993,436,7,6,True
+350420,Auriflama,2022,143,143,36,2,1,False
+350430,Avaí,2022,74,74,14,1,1,False
+350440,Avanhandava,2022,116,116,11,0,0,False
+350450,Avaré,2022,1087,1086,276,2,1,True
+350460,Bady Bassitt,2022,338,338,32,3,3,False
+350470,Balbinos,2022,14,14,1,0,0,False
+350480,Bálsamo,2022,101,101,11,0,0,False
+350490,Bananal,2022,75,74,13,2,0,False
+350500,Barão de Antonina,2022,49,49,4,0,0,False
+350510,Barbosa,2022,77,77,16,0,0,False
+350520,Bariri,2022,341,340,73,2,2,False
+350530,Barra Bonita,2022,305,305,73,2,1,False
+350535,Barra do Chapéu,2022,87,87,14,1,1,False
+350540,Barra do Turvo,2022,57,55,14,2,2,False
+350550,Barretos,2022,1392,1388,222,9,7,True
+350560,Barrinha,2022,379,378,75,4,3,False
+350570,Barueri,2022,5234,5234,1086,22,10,True
+350580,Bastos,2022,266,266,41,5,3,False
+350590,Batatais,2022,621,619,80,1,1,False
+350600,Bauru,2022,4315,4315,714,147,117,True
+350610,Bebedouro,2022,785,783,205,5,4,False
+350620,Bento de Abreu,2022,32,32,3,0,0,False
+350630,Bernardino de Campos,2022,110,109,7,0,0,False
+350635,Bertioga,2022,954,954,181,5,2,False
+350640,Bilac,2022,64,64,8,1,0,False
+350650,Birigui,2022,1187,1180,174,5,2,True
+350660,Biritiba-Mirim,2022,358,358,71,2,1,False
+350670,Boa Esperança do Sul,2022,174,174,34,0,0,False
+350680,Bocaina,2022,124,124,20,0,0,False
+350690,Bofete,2022,121,121,19,0,0,False
+350700,Boituva,2022,790,790,100,4,3,False
+350710,Bom Jesus dos Perdões,2022,298,297,78,0,0,False
+350715,Bom Sucesso de Itararé,2022,74,74,8,0,0,False
+350720,Borá,2022,4,4,0,0,0,False
+350730,Boracéia,2022,72,72,7,0,0,False
+350740,Borborema,2022,137,137,8,0,0,False
+350745,Borebi,2022,24,24,4,0,0,False
+350750,Botucatu,2022,1563,1563,198,7,6,True
+350760,Bragança Paulista,2022,2253,2252,543,2,0,True
+350770,Braúna,2022,64,64,10,0,0,False
+350775,Brejo Alegre,2022,24,24,2,1,1,False
+350780,Brodowski,2022,270,267,32,2,2,False
+350790,Brotas,2022,261,261,36,0,0,False
+350800,Buri,2022,288,288,47,1,0,False
+350810,Buritama,2022,165,165,13,1,1,False
+350820,Buritizal,2022,50,50,7,0,0,False
+350830,Cabrália Paulista,2022,42,42,4,0,0,False
+350840,Cabreúva,2022,731,731,116,2,2,False
+350850,Caçapava,2022,1079,1079,141,13,11,True
+350860,Cachoeira Paulista,2022,339,339,88,1,1,False
+350870,Caconde,2022,171,171,16,0,0,False
+350880,Cafelândia,2022,184,184,48,1,1,False
+350890,Caiabu,2022,37,37,9,0,0,False
+350900,Caieiras,2022,1185,1185,298,7,4,True
+350910,Caiuá,2022,29,29,10,2,1,False
+350920,Cajamar,2022,1298,1298,214,6,4,True
+350925,Cajati,2022,432,428,62,8,4,False
+350930,Cajobi,2022,85,85,12,0,0,False
+350940,Cajuru,2022,347,347,56,0,0,False
+350945,Campina do Monte Alegre,2022,72,72,9,0,0,False
+350950,Campinas,2022,12654,12609,2254,110,55,True
+350960,Campo Limpo Paulista,2022,843,842,193,11,6,False
+350970,Campos do Jordão,2022,706,706,73,2,2,False
+350980,Campos Novos Paulista,2022,47,47,5,1,1,False
+350990,Cananéia,2022,170,168,68,3,1,False
+350995,Canas,2022,62,62,13,0,0,False
+351000,Cândido Mota,2022,301,299,56,2,2,False
+351010,Cândido Rodrigues,2022,36,36,5,0,0,False
+351015,Canitar,2022,100,99,11,0,0,False
+351020,Capão Bonito,2022,555,555,42,1,0,False
+351030,Capela do Alto,2022,295,294,62,3,1,False
+351040,Capivari,2022,678,677,122,0,0,False
+351050,Caraguatatuba,2022,1705,1705,254,14,9,True
+351060,Carapicuíba,2022,5342,5336,1922,206,154,True
+351070,Cardoso,2022,103,103,16,0,0,False
+351080,Casa Branca,2022,292,292,27,2,2,False
+351090,Cássia dos Coqueiros,2022,16,16,1,0,0,False
+351100,Castilho,2022,194,194,60,3,0,False
+351110,Catanduva,2022,1192,1190,250,3,2,True
+351120,Catiguá,2022,60,60,12,0,0,False
+351130,Cedral,2022,137,137,19,0,0,False
+351140,Cerqueira César,2022,220,220,55,2,2,False
+351150,Cerquilho,2022,475,475,45,1,1,False
+351160,Cesário Lange,2022,238,238,35,0,0,False
+351170,Charqueada,2022,192,192,21,5,5,False
+351190,Clementina,2022,88,87,9,1,1,False
+351200,Colina,2022,218,218,30,0,0,False
+351210,Colômbia,2022,79,79,18,1,1,False
+351220,Conchal,2022,413,413,60,2,2,False
+351230,Conchas,2022,171,171,20,0,0,False
+351240,Cordeirópolis,2022,293,293,45,0,0,False
+351250,Coroados,2022,47,47,14,2,1,False
+351260,Coronel Macedo,2022,41,41,8,0,0,False
+351270,Corumbataí,2022,40,40,3,0,0,False
+351280,Cosmópolis,2022,616,612,111,4,2,False
+351290,Cosmorama,2022,102,102,22,0,0,False
+351300,Cotia,2022,3692,3651,1053,8,4,True
+351310,Cravinhos,2022,360,359,53,5,3,False
+351320,Cristais Paulista,2022,109,109,18,1,1,False
+351330,Cruzália,2022,12,12,2,0,0,False
+351340,Cruzeiro,2022,854,854,211,2,2,False
+351350,Cubatão,2022,1341,1341,310,44,31,True
+351360,Cunha,2022,241,241,46,0,0,False
+351370,Descalvado,2022,287,286,28,0,0,False
+351380,Diadema,2022,4235,4210,801,36,18,True
+351385,Dirce Reis,2022,12,12,1,0,0,False
+351390,Divinolândia,2022,115,115,10,1,0,False
+351400,Dobrada,2022,107,106,6,0,0,False
+351410,Dois Córregos,2022,271,271,55,0,0,False
+351420,Dolcinópolis,2022,23,23,1,0,0,False
+351430,Dourado,2022,85,85,17,1,1,False
+351440,Dracena,2022,499,499,61,4,4,False
+351450,Duartina,2022,135,135,23,2,2,False
+351460,Dumont,2022,107,106,14,1,0,False
+351470,Echaporã,2022,82,81,4,1,0,False
+351480,Eldorado,2022,146,145,18,4,2,False
+351490,Elias Fausto,2022,190,190,29,0,0,False
+351492,Elisiário,2022,18,18,6,0,0,False
+351495,Embaúba,2022,14,14,6,0,0,False
+351500,Embu das Artes,2022,3440,3437,825,56,42,True
+351510,Embu-Guaçu,2022,755,744,169,13,5,False
+351512,Emilianópolis,2022,24,24,4,0,0,False
+351515,Engenheiro Coelho,2022,256,256,33,0,0,False
+351518,Espírito Santo do Pinhal,2022,394,394,41,0,0,False
+351519,Espírito Santo do Turvo,2022,70,70,11,0,0,False
+351520,Estrela d'Oeste,2022,84,84,6,0,0,False
+351530,Estrela do Norte,2022,23,23,3,0,0,False
+351535,Euclides da Cunha Paulista,2022,93,93,7,1,0,False
+351540,Fartura,2022,179,179,14,2,1,False
+351550,Fernandópolis,2022,751,751,76,2,0,False
+351560,Fernando Prestes,2022,57,57,16,0,0,False
+351565,Fernão,2022,19,19,2,0,0,False
+351570,Ferraz de Vasconcelos,2022,2373,2371,653,41,24,True
+351580,Flora Rica,2022,16,16,2,0,0,False
+351590,Floreal,2022,19,19,2,0,0,False
+351600,Flórida Paulista,2022,89,89,10,0,0,False
+351610,Florínia,2022,30,30,6,0,0,False
+351620,Franca,2022,4229,4218,1208,34,10,True
+351630,Francisco Morato,2022,2597,2596,635,20,12,True
+351640,Franco da Rocha,2022,1943,1943,462,9,4,True
+351650,Gabriel Monteiro,2022,21,21,4,1,1,False
+351660,Gália,2022,53,53,9,1,0,False
+351670,Garça,2022,449,449,75,14,9,False
+351680,Gastão Vidigal,2022,26,26,8,1,0,False
+351685,Gavião Peixoto,2022,47,47,5,0,0,False
+351690,General Salgado,2022,96,96,8,0,0,False
+351700,Getulina,2022,79,79,16,2,2,False
+351710,Glicério,2022,38,38,6,0,0,False
+351720,Guaiçara,2022,146,146,21,1,0,False
+351730,Guaimbê,2022,51,51,15,0,0,False
+351740,Guaíra,2022,437,436,39,1,1,False
+351750,Guapiaçu,2022,236,236,35,2,2,False
+351760,Guapiara,2022,194,194,6,0,0,False
+351770,Guará,2022,201,201,14,1,0,False
+351780,Guaraçaí,2022,47,47,1,0,0,False
+351790,Guaraci,2022,117,115,28,1,0,False
+351800,Guarani d'Oeste,2022,22,22,3,0,0,False
+351810,Guarantã,2022,85,85,15,2,2,False
+351820,Guararapes,2022,307,307,27,5,0,False
+351830,Guararema,2022,340,340,23,2,2,False
+351840,Guaratinguetá,2022,1315,1314,322,1,1,True
+351850,Guareí,2022,133,133,6,0,0,False
+351860,Guariba,2022,449,448,93,4,2,False
+351870,Guarujá,2022,3667,3656,778,42,17,True
+351880,Guarulhos,2022,17612,17607,6445,336,235,True
+351885,Guatapará,2022,80,79,8,0,0,False
+351890,Guzolândia,2022,43,43,12,1,1,False
+351900,Herculândia,2022,107,107,16,1,1,False
+351905,Holambra,2022,232,230,45,0,0,False
+351907,Hortolândia,2022,2719,2713,448,13,7,True
+351910,Iacanga,2022,133,133,10,1,1,False
+351920,Iacri,2022,67,67,14,1,1,False
+351925,Iaras,2022,73,73,13,0,0,False
+351930,Ibaté,2022,426,423,55,1,1,False
+351940,Ibirá,2022,130,130,15,1,1,False
+351950,Ibirarema,2022,60,60,10,0,0,False
+351960,Ibitinga,2022,718,715,62,2,2,False
+351970,Ibiúna,2022,1048,1040,305,1,1,True
+351980,Icém,2022,91,91,16,0,0,False
+351990,Iepê,2022,85,85,2,1,1,False
+352000,Igaraçu do Tietê,2022,229,229,31,3,0,False
+352010,Igarapava,2022,279,279,33,1,0,False
+352020,Igaratá,2022,139,139,17,2,2,False
+352030,Iguape,2022,306,304,66,9,7,False
+352040,Ilhabela,2022,485,485,50,0,0,False
+352042,Ilha Comprida,2022,146,143,24,3,1,False
+352044,Ilha Solteira,2022,216,215,25,0,0,False
+352050,Indaiatuba,2022,3204,3200,388,12,8,True
+352060,Indiana,2022,31,31,3,0,0,False
+352070,Indiaporã,2022,41,41,3,0,0,False
+352080,Inúbia Paulista,2022,37,37,3,0,0,False
+352090,Ipaussu,2022,173,172,33,0,0,False
+352100,Iperó,2022,377,377,31,1,1,False
+352110,Ipeúna,2022,65,65,8,1,1,False
+352115,Ipiguá,2022,73,73,8,0,0,False
+352120,Iporanga,2022,49,49,10,0,0,False
+352130,Ipuã,2022,147,147,10,0,0,False
+352140,Iracemápolis,2022,221,221,31,0,0,False
+352150,Irapuã,2022,53,53,10,0,0,False
+352160,Irapuru,2022,55,55,5,2,1,False
+352170,Itaberá,2022,201,201,13,0,0,False
+352180,Itaí,2022,342,342,65,5,3,False
+352190,Itajobi,2022,202,202,41,0,0,False
+352200,Itaju,2022,36,36,5,0,0,False
+352210,Itanhaém,2022,1328,1327,284,6,6,True
+352215,Itaóca,2022,44,44,6,0,0,False
+352220,Itapecerica da Serra,2022,2076,2042,497,35,20,True
+352230,Itapetininga,2022,1954,1946,187,1,1,True
+352240,Itapeva,2022,1252,1252,96,1,0,True
+352250,Itapevi,2022,3551,3497,1376,60,35,True
+352260,Itapira,2022,653,651,132,6,4,False
+352265,Itapirapuã Paulista,2022,75,75,7,0,0,False
+352270,Itápolis,2022,423,421,76,0,0,False
+352280,Itaporanga,2022,170,170,19,0,0,False
+352290,Itapuí,2022,192,192,31,1,0,False
+352300,Itapura,2022,44,44,6,0,0,False
+352310,Itaquaquecetuba,2022,5164,5084,1836,122,70,True
+352320,Itararé,2022,567,567,138,0,0,False
+352330,Itariri,2022,153,153,20,1,1,False
+352340,Itatiba,2022,1340,1331,150,1,1,True
+352350,Itatinga,2022,249,249,33,2,0,False
+352360,Itirapina,2022,157,156,28,1,1,False
+352370,Itirapuã,2022,52,52,10,0,0,False
+352380,Itobi,2022,81,81,10,0,0,False
+352390,Itu,2022,2096,2091,329,3,2,True
+352400,Itupeva,2022,891,891,64,1,1,False
+352410,Ituverava,2022,460,458,83,0,0,False
+352420,Jaborandi,2022,54,53,3,0,0,False
+352430,Jaboticabal,2022,729,729,90,13,6,False
+352440,Jacareí,2022,2680,2680,493,32,27,True
+352450,Jaci,2022,84,84,17,0,0,False
+352460,Jacupiranga,2022,181,178,17,2,2,False
+352470,Jaguariúna,2022,781,781,106,2,2,False
+352480,Jales,2022,500,500,91,4,1,False
+352490,Jambeiro,2022,56,56,6,0,0,False
+352500,Jandira,2022,1315,1306,394,16,12,True
+352510,Jardinópolis,2022,507,502,73,6,5,False
+352520,Jarinu,2022,422,422,83,2,0,False
+352530,Jaú,2022,1481,1481,327,12,4,True
+352540,Jeriquara,2022,43,43,4,0,0,False
+352550,Joanópolis,2022,122,121,21,0,0,False
+352560,João Ramalho,2022,58,58,10,0,0,False
+352570,José Bonifácio,2022,422,422,72,3,3,False
+352580,Júlio Mesquita,2022,56,54,9,1,0,False
+352585,Jumirim,2022,40,40,1,0,0,False
+352590,Jundiaí,2022,5447,5439,616,25,17,True
+352600,Junqueirópolis,2022,195,195,17,2,2,False
+352610,Juquiá,2022,263,262,55,4,2,False
+352620,Juquitiba,2022,345,342,81,3,3,False
+352630,Lagoinha,2022,39,39,4,0,0,False
+352640,Laranjal Paulista,2022,335,335,60,1,1,False
+352650,Lavínia,2022,54,54,6,0,0,False
+352660,Lavrinhas,2022,97,97,19,3,1,False
+352670,Leme,2022,1015,1015,104,3,1,True
+352680,Lençóis Paulista,2022,827,819,121,4,2,False
+352690,Limeira,2022,3255,3255,764,5,0,True
+352700,Lindóia,2022,63,62,14,0,0,False
+352710,Lins,2022,797,797,150,5,2,False
+352720,Lorena,2022,1028,1027,211,13,7,True
+352725,Lourdes,2022,18,18,0,0,0,False
+352730,Louveira,2022,711,710,47,2,2,False
+352740,Lucélia,2022,172,171,31,4,1,False
+352750,Lucianópolis,2022,24,24,1,1,1,False
+352760,Luís Antônio,2022,146,144,22,0,0,False
+352770,Luiziânia,2022,69,69,9,1,1,False
+352780,Lupércio,2022,45,45,7,0,0,False
+352790,Lutécia,2022,20,20,3,0,0,False
+352800,Macatuba,2022,161,161,21,2,2,False
+352810,Macaubal,2022,73,73,9,1,0,False
+352820,Macedônia,2022,40,40,9,0,0,False
+352830,Magda,2022,26,26,1,1,1,False
+352840,Mairinque,2022,583,582,151,3,1,False
+352850,Mairiporã,2022,949,949,191,5,4,False
+352860,Manduri,2022,82,82,8,0,0,False
+352870,Marabá Paulista,2022,31,31,5,1,1,False
+352880,Maracaí,2022,106,106,15,2,2,False
+352885,Marapoama,2022,32,32,6,0,0,False
+352890,Mariápolis,2022,28,28,1,0,0,False
+352900,Marília,2022,2812,2799,607,51,30,True
+352910,Marinópolis,2022,17,17,4,1,1,False
+352920,Martinópolis,2022,260,260,57,2,2,False
+352930,Matão,2022,786,784,98,0,0,False
+352940,Mauá,2022,4390,4387,822,68,53,True
+352950,Mendonça,2022,76,76,8,0,0,False
+352960,Meridiano,2022,38,38,3,0,0,False
+352965,Mesópolis,2022,20,20,2,0,0,False
+352970,Miguelópolis,2022,228,226,59,1,1,False
+352980,Mineiros do Tietê,2022,135,134,15,0,0,False
+352990,Miracatu,2022,245,244,46,2,2,False
+353000,Mira Estrela,2022,25,25,1,0,0,False
+353010,Mirandópolis,2022,204,204,43,0,0,False
+353020,Mirante do Paranapanema,2022,164,164,19,1,1,False
+353030,Mirassol,2022,725,725,144,1,1,False
+353040,Mirassolândia,2022,45,45,2,0,0,False
+353050,Mococa,2022,715,714,84,3,2,False
+353060,Mogi das Cruzes,2022,5393,5392,1025,27,17,True
+353070,Mogi Guaçu,2022,1741,1710,284,10,5,True
+353080,Mogi Mirim,2022,909,908,142,4,2,False
+353090,Mombuca,2022,52,52,9,0,0,False
+353100,Monções,2022,14,14,1,0,0,False
+353110,Mongaguá,2022,703,701,151,9,9,False
+353120,Monte Alegre do Sul,2022,73,72,11,1,0,False
+353130,Monte Alto,2022,464,463,48,3,2,False
+353140,Monte Aprazível,2022,215,215,28,2,1,False
+353150,Monte Azul Paulista,2022,202,201,45,0,0,False
+353160,Monte Castelo,2022,49,49,11,0,0,False
+353170,Monteiro Lobato,2022,43,43,10,0,0,False
+353180,Monte Mor,2022,893,893,164,1,1,False
+353190,Morro Agudo,2022,315,314,47,0,0,False
+353200,Morungaba,2022,190,189,26,0,0,False
+353205,Motuca,2022,23,23,3,0,0,False
+353210,Murutinga do Sul,2022,32,32,5,0,0,False
+353215,Nantes,2022,41,41,5,0,0,False
+353220,Narandiba,2022,77,77,15,3,3,False
+353230,Natividade da Serra,2022,64,64,24,0,0,False
+353240,Nazaré Paulista,2022,209,209,61,0,0,False
+353250,Neves Paulista,2022,88,88,5,0,0,False
+353260,Nhandeara,2022,75,75,9,0,0,False
+353270,Nipoã,2022,67,67,7,0,0,False
+353280,Nova Aliança,2022,73,73,9,0,0,False
+353282,Nova Campina,2022,126,126,10,0,0,False
+353284,Nova Canaã Paulista,2022,18,18,0,0,0,False
+353286,Nova Castilho,2022,13,13,2,0,0,False
+353290,Nova Europa,2022,94,94,7,0,0,False
+353300,Nova Granada,2022,236,236,50,5,4,False
+353310,Nova Guataporanga,2022,21,21,5,0,0,False
+353320,Nova Independência,2022,41,41,6,0,0,False
+353325,Novais,2022,51,50,16,0,0,False
+353330,Nova Luzitânia,2022,24,24,7,0,0,False
+353340,Nova Odessa,2022,577,577,60,0,0,False
+353350,Novo Horizonte,2022,390,390,43,0,0,False
+353360,Nuporanga,2022,74,74,6,0,0,False
+353370,Ocauçu,2022,74,74,9,0,0,False
+353380,Óleo,2022,15,15,1,0,0,False
+353390,Olímpia,2022,621,621,84,5,3,False
+353400,Onda Verde,2022,52,52,5,0,0,False
+353410,Oriente,2022,69,69,12,0,0,False
+353420,Orindiúva,2022,75,75,6,0,0,False
+353430,Orlândia,2022,413,412,56,0,0,False
+353440,Osasco,2022,8118,8116,2779,242,160,True
+353450,Oscar Bressane,2022,15,15,1,1,0,False
+353460,Osvaldo Cruz,2022,314,314,25,2,1,False
+353470,Ourinhos,2022,1171,1170,212,14,4,True
+353475,Ouroeste,2022,92,92,7,0,0,False
+353480,Ouro Verde,2022,99,99,25,0,0,False
+353490,Pacaembu,2022,93,93,10,0,0,False
+353500,Palestina,2022,104,104,13,0,0,False
+353510,Palmares Paulista,2022,105,105,31,0,0,False
+353520,Palmeira d'Oeste,2022,71,71,6,0,0,False
+353530,Palmital,2022,183,183,18,3,1,False
+353540,Panorama,2022,173,173,32,6,5,False
+353550,Paraguaçu Paulista,2022,442,442,70,2,2,False
+353560,Paraibuna,2022,203,203,66,0,0,False
+353570,Paraíso,2022,60,60,18,0,0,False
+353580,Paranapanema,2022,285,285,48,0,0,False
+353590,Paranapuã,2022,46,46,10,1,0,False
+353600,Parapuã,2022,90,90,12,0,0,False
+353610,Pardinho,2022,103,103,9,1,0,False
+353620,Pariquera-Açu,2022,238,235,37,3,2,False
+353625,Parisi,2022,28,28,3,0,0,False
+353630,Patrocínio Paulista,2022,179,179,31,0,0,False
+353640,Paulicéia,2022,99,99,5,1,1,False
+353650,Paulínia,2022,1351,1350,151,3,3,True
+353657,Paulistânia,2022,24,24,4,0,0,False
+353660,Paulo de Faria,2022,74,74,12,1,1,False
+353670,Pederneiras,2022,538,538,77,3,2,False
+353680,Pedra Bela,2022,74,74,18,0,0,False
+353690,Pedranópolis,2022,18,18,3,0,0,False
+353700,Pedregulho,2022,200,200,29,0,0,False
+353710,Pedreira,2022,445,443,70,2,1,False
+353715,Pedrinhas Paulista,2022,34,34,0,0,0,False
+353720,Pedro de Toledo,2022,91,91,23,1,1,False
+353730,Penápolis,2022,680,680,116,1,1,False
+353740,Pereira Barreto,2022,198,198,30,1,0,False
+353750,Pereiras,2022,104,104,17,0,0,False
+353760,Peruíbe,2022,905,904,147,7,5,False
+353770,Piacatu,2022,54,54,9,0,0,False
+353780,Piedade,2022,615,613,82,2,1,False
+353790,Pilar do Sul,2022,366,366,57,1,1,False
+353800,Pindamonhangaba,2022,2117,2115,334,3,1,True
+353810,Pindorama,2022,103,103,21,0,0,False
+353820,Pinhalzinho,2022,128,128,18,2,0,False
+353830,Piquerobi,2022,25,25,4,0,0,False
+353850,Piquete,2022,112,112,43,0,0,False
+353860,Piracaia,2022,359,359,76,3,2,False
+353870,Piracicaba,2022,4767,4753,815,20,11,True
+353880,Piraju,2022,296,296,39,1,1,False
+353890,Pirajuí,2022,182,182,25,1,1,False
+353900,Pirangi,2022,120,120,27,0,0,False
+353910,Pirapora do Bom Jesus,2022,236,235,53,4,2,False
+353920,Pirapozinho,2022,257,257,33,3,2,False
+353930,Pirassununga,2022,764,764,164,4,3,False
+353940,Piratininga,2022,165,165,34,3,3,False
+353950,Pitangueiras,2022,392,392,42,5,2,False
+353960,Planalto,2022,36,36,4,0,0,False
+353970,Platina,2022,32,32,8,0,0,False
+353980,Poá,2022,1261,1260,364,16,9,True
+353990,Poloni,2022,62,62,12,0,0,False
+354000,Pompéia,2022,212,211,26,2,1,False
+354010,Pongaí,2022,30,30,3,0,0,False
+354020,Pontal,2022,488,488,71,10,4,False
+354025,Pontalinda,2022,46,46,5,0,0,False
+354030,Pontes Gestal,2022,28,28,5,0,0,False
+354040,Populina,2022,25,25,4,0,0,False
+354050,Porangaba,2022,93,93,24,0,0,False
+354060,Porto Feliz,2022,609,608,60,0,0,False
+354070,Porto Ferreira,2022,546,542,112,1,1,False
+354075,Potim,2022,232,231,42,0,0,False
+354080,Potirendaba,2022,207,207,36,0,0,False
+354085,Pracinha,2022,21,21,1,1,0,False
+354090,Pradópolis,2022,150,150,20,0,0,False
+354100,Praia Grande,2022,4214,4213,745,97,67,True
+354105,Pratânia,2022,81,81,4,0,0,False
+354110,Presidente Alves,2022,38,38,4,3,3,False
+354120,Presidente Bernardes,2022,122,122,11,0,0,False
+354130,Presidente Epitácio,2022,381,379,96,2,1,False
+354140,Presidente Prudente,2022,2461,2461,298,28,26,True
+354150,Presidente Venceslau,2022,281,281,56,8,7,False
+354160,Promissão,2022,369,369,62,7,7,False
+354165,Quadra,2022,50,50,4,0,0,False
+354170,Quatá,2022,159,159,22,1,0,False
+354180,Queiroz,2022,51,51,5,0,0,False
+354190,Queluz,2022,124,124,41,0,0,False
+354200,Quintana,2022,81,80,9,1,0,False
+354210,Rafard,2022,103,102,19,0,0,False
+354220,Rancharia,2022,300,300,39,1,0,False
+354230,Redenção da Serra,2022,37,37,9,0,0,False
+354240,Regente Feijó,2022,200,200,27,4,3,False
+354250,Reginópolis,2022,60,60,8,2,2,False
+354260,Registro,2022,703,703,125,4,2,False
+354270,Restinga,2022,83,83,21,0,0,False
+354280,Ribeira,2022,38,38,13,0,0,False
+354290,Ribeirão Bonito,2022,134,134,19,0,0,False
+354300,Ribeirão Branco,2022,245,245,18,0,0,False
+354310,Ribeirão Corrente,2022,58,58,14,0,0,False
+354320,Ribeirão do Sul,2022,51,51,6,0,0,False
+354323,Ribeirão dos Índios,2022,15,15,0,0,0,False
+354325,Ribeirão Grande,2022,78,78,3,0,0,False
+354330,Ribeirão Pires,2022,1052,1046,266,12,5,True
+354340,Ribeirão Preto,2022,7945,7868,902,78,57,True
+354350,Riversul,2022,58,58,4,0,0,False
+354360,Rifaina,2022,45,45,8,0,0,False
+354370,Rincão,2022,80,80,9,0,0,False
+354380,Rinópolis,2022,93,93,13,2,1,False
+354390,Rio Claro,2022,2233,2232,293,11,8,True
+354400,Rio das Pedras,2022,365,364,80,1,0,False
+354410,Rio Grande da Serra,2022,466,465,136,2,1,False
+354420,Riolândia,2022,97,97,6,0,0,False
+354425,Rosana,2022,201,201,20,1,1,False
+354430,Roseira,2022,95,94,15,3,2,False
+354440,Rubiácea,2022,22,22,4,0,0,False
+354450,Rubinéia,2022,36,36,3,0,0,False
+354460,Sabino,2022,38,38,5,2,2,False
+354470,Sagres,2022,32,32,2,0,0,False
+354480,Sales,2022,55,55,11,0,0,False
+354490,Sales Oliveira,2022,128,128,9,0,0,False
+354500,Salesópolis,2022,177,177,69,2,1,False
+354510,Salmourão,2022,44,44,12,0,0,False
+354515,Saltinho,2022,85,85,15,0,0,False
+354520,Salto,2022,1597,1595,257,8,4,True
+354530,Salto de Pirapora,2022,484,484,37,2,2,False
+354540,Salto Grande,2022,88,88,12,0,0,False
+354550,Sandovalina,2022,47,47,9,0,0,False
+354560,Santa Adélia,2022,153,153,29,1,1,False
+354570,Santa Albertina,2022,57,57,12,0,0,False
+354580,Santa Bárbara d'Oeste,2022,1928,1927,244,2,1,True
+354600,Santa Branca,2022,125,125,23,0,0,False
+354610,Santa Clara d'Oeste,2022,24,24,5,1,1,False
+354620,Santa Cruz da Conceição,2022,30,30,1,0,0,False
+354625,Santa Cruz da Esperança,2022,23,23,5,0,0,False
+354630,Santa Cruz das Palmeiras,2022,341,341,35,1,1,False
+354640,Santa Cruz do Rio Pardo,2022,597,597,55,0,0,False
+354650,Santa Ernestina,2022,71,71,5,0,0,False
+354660,Santa Fé do Sul,2022,394,394,45,2,2,False
+354670,Santa Gertrudes,2022,262,262,26,0,0,False
+354680,Santa Isabel,2022,605,605,123,1,1,False
+354690,Santa Lúcia,2022,82,82,12,0,0,False
+354700,Santa Maria da Serra,2022,59,58,12,0,0,False
+354710,Santa Mercedes,2022,31,31,7,0,0,False
+354720,Santana da Ponte Pensa,2022,15,15,2,0,0,False
+354730,Santana de Parnaíba,2022,2226,2223,384,18,16,True
+354740,Santa Rita d'Oeste,2022,20,20,2,1,1,False
+354750,Santa Rita do Passa Quatro,2022,216,216,27,4,3,False
+354760,Santa Rosa de Viterbo,2022,214,210,48,1,0,False
+354765,Santa Salete,2022,12,12,0,0,0,False
+354770,Santo Anastácio,2022,184,184,20,3,2,False
+354780,Santo André,2022,7625,7624,1571,75,49,True
+354790,Santo Antônio da Alegria,2022,79,79,7,0,0,False
+354800,Santo Antônio de Posse,2022,280,279,42,2,1,False
+354805,Santo Antônio do Aracanguá,2022,67,67,16,1,1,False
+354810,Santo Antônio do Jardim,2022,56,56,7,0,0,False
+354820,Santo Antônio do Pinhal,2022,83,83,11,0,0,False
+354830,Santo Expedito,2022,32,32,3,1,1,False
+354840,Santópolis do Aguapeí,2022,47,46,5,0,0,False
+354850,Santos,2022,3754,3753,650,36,21,True
+354860,São Bento do Sapucaí,2022,101,101,11,0,0,False
+354870,São Bernardo do Campo,2022,8030,8024,1337,52,33,True
+354880,São Caetano do Sul,2022,1387,1387,181,16,13,True
+354890,São Carlos,2022,2607,2569,408,32,27,True
+354900,São Francisco,2022,29,29,2,0,0,False
+354910,São João da Boa Vista,2022,922,920,118,2,2,False
+354920,São João das Duas Pontes,2022,29,29,2,0,0,False
+354925,São João de Iracema,2022,25,25,1,0,0,False
+354930,São João do Pau d'Alho,2022,19,18,7,1,1,False
+354940,São Joaquim da Barra,2022,486,485,87,3,0,False
+354950,São José da Bela Vista,2022,75,75,12,1,0,False
+354960,São José do Barreiro,2022,39,39,8,0,0,False
+354970,São José do Rio Pardo,2022,538,538,36,4,2,False
+354980,São José do Rio Preto,2022,5004,5003,544,33,19,True
+354990,São José dos Campos,2022,8072,8068,1191,78,57,True
+354995,São Lourenço da Serra,2022,204,203,49,3,2,False
+355000,São Luís do Paraitinga,2022,105,105,14,0,0,False
+355010,São Manuel,2022,422,422,45,0,0,False
+355020,São Miguel Arcanjo,2022,351,350,41,1,1,False
+355030,São Paulo,2022,132050,132033,22373,1004,715,True
+355040,São Pedro,2022,409,407,55,7,3,False
+355050,São Pedro do Turvo,2022,89,89,12,1,0,False
+355060,São Roque,2022,904,899,133,2,1,False
+355070,São Sebastião,2022,1111,1105,171,16,6,True
+355080,São Sebastião da Grama,2022,95,95,4,0,0,False
+355090,São Simão,2022,123,122,13,2,0,False
+355100,São Vicente,2022,3497,3493,1040,60,42,True
+355110,Sarapuí,2022,110,110,12,0,0,False
+355120,Sarutaiá,2022,49,49,6,0,0,False
+355130,Sebastianópolis do Sul,2022,27,27,3,0,0,False
+355140,Serra Azul,2022,104,104,12,0,0,False
+355150,Serrana,2022,542,535,62,8,4,False
+355160,Serra Negra,2022,253,253,37,2,2,False
+355170,Sertãozinho,2022,1437,1433,207,11,6,True
+355180,Sete Barras,2022,144,144,31,0,0,False
+355190,Severínia,2022,147,147,20,1,1,False
+355200,Silveiras,2022,71,70,13,0,0,False
+355210,Socorro,2022,408,407,70,1,0,False
+355220,Sorocaba,2022,8814,8764,1235,40,20,True
+355230,Sud Mennucci,2022,75,75,10,3,2,False
+355240,Sumaré,2022,3252,3241,460,10,6,True
+355250,Suzano,2022,3968,3958,875,36,17,True
+355255,Suzanápolis,2022,30,30,8,0,0,False
+355260,Tabapuã,2022,94,93,26,0,0,False
+355270,Tabatinga,2022,180,180,47,0,0,False
+355280,Taboão da Serra,2022,3298,3298,655,23,11,True
+355290,Taciba,2022,88,88,9,0,0,False
+355300,Taguaí,2022,150,150,11,1,1,False
+355310,Taiaçu,2022,49,49,13,0,0,False
+355320,Taiúva,2022,52,52,14,0,0,False
+355330,Tambaú,2022,235,233,33,1,1,False
+355340,Tanabi,2022,261,261,35,0,0,False
+355350,Tapiraí,2022,99,96,13,0,0,False
+355360,Tapiratiba,2022,89,89,2,1,1,False
+355365,Taquaral,2022,20,20,2,0,0,False
+355370,Taquaritinga,2022,527,527,65,1,0,False
+355380,Taquarituba,2022,275,275,18,2,1,False
+355385,Taquarivaí,2022,74,74,6,0,0,False
+355390,Tarabai,2022,63,63,15,2,1,False
+355395,Tarumã,2022,185,185,13,1,0,False
+355400,Tatuí,2022,1689,1689,228,9,3,True
+355410,Taubaté,2022,3348,3345,656,55,50,True
+355420,Tejupá,2022,51,51,5,0,0,False
+355430,Teodoro Sampaio,2022,250,250,24,4,3,False
+355440,Terra Roxa,2022,71,71,11,0,0,False
+355450,Tietê,2022,439,439,54,0,0,False
+355460,Timburi,2022,16,16,6,0,0,False
+355465,Torre de Pedra,2022,25,25,3,2,2,False
+355470,Torrinha,2022,105,105,29,0,0,False
+355475,Trabiju,2022,19,19,2,0,0,False
+355480,Tremembé,2022,452,451,108,4,4,False
+355490,Três Fronteiras,2022,59,59,9,1,0,False
+355495,Tuiuti,2022,57,57,15,0,0,False
+355500,Tupã,2022,598,598,75,4,4,False
+355510,Tupi Paulista,2022,134,134,22,5,5,False
+355520,Turiúba,2022,15,15,2,0,0,False
+355530,Turmalina,2022,12,12,1,1,1,False
+355535,Ubarana,2022,55,55,7,0,0,False
+355540,Ubatuba,2022,1234,1234,306,8,6,True
+355550,Ubirajara,2022,73,73,19,2,2,False
+355560,Uchoa,2022,96,96,7,0,0,False
+355570,União Paulista,2022,20,20,1,0,0,False
+355580,Urânia,2022,85,85,10,1,0,False
+355590,Uru,2022,12,12,1,0,0,False
+355600,Urupês,2022,136,136,22,1,1,False
+355610,Valentim Gentil,2022,166,166,17,0,0,False
+355620,Valinhos,2022,1233,1231,149,1,0,True
+355630,Valparaíso,2022,256,256,26,1,1,False
+355635,Vargem,2022,122,122,15,1,0,False
+355640,Vargem Grande do Sul,2022,465,465,55,1,1,False
+355645,Vargem Grande Paulista,2022,670,665,123,2,1,False
+355650,Várzea Paulista,2022,1292,1291,278,5,1,True
+355660,Vera Cruz,2022,110,109,23,0,0,False
+355670,Vinhedo,2022,880,877,91,1,0,False
+355680,Viradouro,2022,211,211,36,0,0,False
+355690,Vista Alegre do Alto,2022,72,72,13,0,0,False
+355695,Vitória Brasil,2022,26,26,2,0,0,False
+355700,Votorantim,2022,1591,1584,209,8,6,True
+355710,Votuporanga,2022,1073,1073,103,3,2,True
+355715,Zacarias,2022,18,18,3,0,0,False
+355720,Chavantes,2022,138,138,33,0,0,False
+355730,Estiva Gerbi,2022,126,124,24,0,0,False
+350010,Adamantina,2023,360,360,26,1,1,False
+350020,Adolfo,2023,49,49,3,0,0,False
+350030,Aguaí,2023,378,378,36,1,1,False
+350040,Águas da Prata,2023,57,57,10,2,1,False
+350050,Águas de Lindóia,2023,221,220,26,3,3,False
+350055,Águas de Santa Bárbara,2023,73,73,12,0,0,False
+350060,Águas de São Pedro,2023,30,30,2,0,0,False
+350070,Agudos,2023,469,469,94,0,0,False
+350075,Alambari,2023,66,66,2,0,0,False
+350080,Alfredo Marcondes,2023,46,46,5,0,0,False
+350090,Altair,2023,24,24,3,0,0,False
+350100,Altinópolis,2023,153,151,12,1,1,False
+350110,Alto Alegre,2023,37,37,5,0,0,False
+350115,Alumínio,2023,174,174,35,0,0,False
+350120,Álvares Florence,2023,35,35,1,0,0,False
+350130,Álvares Machado,2023,335,335,33,5,5,False
+350140,Álvaro de Carvalho,2023,32,31,11,1,1,False
+350150,Alvinlândia,2023,34,34,2,0,0,False
+350160,Americana,2023,2311,2308,294,14,8,True
+350170,Américo Brasiliense,2023,368,368,36,0,0,False
+350180,Américo de Campos,2023,53,53,3,1,0,False
+350190,Amparo,2023,721,716,111,0,0,False
+350200,Analândia,2023,52,51,7,0,0,False
+350210,Andradina,2023,554,552,60,2,1,False
+350220,Angatuba,2023,319,318,21,0,0,False
+350230,Anhembi,2023,69,69,12,0,0,False
+350240,Anhumas,2023,53,53,5,0,0,False
+350250,Aparecida,2023,304,304,67,1,0,False
+350260,Aparecida d'Oeste,2023,37,37,9,0,0,False
+350270,Apiaí,2023,316,316,28,0,0,False
+350275,Araçariguama,2023,331,330,37,0,0,False
+350280,Araçatuba,2023,1975,1975,276,15,13,True
+350290,Araçoiaba da Serra,2023,377,377,67,0,0,False
+350300,Aramina,2023,67,67,9,0,0,False
+350310,Arandu,2023,82,82,10,0,0,False
+350315,Arapeí,2023,27,26,3,0,0,False
+350320,Araraquara,2023,2527,2526,409,12,4,True
+350330,Araras,2023,1312,1312,247,0,0,True
+350335,Arco-Íris,2023,24,24,6,0,0,False
+350340,Arealva,2023,76,76,6,2,1,False
+350350,Areias,2023,53,53,16,0,0,False
+350360,Areiópolis,2023,127,127,16,0,0,False
+350370,Ariranha,2023,46,46,9,0,0,False
+350380,Artur Nogueira,2023,605,602,80,3,2,False
+350390,Arujá,2023,1290,1288,199,8,6,True
+350395,Aspásia,2023,19,19,0,0,0,False
+350400,Assis,2023,1041,1041,138,9,7,True
+350410,Atibaia,2023,2026,2025,403,2,1,True
+350420,Auriflama,2023,132,132,17,1,1,False
+350430,Avaí,2023,70,70,5,1,1,False
+350440,Avanhandava,2023,130,130,20,2,2,False
+350450,Avaré,2023,1041,1041,231,8,0,True
+350460,Bady Bassitt,2023,365,365,23,1,1,False
+350470,Balbinos,2023,17,17,5,0,0,False
+350480,Bálsamo,2023,95,95,3,0,0,False
+350490,Bananal,2023,93,91,19,0,0,False
+350500,Barão de Antonina,2023,47,47,3,0,0,False
+350510,Barbosa,2023,66,66,10,0,0,False
+350520,Bariri,2023,373,369,98,2,2,False
+350530,Barra Bonita,2023,275,275,51,2,2,False
+350535,Barra do Chapéu,2023,69,69,3,0,0,False
+350540,Barra do Turvo,2023,78,78,17,3,2,False
+350550,Barretos,2023,1374,1372,238,6,4,True
+350560,Barrinha,2023,419,418,61,4,2,False
+350570,Barueri,2023,5102,5101,1043,22,17,True
+350580,Bastos,2023,231,231,17,0,0,False
+350590,Batatais,2023,631,626,58,2,1,False
+350600,Bauru,2023,4218,4217,576,125,110,True
+350610,Bebedouro,2023,783,783,171,3,2,False
+350620,Bento de Abreu,2023,33,33,7,0,0,False
+350630,Bernardino de Campos,2023,109,109,8,0,0,False
+350635,Bertioga,2023,991,991,221,8,8,False
+350640,Bilac,2023,49,49,3,0,0,False
+350650,Birigui,2023,1209,1205,147,6,2,True
+350660,Biritiba-Mirim,2023,336,336,73,2,2,False
+350670,Boa Esperança do Sul,2023,149,149,21,0,0,False
+350680,Bocaina,2023,122,122,15,1,0,False
+350690,Bofete,2023,129,129,19,2,2,False
+350700,Boituva,2023,810,809,113,1,0,False
+350710,Bom Jesus dos Perdões,2023,299,299,51,0,0,False
+350715,Bom Sucesso de Itararé,2023,50,50,4,0,0,False
+350720,Borá,2023,0,0,0,0,0,False
+350730,Boracéia,2023,58,58,3,0,0,False
+350740,Borborema,2023,128,128,5,0,0,False
+350745,Borebi,2023,34,34,0,0,0,False
+350750,Botucatu,2023,1559,1559,181,9,7,True
+350760,Bragança Paulista,2023,2219,2219,462,0,0,True
+350770,Braúna,2023,62,62,10,0,0,False
+350775,Brejo Alegre,2023,27,27,4,0,0,False
+350780,Brodowski,2023,259,258,26,5,3,False
+350790,Brotas,2023,273,273,30,0,0,False
+350800,Buri,2023,297,297,57,2,2,False
+350810,Buritama,2023,177,177,14,0,0,False
+350820,Buritizal,2023,39,39,2,0,0,False
+350830,Cabrália Paulista,2023,47,47,1,2,2,False
+350840,Cabreúva,2023,730,729,82,4,4,False
+350850,Caçapava,2023,1041,1041,113,17,11,True
+350860,Cachoeira Paulista,2023,346,346,82,0,0,False
+350870,Caconde,2023,190,189,14,0,0,False
+350880,Cafelândia,2023,180,180,33,0,0,False
+350890,Caiabu,2023,40,40,9,0,0,False
+350900,Caieiras,2023,1147,1147,247,14,9,True
+350910,Caiuá,2023,32,32,12,0,0,False
+350920,Cajamar,2023,1305,1304,253,4,3,True
+350925,Cajati,2023,411,411,57,7,3,False
+350930,Cajobi,2023,72,72,7,0,0,False
+350940,Cajuru,2023,254,253,46,0,0,False
+350945,Campina do Monte Alegre,2023,69,69,10,0,0,False
+350950,Campinas,2023,12258,12217,2113,98,47,True
+350960,Campo Limpo Paulista,2023,881,879,229,9,4,False
+350970,Campos do Jordão,2023,657,657,67,0,0,False
+350980,Campos Novos Paulista,2023,50,50,5,1,1,False
+350990,Cananéia,2023,158,157,53,3,2,False
+350995,Canas,2023,79,79,10,1,1,False
+351000,Cândido Mota,2023,333,333,49,4,3,False
+351010,Cândido Rodrigues,2023,19,19,3,0,0,False
+351015,Canitar,2023,98,98,15,3,2,False
+351020,Capão Bonito,2023,588,588,29,0,0,False
+351030,Capela do Alto,2023,276,275,41,0,0,False
+351040,Capivari,2023,619,618,79,0,0,False
+351050,Caraguatatuba,2023,1627,1627,243,1,1,True
+351060,Carapicuíba,2023,5048,5045,1750,112,62,True
+351070,Cardoso,2023,106,106,6,0,0,False
+351080,Casa Branca,2023,269,269,16,0,0,False
+351090,Cássia dos Coqueiros,2023,15,15,5,0,0,False
+351100,Castilho,2023,204,204,47,1,0,False
+351110,Catanduva,2023,1153,1153,146,4,3,True
+351120,Catiguá,2023,52,52,9,0,0,False
+351130,Cedral,2023,136,136,13,2,2,False
+351140,Cerqueira César,2023,248,248,55,2,1,False
+351150,Cerquilho,2023,478,478,45,0,0,False
+351160,Cesário Lange,2023,251,251,25,0,0,False
+351170,Charqueada,2023,178,178,21,1,1,False
+351190,Clementina,2023,84,84,9,1,0,False
+351200,Colina,2023,204,204,16,1,1,False
+351210,Colômbia,2023,104,104,13,0,0,False
+351220,Conchal,2023,372,371,47,7,6,False
+351230,Conchas,2023,187,187,12,1,1,False
+351240,Cordeirópolis,2023,273,273,25,1,0,False
+351250,Coroados,2023,47,47,8,0,0,False
+351260,Coronel Macedo,2023,44,44,7,0,0,False
+351270,Corumbataí,2023,40,40,6,1,1,False
+351280,Cosmópolis,2023,610,605,96,6,2,False
+351290,Cosmorama,2023,84,84,9,0,0,False
+351300,Cotia,2023,3560,3539,921,21,6,True
+351310,Cravinhos,2023,353,352,43,0,0,False
+351320,Cristais Paulista,2023,94,94,19,0,0,False
+351330,Cruzália,2023,22,22,5,0,0,False
+351340,Cruzeiro,2023,760,760,194,1,0,False
+351350,Cubatão,2023,1304,1304,262,28,15,True
+351360,Cunha,2023,229,229,34,2,2,False
+351370,Descalvado,2023,324,323,48,1,0,False
+351380,Diadema,2023,4230,4197,754,39,30,True
+351385,Dirce Reis,2023,13,13,0,0,0,False
+351390,Divinolândia,2023,126,126,19,0,0,False
+351400,Dobrada,2023,111,110,16,0,0,False
+351410,Dois Córregos,2023,285,285,75,1,0,False
+351420,Dolcinópolis,2023,20,20,3,0,0,False
+351430,Dourado,2023,82,80,10,1,1,False
+351440,Dracena,2023,448,448,46,5,5,False
+351450,Duartina,2023,147,147,14,2,1,False
+351460,Dumont,2023,85,85,8,1,1,False
+351470,Echaporã,2023,79,79,12,0,0,False
+351480,Eldorado,2023,165,164,23,1,0,False
+351490,Elias Fausto,2023,180,180,24,0,0,False
+351492,Elisiário,2023,29,29,6,0,0,False
+351495,Embaúba,2023,19,19,7,0,0,False
+351500,Embu das Artes,2023,3332,3330,717,43,25,True
+351510,Embu-Guaçu,2023,804,792,160,6,5,False
+351512,Emilianópolis,2023,41,41,2,0,0,False
+351515,Engenheiro Coelho,2023,281,280,41,1,0,False
+351518,Espírito Santo do Pinhal,2023,413,412,41,2,2,False
+351519,Espírito Santo do Turvo,2023,72,71,4,0,0,False
+351520,Estrela d'Oeste,2023,99,99,12,2,2,False
+351530,Estrela do Norte,2023,16,16,2,0,0,False
+351535,Euclides da Cunha Paulista,2023,86,86,10,1,1,False
+351540,Fartura,2023,166,166,12,1,1,False
+351550,Fernandópolis,2023,673,673,52,3,2,False
+351560,Fernando Prestes,2023,45,44,13,0,0,False
+351565,Fernão,2023,18,18,1,0,0,False
+351570,Ferraz de Vasconcelos,2023,2279,2271,547,28,16,True
+351580,Flora Rica,2023,15,15,1,0,0,False
+351590,Floreal,2023,19,19,2,0,0,False
+351600,Flórida Paulista,2023,109,109,19,0,0,False
+351610,Florínia,2023,29,29,4,0,0,False
+351620,Franca,2023,4255,4253,949,36,15,True
+351630,Francisco Morato,2023,2489,2487,593,17,9,True
+351640,Franco da Rocha,2023,1833,1832,474,24,18,True
+351650,Gabriel Monteiro,2023,29,28,3,0,0,False
+351660,Gália,2023,49,49,3,0,0,False
+351670,Garça,2023,454,454,68,7,6,False
+351680,Gastão Vidigal,2023,33,33,5,1,1,False
+351685,Gavião Peixoto,2023,73,73,4,0,0,False
+351690,General Salgado,2023,111,111,15,0,0,False
+351700,Getulina,2023,74,74,10,2,1,False
+351710,Glicério,2023,41,41,5,0,0,False
+351720,Guaiçara,2023,153,153,15,2,1,False
+351730,Guaimbê,2023,53,53,3,1,0,False
+351740,Guaíra,2023,431,430,43,1,0,False
+351750,Guapiaçu,2023,255,255,25,3,3,False
+351760,Guapiara,2023,180,180,10,0,0,False
+351770,Guará,2023,186,186,12,0,0,False
+351780,Guaraçaí,2023,50,50,2,0,0,False
+351790,Guaraci,2023,90,90,15,0,0,False
+351800,Guarani d'Oeste,2023,16,16,1,0,0,False
+351810,Guarantã,2023,52,52,12,2,1,False
+351820,Guararapes,2023,278,278,14,2,2,False
+351830,Guararema,2023,327,327,20,1,1,False
+351840,Guaratinguetá,2023,1324,1323,366,1,0,True
+351850,Guareí,2023,144,144,10,0,0,False
+351860,Guariba,2023,377,376,76,2,1,False
+351870,Guarujá,2023,3485,3449,646,33,13,True
+351880,Guarulhos,2023,17504,17503,5952,322,221,True
+351885,Guatapará,2023,88,88,6,1,1,False
+351890,Guzolândia,2023,55,55,11,0,0,False
+351900,Herculândia,2023,109,109,20,3,1,False
+351905,Holambra,2023,215,214,37,3,2,False
+351907,Hortolândia,2023,2823,2817,438,20,12,True
+351910,Iacanga,2023,124,124,12,1,1,False
+351920,Iacri,2023,72,72,8,0,0,False
+351925,Iaras,2023,71,71,5,0,0,False
+351930,Ibaté,2023,420,414,62,1,1,False
+351940,Ibirá,2023,129,129,16,2,1,False
+351950,Ibirarema,2023,61,61,12,0,0,False
+351960,Ibitinga,2023,680,674,61,1,1,False
+351970,Ibiúna,2023,940,936,262,1,0,False
+351980,Icém,2023,76,76,10,2,1,False
+351990,Iepê,2023,92,92,6,1,1,False
+352000,Igaraçu do Tietê,2023,228,228,46,2,2,False
+352010,Igarapava,2023,266,266,31,0,0,False
+352020,Igaratá,2023,124,124,15,0,0,False
+352030,Iguape,2023,285,285,45,7,2,False
+352040,Ilhabela,2023,490,490,54,0,0,False
+352042,Ilha Comprida,2023,140,139,26,8,3,False
+352044,Ilha Solteira,2023,201,201,21,3,1,False
+352050,Indaiatuba,2023,3089,3074,368,11,6,True
+352060,Indiana,2023,59,59,11,0,0,False
+352070,Indiaporã,2023,35,35,0,0,0,False
+352080,Inúbia Paulista,2023,26,26,6,0,0,False
+352090,Ipaussu,2023,142,142,15,0,0,False
+352100,Iperó,2023,324,324,37,2,1,False
+352110,Ipeúna,2023,85,85,7,0,0,False
+352115,Ipiguá,2023,85,85,9,0,0,False
+352120,Iporanga,2023,48,48,7,0,0,False
+352130,Ipuã,2023,156,156,9,0,0,False
+352140,Iracemápolis,2023,203,203,25,0,0,False
+352150,Irapuã,2023,100,100,15,0,0,False
+352160,Irapuru,2023,64,64,13,1,1,False
+352170,Itaberá,2023,230,230,12,2,0,False
+352180,Itaí,2023,273,273,34,4,2,False
+352190,Itajobi,2023,212,212,28,1,0,False
+352200,Itaju,2023,46,45,3,0,0,False
+352210,Itanhaém,2023,1310,1310,281,9,7,True
+352215,Itaóca,2023,43,43,3,0,0,False
+352220,Itapecerica da Serra,2023,2090,2065,481,23,13,True
+352230,Itapetininga,2023,1923,1917,133,2,1,True
+352240,Itapeva,2023,1309,1309,84,5,4,True
+352250,Itapevi,2023,3469,3403,1291,38,19,True
+352260,Itapira,2023,734,730,106,3,2,False
+352265,Itapirapuã Paulista,2023,62,62,4,0,0,False
+352270,Itápolis,2023,375,374,52,1,0,False
+352280,Itaporanga,2023,160,160,22,0,0,False
+352290,Itapuí,2023,187,187,17,1,0,False
+352300,Itapura,2023,46,46,6,0,0,False
+352310,Itaquaquecetuba,2023,5077,4990,1795,89,50,True
+352320,Itararé,2023,570,570,190,0,0,False
+352330,Itariri,2023,151,151,16,0,0,False
+352340,Itatiba,2023,1287,1280,102,1,0,True
+352350,Itatinga,2023,226,226,27,2,2,False
+352360,Itirapina,2023,135,132,17,1,1,False
+352370,Itirapuã,2023,62,62,12,0,0,False
+352380,Itobi,2023,74,74,5,0,0,False
+352390,Itu,2023,2013,2006,248,6,2,True
+352400,Itupeva,2023,963,960,67,5,2,False
+352410,Ituverava,2023,412,412,50,0,0,False
+352420,Jaborandi,2023,47,47,9,0,0,False
+352430,Jaboticabal,2023,720,717,72,11,10,False
+352440,Jacareí,2023,2642,2641,470,41,30,True
+352450,Jaci,2023,90,90,14,0,0,False
+352460,Jacupiranga,2023,193,193,23,0,0,False
+352470,Jaguariúna,2023,717,715,82,13,10,False
+352480,Jales,2023,497,497,86,6,4,False
+352490,Jambeiro,2023,73,73,4,1,1,False
+352500,Jandira,2023,1287,1274,325,23,15,True
+352510,Jardinópolis,2023,475,473,52,0,0,False
+352520,Jarinu,2023,466,466,87,1,1,False
+352530,Jaú,2023,1504,1503,253,11,3,True
+352540,Jeriquara,2023,44,44,4,0,0,False
+352550,Joanópolis,2023,140,139,19,0,0,False
+352560,João Ramalho,2023,41,41,4,0,0,False
+352570,José Bonifácio,2023,424,423,68,0,0,False
+352580,Júlio Mesquita,2023,66,66,15,0,0,False
+352585,Jumirim,2023,35,35,2,0,0,False
+352590,Jundiaí,2023,5294,5273,539,45,33,True
+352600,Junqueirópolis,2023,187,187,18,2,2,False
+352610,Juquiá,2023,208,206,38,3,1,False
+352620,Juquitiba,2023,354,348,80,1,0,False
+352630,Lagoinha,2023,38,38,4,2,1,False
+352640,Laranjal Paulista,2023,317,317,53,0,0,False
+352650,Lavínia,2023,36,36,8,3,2,False
+352660,Lavrinhas,2023,89,89,23,0,0,False
+352670,Leme,2023,1005,1005,98,0,0,True
+352680,Lençóis Paulista,2023,789,786,101,5,2,False
+352690,Limeira,2023,3148,3146,757,8,5,True
+352700,Lindóia,2023,67,67,11,0,0,False
+352710,Lins,2023,838,838,166,7,4,False
+352720,Lorena,2023,1011,1010,220,10,6,True
+352725,Lourdes,2023,17,17,0,1,0,False
+352730,Louveira,2023,722,722,49,5,4,False
+352740,Lucélia,2023,155,155,23,0,0,False
+352750,Lucianópolis,2023,31,31,1,0,0,False
+352760,Luís Antônio,2023,139,138,18,0,0,False
+352770,Luiziânia,2023,66,66,10,0,0,False
+352780,Lupércio,2023,47,47,8,0,0,False
+352790,Lutécia,2023,33,33,5,0,0,False
+352800,Macatuba,2023,185,184,30,1,1,False
+352810,Macaubal,2023,68,68,8,0,0,False
+352820,Macedônia,2023,34,34,11,0,0,False
+352830,Magda,2023,21,21,2,0,0,False
+352840,Mairinque,2023,628,627,115,0,0,False
+352850,Mairiporã,2023,910,910,144,3,2,False
+352860,Manduri,2023,90,90,14,0,0,False
+352870,Marabá Paulista,2023,36,36,12,1,0,False
+352880,Maracaí,2023,124,124,9,0,0,False
+352885,Marapoama,2023,46,46,5,0,0,False
+352890,Mariápolis,2023,43,43,5,0,0,False
+352900,Marília,2023,2628,2627,506,43,25,True
+352910,Marinópolis,2023,18,18,0,0,0,False
+352920,Martinópolis,2023,272,272,44,1,1,False
+352930,Matão,2023,839,836,109,5,2,False
+352940,Mauá,2023,4404,4402,823,50,38,True
+352950,Mendonça,2023,70,70,2,0,0,False
+352960,Meridiano,2023,34,34,0,0,0,False
+352965,Mesópolis,2023,16,16,3,0,0,False
+352970,Miguelópolis,2023,204,204,39,0,0,False
+352980,Mineiros do Tietê,2023,118,118,18,1,0,False
+352990,Miracatu,2023,233,232,46,1,0,False
+353000,Mira Estrela,2023,32,32,3,0,0,False
+353010,Mirandópolis,2023,223,223,42,1,1,False
+353020,Mirante do Paranapanema,2023,134,134,13,1,0,False
+353030,Mirassol,2023,664,664,106,3,3,False
+353040,Mirassolândia,2023,58,58,4,1,1,False
+353050,Mococa,2023,658,657,55,2,1,False
+353060,Mogi das Cruzes,2023,5223,5220,1021,17,12,True
+353070,Mogi Guaçu,2023,1751,1730,256,19,12,True
+353080,Mogi Mirim,2023,931,929,132,5,2,False
+353090,Mombuca,2023,40,40,10,0,0,False
+353100,Monções,2023,10,10,2,0,0,False
+353110,Mongaguá,2023,667,667,158,4,2,False
+353120,Monte Alegre do Sul,2023,66,66,12,0,0,False
+353130,Monte Alto,2023,422,420,27,2,2,False
+353140,Monte Aprazível,2023,251,251,17,2,2,False
+353150,Monte Azul Paulista,2023,185,185,29,1,1,False
+353160,Monte Castelo,2023,30,30,3,1,0,False
+353170,Monteiro Lobato,2023,54,54,7,0,0,False
+353180,Monte Mor,2023,821,818,157,1,1,False
+353190,Morro Agudo,2023,332,332,34,1,1,False
+353200,Morungaba,2023,179,179,25,0,0,False
+353205,Motuca,2023,32,32,5,0,0,False
+353210,Murutinga do Sul,2023,25,25,7,0,0,False
+353215,Nantes,2023,29,29,1,0,0,False
+353220,Narandiba,2023,88,88,14,2,1,False
+353230,Natividade da Serra,2023,62,62,11,0,0,False
+353240,Nazaré Paulista,2023,207,207,50,2,2,False
+353250,Neves Paulista,2023,85,85,5,0,0,False
+353260,Nhandeara,2023,83,83,10,0,0,False
+353270,Nipoã,2023,62,62,7,0,0,False
+353280,Nova Aliança,2023,71,71,7,0,0,False
+353282,Nova Campina,2023,119,119,7,1,0,False
+353284,Nova Canaã Paulista,2023,10,10,2,0,0,False
+353286,Nova Castilho,2023,10,10,0,0,0,False
+353290,Nova Europa,2023,92,92,6,0,0,False
+353300,Nova Granada,2023,210,210,32,3,3,False
+353310,Nova Guataporanga,2023,18,18,2,1,1,False
+353320,Nova Independência,2023,51,51,4,1,0,False
+353325,Novais,2023,67,67,26,0,0,False
+353330,Nova Luzitânia,2023,20,20,3,0,0,False
+353340,Nova Odessa,2023,615,615,69,2,2,False
+353350,Novo Horizonte,2023,406,406,42,3,2,False
+353360,Nuporanga,2023,70,70,8,0,0,False
+353370,Ocauçu,2023,62,62,4,1,0,False
+353380,Óleo,2023,17,17,4,1,1,False
+353390,Olímpia,2023,665,664,85,0,0,False
+353400,Onda Verde,2023,54,54,7,0,0,False
+353410,Oriente,2023,60,60,12,2,1,False
+353420,Orindiúva,2023,78,78,6,0,0,False
+353430,Orlândia,2023,437,437,67,0,0,False
+353440,Osasco,2023,8195,8185,2402,275,216,True
+353450,Oscar Bressane,2023,15,15,2,0,0,False
+353460,Osvaldo Cruz,2023,244,244,20,1,1,False
+353470,Ourinhos,2023,1139,1139,232,10,6,True
+353475,Ouroeste,2023,102,102,5,0,0,False
+353480,Ouro Verde,2023,83,83,7,0,0,False
+353490,Pacaembu,2023,92,92,8,1,0,False
+353500,Palestina,2023,120,120,15,0,0,False
+353510,Palmares Paulista,2023,89,89,24,2,1,False
+353520,Palmeira d'Oeste,2023,70,70,6,0,0,False
+353530,Palmital,2023,221,221,28,0,0,False
+353540,Panorama,2023,165,165,32,0,0,False
+353550,Paraguaçu Paulista,2023,429,429,58,1,1,False
+353560,Paraibuna,2023,196,196,43,2,2,False
+353570,Paraíso,2023,56,56,10,0,0,False
+353580,Paranapanema,2023,276,276,28,1,0,False
+353590,Paranapuã,2023,50,50,12,0,0,False
+353600,Parapuã,2023,103,103,11,0,0,False
+353610,Pardinho,2023,92,92,10,0,0,False
+353620,Pariquera-Açu,2023,265,262,33,5,2,False
+353625,Parisi,2023,19,19,3,1,1,False
+353630,Patrocínio Paulista,2023,172,172,34,0,0,False
+353640,Paulicéia,2023,86,86,9,0,0,False
+353650,Paulínia,2023,1400,1391,171,1,0,True
+353657,Paulistânia,2023,27,27,5,2,2,False
+353660,Paulo de Faria,2023,75,75,13,0,0,False
+353670,Pederneiras,2023,539,539,69,1,1,False
+353680,Pedra Bela,2023,77,77,14,0,0,False
+353690,Pedranópolis,2023,17,17,4,0,0,False
+353700,Pedregulho,2023,198,198,21,0,0,False
+353710,Pedreira,2023,485,484,87,7,2,False
+353715,Pedrinhas Paulista,2023,28,28,4,1,1,False
+353720,Pedro de Toledo,2023,99,99,21,0,0,False
+353730,Penápolis,2023,717,717,117,2,2,False
+353740,Pereira Barreto,2023,235,235,25,1,1,False
+353750,Pereiras,2023,75,75,12,0,0,False
+353760,Peruíbe,2023,915,915,149,9,5,False
+353770,Piacatu,2023,52,52,5,0,0,False
+353780,Piedade,2023,633,632,86,3,1,False
+353790,Pilar do Sul,2023,402,402,49,1,0,False
+353800,Pindamonhangaba,2023,2172,2171,305,10,7,True
+353810,Pindorama,2023,134,134,21,1,1,False
+353820,Pinhalzinho,2023,164,164,33,0,0,False
+353830,Piquerobi,2023,40,40,9,1,1,False
+353850,Piquete,2023,106,106,33,0,0,False
+353860,Piracaia,2023,313,313,43,0,0,False
+353870,Piracicaba,2023,4822,4812,837,12,10,True
+353880,Piraju,2023,289,289,35,3,2,False
+353890,Pirajuí,2023,181,181,24,2,2,False
+353900,Pirangi,2023,102,102,20,0,0,False
+353910,Pirapora do Bom Jesus,2023,216,215,54,4,3,False
+353920,Pirapozinho,2023,241,241,30,3,2,False
+353930,Pirassununga,2023,761,761,126,5,3,False
+353940,Piratininga,2023,155,155,22,1,1,False
+353950,Pitangueiras,2023,401,399,42,5,1,False
+353960,Planalto,2023,50,50,9,1,1,False
+353970,Platina,2023,38,38,13,1,0,False
+353980,Poá,2023,1249,1241,378,11,7,True
+353990,Poloni,2023,50,50,6,2,2,False
+354000,Pompéia,2023,207,207,20,2,0,False
+354010,Pongaí,2023,39,39,7,0,0,False
+354020,Pontal,2023,468,467,71,6,6,False
+354025,Pontalinda,2023,36,36,4,0,0,False
+354030,Pontes Gestal,2023,19,19,1,0,0,False
+354040,Populina,2023,32,32,7,0,0,False
+354050,Porangaba,2023,90,90,18,0,0,False
+354060,Porto Feliz,2023,563,563,30,0,0,False
+354070,Porto Ferreira,2023,533,530,96,4,4,False
+354075,Potim,2023,220,220,59,1,1,False
+354080,Potirendaba,2023,224,224,30,0,0,False
+354085,Pracinha,2023,14,14,0,0,0,False
+354090,Pradópolis,2023,166,166,18,0,0,False
+354100,Praia Grande,2023,4098,4098,735,68,48,True
+354105,Pratânia,2023,80,80,5,1,1,False
+354110,Presidente Alves,2023,38,38,3,0,0,False
+354120,Presidente Bernardes,2023,91,91,9,0,0,False
+354130,Presidente Epitácio,2023,397,397,95,8,7,False
+354140,Presidente Prudente,2023,2428,2428,263,26,18,True
+354150,Presidente Venceslau,2023,297,296,56,2,2,False
+354160,Promissão,2023,361,361,73,9,6,False
+354165,Quadra,2023,51,51,4,0,0,False
+354170,Quatá,2023,125,125,7,3,3,False
+354180,Queiroz,2023,40,40,1,0,0,False
+354190,Queluz,2023,85,85,25,0,0,False
+354200,Quintana,2023,89,89,10,0,0,False
+354210,Rafard,2023,96,96,16,0,0,False
+354220,Rancharia,2023,342,342,39,0,0,False
+354230,Redenção da Serra,2023,54,54,16,0,0,False
+354240,Regente Feijó,2023,230,230,21,1,1,False
+354250,Reginópolis,2023,77,77,8,2,2,False
+354260,Registro,2023,732,729,104,9,6,False
+354270,Restinga,2023,77,76,12,0,0,False
+354280,Ribeira,2023,34,34,3,0,0,False
+354290,Ribeirão Bonito,2023,113,113,14,0,0,False
+354300,Ribeirão Branco,2023,230,230,10,0,0,False
+354310,Ribeirão Corrente,2023,45,45,6,0,0,False
+354320,Ribeirão do Sul,2023,43,43,5,1,0,False
+354323,Ribeirão dos Índios,2023,11,11,0,0,0,False
+354325,Ribeirão Grande,2023,92,92,3,0,0,False
+354330,Ribeirão Pires,2023,1043,1042,235,10,9,True
+354340,Ribeirão Preto,2023,7500,7460,831,112,80,True
+354350,Riversul,2023,73,73,5,1,1,False
+354360,Rifaina,2023,45,45,4,0,0,False
+354370,Rincão,2023,81,81,7,0,0,False
+354380,Rinópolis,2023,101,101,14,3,3,False
+354390,Rio Claro,2023,2099,2096,288,12,5,True
+354400,Rio das Pedras,2023,342,342,73,0,0,False
+354410,Rio Grande da Serra,2023,465,459,104,4,3,False
+354420,Riolândia,2023,102,102,11,0,0,False
+354425,Rosana,2023,150,150,21,1,1,False
+354430,Roseira,2023,112,112,13,1,1,False
+354440,Rubiácea,2023,26,26,2,0,0,False
+354450,Rubinéia,2023,24,24,3,0,0,False
+354460,Sabino,2023,53,53,9,1,1,False
+354470,Sagres,2023,24,24,2,0,0,False
+354480,Sales,2023,74,74,12,0,0,False
+354490,Sales Oliveira,2023,132,132,6,0,0,False
+354500,Salesópolis,2023,179,179,31,0,0,False
+354510,Salmourão,2023,55,55,8,0,0,False
+354515,Saltinho,2023,80,80,9,0,0,False
+354520,Salto,2023,1632,1630,235,18,8,True
+354530,Salto de Pirapora,2023,520,520,46,3,2,False
+354540,Salto Grande,2023,113,113,19,0,0,False
+354550,Sandovalina,2023,45,45,7,0,0,False
+354560,Santa Adélia,2023,138,138,13,0,0,False
+354570,Santa Albertina,2023,69,69,8,0,0,False
+354580,Santa Bárbara d'Oeste,2023,1971,1970,205,9,6,True
+354600,Santa Branca,2023,153,153,44,0,0,False
+354610,Santa Clara d'Oeste,2023,17,17,2,0,0,False
+354620,Santa Cruz da Conceição,2023,25,25,6,0,0,False
+354625,Santa Cruz da Esperança,2023,25,25,3,0,0,False
+354630,Santa Cruz das Palmeiras,2023,342,342,22,0,0,False
+354640,Santa Cruz do Rio Pardo,2023,556,556,68,0,0,False
+354650,Santa Ernestina,2023,56,56,12,0,0,False
+354660,Santa Fé do Sul,2023,361,361,33,0,0,False
+354670,Santa Gertrudes,2023,301,301,26,1,0,False
+354680,Santa Isabel,2023,588,586,115,1,1,False
+354690,Santa Lúcia,2023,78,78,15,0,0,False
+354700,Santa Maria da Serra,2023,65,65,4,0,0,False
+354710,Santa Mercedes,2023,45,45,8,0,0,False
+354720,Santana da Ponte Pensa,2023,13,13,2,0,0,False
+354730,Santana de Parnaíba,2023,2166,2165,359,14,10,True
+354740,Santa Rita d'Oeste,2023,14,14,2,0,0,False
+354750,Santa Rita do Passa Quatro,2023,203,203,20,0,0,False
+354760,Santa Rosa de Viterbo,2023,201,198,47,1,0,False
+354765,Santa Salete,2023,12,12,1,0,0,False
+354770,Santo Anastácio,2023,184,184,25,4,3,False
+354780,Santo André,2023,7378,7377,1476,76,40,True
+354790,Santo Antônio da Alegria,2023,54,54,5,0,0,False
+354800,Santo Antônio de Posse,2023,278,278,35,1,0,False
+354805,Santo Antônio do Aracanguá,2023,76,76,24,1,0,False
+354810,Santo Antônio do Jardim,2023,64,64,3,0,0,False
+354820,Santo Antônio do Pinhal,2023,94,94,11,0,0,False
+354830,Santo Expedito,2023,31,31,5,1,1,False
+354840,Santópolis do Aguapeí,2023,44,44,2,0,0,False
+354850,Santos,2023,3733,3733,611,49,35,True
+354860,São Bento do Sapucaí,2023,105,105,12,0,0,False
+354870,São Bernardo do Campo,2023,7815,7815,1216,35,20,True
+354880,São Caetano do Sul,2023,1345,1345,147,9,9,True
+354890,São Carlos,2023,2631,2600,361,35,24,True
+354900,São Francisco,2023,25,25,6,0,0,False
+354910,São João da Boa Vista,2023,928,925,112,1,1,False
+354920,São João das Duas Pontes,2023,33,33,4,0,0,False
+354925,São João de Iracema,2023,13,13,1,0,0,False
+354930,São João do Pau d'Alho,2023,27,27,3,1,1,False
+354940,São Joaquim da Barra,2023,564,564,107,6,3,False
+354950,São José da Bela Vista,2023,70,70,11,0,0,False
+354960,São José do Barreiro,2023,41,41,8,0,0,False
+354970,São José do Rio Pardo,2023,520,517,36,0,0,False
+354980,São José do Rio Preto,2023,5079,5079,489,29,23,True
+354990,São José dos Campos,2023,8090,8089,1126,138,104,True
+354995,São Lourenço da Serra,2023,159,156,24,4,4,False
+355000,São Luís do Paraitinga,2023,101,101,19,2,1,False
+355010,São Manuel,2023,397,397,52,5,3,False
+355020,São Miguel Arcanjo,2023,360,359,34,0,0,False
+355030,São Paulo,2023,128720,128694,19401,885,592,True
+355040,São Pedro,2023,392,392,63,5,4,False
+355050,São Pedro do Turvo,2023,87,87,9,1,1,False
+355060,São Roque,2023,869,869,145,2,1,False
+355070,São Sebastião,2023,1107,1107,198,26,9,True
+355080,São Sebastião da Grama,2023,80,80,3,0,0,False
+355090,São Simão,2023,126,126,16,1,1,False
+355100,São Vicente,2023,3661,3660,1082,63,38,True
+355110,Sarapuí,2023,124,124,8,0,0,False
+355120,Sarutaiá,2023,44,44,7,0,0,False
+355130,Sebastianópolis do Sul,2023,36,36,2,0,0,False
+355140,Serra Azul,2023,106,106,9,1,0,False
+355150,Serrana,2023,573,569,56,8,4,False
+355160,Serra Negra,2023,254,253,30,2,1,False
+355170,Sertãozinho,2023,1441,1438,199,13,7,True
+355180,Sete Barras,2023,174,173,29,0,0,False
+355190,Severínia,2023,151,151,27,1,0,False
+355200,Silveiras,2023,79,79,18,0,0,False
+355210,Socorro,2023,383,381,48,0,0,False
+355220,Sorocaba,2023,8749,8733,1127,24,16,True
+355230,Sud Mennucci,2023,89,89,12,0,0,False
+355240,Sumaré,2023,3329,3304,470,17,11,True
+355250,Suzano,2023,3942,3929,913,26,12,True
+355255,Suzanápolis,2023,29,29,3,0,0,False
+355260,Tabapuã,2023,112,112,23,0,0,False
+355270,Tabatinga,2023,161,161,33,2,0,False
+355280,Taboão da Serra,2023,3203,3203,611,20,12,True
+355290,Taciba,2023,89,89,6,2,2,False
+355300,Taguaí,2023,183,183,8,2,2,False
+355310,Taiaçu,2023,72,72,20,0,0,False
+355320,Taiúva,2023,60,60,7,0,0,False
+355330,Tambaú,2023,230,230,20,2,1,False
+355340,Tanabi,2023,263,263,30,0,0,False
+355350,Tapiraí,2023,90,90,12,0,0,False
+355360,Tapiratiba,2023,108,108,7,0,0,False
+355365,Taquaral,2023,28,28,3,0,0,False
+355370,Taquaritinga,2023,498,496,56,2,2,False
+355380,Taquarituba,2023,286,286,28,1,0,False
+355385,Taquarivaí,2023,80,80,7,0,0,False
+355390,Tarabai,2023,83,83,17,2,1,False
+355395,Tarumã,2023,176,176,16,1,1,False
+355400,Tatuí,2023,1573,1572,179,6,6,True
+355410,Taubaté,2023,3323,3323,585,61,55,True
+355420,Tejupá,2023,47,47,4,1,1,False
+355430,Teodoro Sampaio,2023,278,278,26,4,3,False
+355440,Terra Roxa,2023,95,95,21,0,0,False
+355450,Tietê,2023,427,427,62,2,1,False
+355460,Timburi,2023,21,21,2,0,0,False
+355465,Torre de Pedra,2023,22,22,2,0,0,False
+355470,Torrinha,2023,82,82,18,0,0,False
+355475,Trabiju,2023,17,17,3,0,0,False
+355480,Tremembé,2023,430,430,95,12,10,False
+355490,Três Fronteiras,2023,65,65,13,1,0,False
+355495,Tuiuti,2023,65,65,17,0,0,False
+355500,Tupã,2023,642,642,77,6,3,False
+355510,Tupi Paulista,2023,135,135,11,2,2,False
+355520,Turiúba,2023,11,11,2,0,0,False
+355530,Turmalina,2023,10,10,1,0,0,False
+355535,Ubarana,2023,61,61,8,0,0,False
+355540,Ubatuba,2023,1280,1277,298,9,3,True
+355550,Ubirajara,2023,56,56,7,0,0,False
+355560,Uchoa,2023,92,92,8,1,1,False
+355570,União Paulista,2023,20,20,3,0,0,False
+355580,Urânia,2023,96,96,20,1,1,False
+355590,Uru,2023,15,15,3,0,0,False
+355600,Urupês,2023,123,123,18,1,1,False
+355610,Valentim Gentil,2023,159,159,15,0,0,False
+355620,Valinhos,2023,1251,1249,157,6,6,True
+355630,Valparaíso,2023,243,243,24,2,2,False
+355635,Vargem,2023,131,131,16,0,0,False
+355640,Vargem Grande do Sul,2023,495,494,49,4,2,False
+355645,Vargem Grande Paulista,2023,680,672,108,1,0,False
+355650,Várzea Paulista,2023,1163,1161,250,11,7,True
+355660,Vera Cruz,2023,88,88,18,1,1,False
+355670,Vinhedo,2023,787,783,81,0,0,False
+355680,Viradouro,2023,186,184,32,1,1,False
+355690,Vista Alegre do Alto,2023,92,92,15,0,0,False
+355695,Vitória Brasil,2023,24,24,2,0,0,False
+355700,Votorantim,2023,1502,1500,170,5,3,True
+355710,Votuporanga,2023,1040,1040,70,3,3,True
+355715,Zacarias,2023,16,16,1,0,0,False
+355720,Chavantes,2023,135,135,32,1,1,False
+355730,Estiva Gerbi,2023,129,127,19,0,0,False
