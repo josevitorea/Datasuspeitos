@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# DataSUSpeitos: dados brutos (36 MB), baixar seguindo data/README.md
+data/raw/
