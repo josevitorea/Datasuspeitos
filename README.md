@@ -324,10 +324,10 @@ No Checkpoint 1 apresentamos a ideia e o desenho da solução. No Checkpoint 2, 
 | Requisitos | Não existiam | [`docs/requisitos.md`](docs/requisitos.md) | Exigência do edital para o 2º semestre |
 | Planejamento | Tarefas do protótipo pensadas como um aplicativo | Tarefas revisadas para o que o protótipo é: painel + pipeline de dados | Coerência entre o plano e a solução proposta no CP1 |
 
-| Data | O que o Professor Gerson disse | O que o grupo fez | 
+| Data | O que o Professor Gerson disse | O que o grupo fez |
 |---|---|---|---|
-| Data: 07/10/2026 | Power BI conta como protótipo; machine learning seria um diferencial; IA pode ser usada, desde que documentada no repositório; banco de dados pode ser usado; o recorte é livre; a entrega é pelo link do repositório. | Mantivemos Power BI + PostgreSQL, registramos o uso de IA no README, entregamos pelo repositório e ficamos com SP, 2019 a 2023. O agrupamento por machine learning ficou como ideia para depois do CP2 | 
-| Data: 03/11/2026 | Mentor elogiou a primeira parte e orientou que seguissemos pelo mesmo caminho.| Não houveram alterações | 
+| Data: 07/10/2026 | Power BI conta como protótipo; machine learning seria um diferencial; IA pode ser usada, desde que documentada no repositório; banco de dados pode ser usado; o recorte é livre; a entrega é pelo link do repositório. | Mantivemos Power BI + PostgreSQL, registramos o uso de IA no README, entregamos pelo repositório e ficamos com SP, 2019 a 2023. O agrupamento por machine learning ficou como ideia para depois do CP2 |
+| Data: 03/11/2026 | Mentor elogiou a primeira parte e orientou que seguissemos pelo mesmo caminho.| Não houveram alterações |
 
 <!-- Linha de Tecnologias: incluir SOMENTE se o Vitor reescrever as justificativas até quinta. -->
 
