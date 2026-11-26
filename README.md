@@ -141,11 +141,11 @@ A qualidade dos dados é conferida duas vezes: o script de tratamento para se en
 
 Os requisitos completos, funcionais e não funcionais, estão em [`docs/requisitos.md`](docs/requisitos.md). Os essenciais para este checkpoint são:
 
-- **RF01** · Ver os 4 números principais do estado no ano escolhido
+- **RF01** · Ver, para o estado de São Paulo e o ano escolhido, os 4 números principais: nascidos vivos, % de mães com menos de 7 consultas de pré-natal, taxa de sífilis congênita por mil nascidos vivos e % de casos em que a sífilis da mãe foi diagnosticada durante o pré-natal.
 - **RF02** · Acompanhar a evolução dos indicadores do estado de 2019 a 2023
-- **RF03** · Ver, num quadrante, os municípios prioritários
-- **RF04** · Ver o ranking dos municípios, do mais crítico para o menos crítico
-- **RF05** · Escolher um município e ver os três indicadores dele ao longo dos anos
+- **RF03** · Ver, num quadrante, quais municípios têm ao mesmo tempo pré-natal pior e sífilis congênita maior que a média do estado. Esses municípios aparecem destacados como prioritários.
+- **RF04** · Ver o ranking dos municípios, do mais crítico para o menos crítico, com os três indicadores lado a lado.
+- **RF05** · Escolher um município e ver os três indicadores dele de 2019 a 2023, comparados com a média do estado.
 - **RF06** · Filtrar todas as páginas por ano
 
 ---
@@ -323,6 +323,11 @@ No Checkpoint 1 apresentamos a ideia e o desenho da solução. No Checkpoint 2, 
 | Documentação | README com problema, solução, bases e identidade visual | + dicionário de dados, guia de download das bases, requisitos e instruções de execução | Permitir que outra pessoa rode o projeto sem ajuda |
 | Requisitos | Não existiam | [`docs/requisitos.md`](docs/requisitos.md) | Exigência do edital para o 2º semestre |
 | Planejamento | Tarefas do protótipo pensadas como um aplicativo | Tarefas revisadas para o que o protótipo é: painel + pipeline de dados | Coerência entre o plano e a solução proposta no CP1 |
+
+| Data | O que o Professor Gerson disse | O que o grupo fez | 
+|---|---|---|---|
+| Data: 07/10/2026 | Power BI conta como protótipo; machine learning seria um diferencial; IA pode ser usada, desde que documentada no repositório; banco de dados pode ser usado; o recorte é livre; a entrega é pelo link do repositório. | Mantivemos Power BI + PostgreSQL, registramos o uso de IA no README, entregamos pelo repositório e ficamos com SP, 2019 a 2023. O agrupamento por machine learning ficou como ideia para depois do CP2 | 
+| Data: 03/11/2026 | Mentor elogiou a primeira parte e orientou que seguissemos pelo mesmo caminho.| Não houveram alterações | 
 
 <!-- Linha de Tecnologias: incluir SOMENTE se o Vitor reescrever as justificativas até quinta. -->
 
