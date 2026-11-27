@@ -144,7 +144,7 @@ Os requisitos completos, funcionais e não funcionais, estão em [`docs/requisit
 - **RF03** · Ver, num quadrante, quais municípios têm ao mesmo tempo pré-natal pior e sífilis congênita maior que a média do estado. Esses municípios aparecem destacados como prioritários.
 - **RF04** · Ver o ranking dos municípios, do mais crítico para o menos crítico, com os três indicadores lado a lado.
 - **RF05** · Escolher um município e ver os três indicadores dele de 2019 a 2023, comparados com a média do estado.
-- **RF06** · Filtrar todas as páginas por ano
+- **RF06** · Filtrar todas as páginas por ano.
 
 ---
 
@@ -365,7 +365,7 @@ Datasuspeitos/
 │   └── criar_tabela.sql        → cria a tabela e as regras de qualidade no banco
 ├── dashboard/                  → arquivo do painel em Power BI (.pbix) (em construção)
 └── docs/
-    ├── requisitos.md           → requisitos da solução (em construção)
+    ├── requisitos.md           → requisitos da solução
     ├── identidade/             → logo e tema de cores do Power BI
     └── prints/                 → capturas do protótipo (em construção)
 ```
