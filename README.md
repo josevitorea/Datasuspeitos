@@ -137,7 +137,7 @@ A qualidade dos dados é conferida duas vezes: o script de tratamento para se en
 
 ## Requisitos
 
-Os requisitos completos, funcionais e não funcionais, estão em [`docs/requisitos.md`](docs/requisitos.md) *(em construção)*. Os essenciais para este checkpoint são:
+Os requisitos completos, funcionais e não funcionais, estão em [`docs/requisitos.md`](docs/requisitos.md). Os essenciais para este checkpoint são:
 
 - **RF01** · Ver, para o estado de São Paulo e o ano escolhido, os 4 números principais: nascidos vivos, % de mães com menos de 7 consultas de pré-natal, taxa de sífilis congênita por mil nascidos vivos e % de casos em que a sífilis da mãe foi diagnosticada durante o pré-natal.
 - **RF02** · Acompanhar a evolução dos indicadores do estado de 2019 a 2023
@@ -296,7 +296,7 @@ No Checkpoint 1 apresentamos a ideia e o desenho da solução. No Checkpoint 2, 
 | Tratamento | Previsto | Script `src/tratamento.py`, que une as bases pelo código IBGE e confere os resultados contra um gabarito | Garantir que todo número do painel tem origem rastreável e verificada |
 | Banco de dados | "Banco da disciplina" | PostgreSQL instalado localmente, com script SQL versionado | O servidor da faculdade só funciona na rede da FMU; com o banco local, qualquer pessoa reproduz o projeto |
 | Documentação | README com problema, solução, bases e identidade visual | + dicionário de dados, guia de download das bases, requisitos e instruções de execução | Permitir que outra pessoa rode o projeto sem ajuda |
-| Requisitos | Não existiam | [`docs/requisitos.md`](docs/requisitos.md) *(em construção)* | Exigência do edital para o 2º semestre |
+| Requisitos | Não existiam | [`docs/requisitos.md`](docs/requisitos.md) | Exigência do edital para o 2º semestre |
 | Tecnologias | Justificativas genéricas | Justificativas reescritas a partir dos problemas reais que encontramos nos dados | Mostrar por que cada ferramenta resolve um problema do nosso projeto |
 | Planejamento | Tarefas do protótipo pensadas como um aplicativo | Tarefas revisadas para o que o protótipo é: painel + pipeline de dados | Coerência entre o plano e a solução proposta no CP1 |
 
