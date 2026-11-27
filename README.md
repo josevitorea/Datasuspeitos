@@ -137,9 +137,7 @@ A qualidade dos dados é conferida duas vezes: o script de tratamento para se en
 
 ## Requisitos
 
-<!-- RAQUEL: conferir se este resumo bate com a versão final de docs/requisitos.md -->
-
-Os requisitos completos, funcionais e não funcionais, estão em [`docs/requisitos.md`](docs/requisitos.md). Os essenciais para este checkpoint são:
+Os requisitos completos, funcionais e não funcionais, estão em [`docs/requisitos.md`](docs/requisitos.md) *(em construção)*. Os essenciais para este checkpoint são:
 
 - **RF01** · Ver, para o estado de São Paulo e o ano escolhido, os 4 números principais: nascidos vivos, % de mães com menos de 7 consultas de pré-natal, taxa de sífilis congênita por mil nascidos vivos e % de casos em que a sífilis da mãe foi diagnosticada durante o pré-natal.
 - **RF02** · Acompanhar a evolução dos indicadores do estado de 2019 a 2023
@@ -163,30 +161,19 @@ O protótipo é um painel em Power BI com 4 páginas, alimentado pelos dados rea
 
 ### Prints
 
-<!-- VITÓRIA: subir os prints em docs/prints/ e trocar este comentário pelas imagens, assim:
-### Visão geral
-![Visão geral](docs/prints/01-visao-geral.png)
-### Quadrante
-![Quadrante](docs/prints/02-quadrante.png)
-### Ranking
-![Ranking](docs/prints/03-ranking.png)
-### Detalhe do município
-![Detalhe do município](docs/prints/04-detalhe-municipio.png)
--->
-
-*Em atualização.*
+*(em construção)*
 
 ### Vídeo de demonstração
 
-<!-- RAQUEL: trocar pela linha com o link do YouTube (não listado) -->
+[![Assista ao vídeo de demonstração no YouTube](https://img.youtube.com/vi/UtmDvxhS1Dw/hqdefault.jpg)](https://youtu.be/UtmDvxhS1Dw)
 
-*Em atualização.*
+▶️ **[Assistir no YouTube](https://youtu.be/UtmDvxhS1Dw)** · 2min23s · narração de Raquel Costa Pereira
+
+O vídeo é uma animação feita com os dados reais do projeto: mostra o pipeline rodando (tratamento, conferência e carga no banco) e o fluxo principal pelas 4 páginas do painel. Os números exibidos vêm da tabela final do projeto (`data/processed/tabela_final.csv`).
 
 ---
 
 ## Principais achados
-
-<!-- KAIKE: completar com os gráficos e o terceiro achado da análise exploratória -->
 
 **1. O pré-natal melhorou, mas a sífilis congênita piorou.** Entre 2019 e 2023, a parcela de bebês cujas mães fizeram menos de 7 consultas caiu de 19,5% para 17,1% no estado. No mesmo período, a taxa de sífilis congênita subiu de 6,8 para 8,5 casos por mil nascidos vivos.
 
@@ -200,7 +187,7 @@ O protótipo é um painel em Power BI com 4 páginas, alimentado pelos dados rea
 
 **2. O diagnóstico acontece, mas não vira proteção para o bebê.** A parcela de casos em que a sífilis da mãe foi diagnosticada durante o pré-natal subiu de 62% para 66%. Ou seja: em 2 de cada 3 bebês que nasceram com sífilis em 2023, a doença da mãe já era conhecida antes do parto. O gargalo provável está no que acontece depois do diagnóstico, no tratamento, e não só no acesso ao pré-natal. Em Osasco, isso chega a 78,5% dos casos (216 de 275).
 
-**3.** *Em atualização.*
+**3. O problema está concentrado, e em boa parte é antigo.** Em 2023, os 27 municípios prioritários somaram 18,9% dos nascidos vivos do estado, mas 36,7% dos casos de sífilis congênita (1.571 de 4.276). Ou seja, quase o dobro do que o tamanho deles explicaria. E 11 municípios foram prioritários em todos os 5 anos analisados: Carapicuíba, Cubatão, Embu das Artes, Ferraz de Vasconcelos, Guarujá, Guarulhos, Itaquaquecetuba, Mauá, Osasco, São Vicente e Taubaté. Para o gestor, isso indica onde começar: uma ação focada em poucos municípios alcança mais de um terço dos casos do estado.
 
 > Estes achados descrevem municípios e o estado, não pessoas (ver limitações em [Bases de dados](#bases-de-dados)).
 
@@ -208,17 +195,9 @@ O protótipo é um painel em Power BI com 4 páginas, alimentado pelos dados rea
 
 ## Como executar
 
-<!-- VITOR: testar este passo a passo num computador que nunca rodou o projeto e corrigir o que travar.
-     Confirmar o nome e a pasta do arquivo do painel (.pbix). -->
-
 Há dois caminhos, dependendo do que você quer fazer.
 
-### Caminho A · Só ver o painel
-
-**Pré-requisito:** [Power BI Desktop](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop) (gratuito, só para Windows).
-
-1. Baixe o repositório: botão verde **Code → Download ZIP**, e descompacte.
-2. Abra o arquivo do painel em `dashboard/painel_datasuspeitos.pbix`. Os dados já vêm salvos dentro do arquivo.
+### Caminho A · Só ver o painel *(em construção)*
 
 ### Caminho B · Rodar o pipeline completo (dados → banco → painel)
 
@@ -239,7 +218,7 @@ Há dois caminhos, dependendo do que você quer fazer.
    python src/carga_postgres.py
    ```
    O script cria a tabela `fato_municipio_ano`, carrega as 3.225 linhas de `data/processed/tabela_final.csv` e confere o resultado. O esperado é terminar com `Carga OK.`
-6. **Abra o painel** (`dashboard/painel_datasuspeitos.pbix`) e clique em **Atualizar**. Ele lê os dados do banco `datasuspeitos` em `localhost`.
+6. **Abra o painel no Power BI** *(em construção)*
 
 **Opcional · refazer o tratamento a partir das bases originais:** baixe as bases seguindo [`data/README.md`](data/README.md), coloque os arquivos em `data/raw/` e rode, antes do passo 5:
 ```
@@ -253,15 +232,13 @@ O script gera de novo a `data/processed/tabela_final.csv` e termina com `Verific
 
 ## Tecnologias e justificativa
 
-<!-- VITOR: reescrever as justificativas com problemas reais dos nossos dados (ver o seu PDF de tarefas do CP2). Apague este comentário quando escrever. -->
-
-| Tecnologia | Para que serve no projeto | Por que ela | Alternativa descartada |
+| Tecnologia | Para que serve no projeto | Por que ela, no nosso caso | Alternativa descartada |
 |---|---|---|---|
-| **Python (pandas)** | Limpar e unir as duas bases | Linguagem flexível e de fácil leitura, o que ajuda a criar melhorias. A biblioteca pandas facilita a limpeza e o tratamento dos dados e se conecta a diferentes fontes. | R |
-| **PostgreSQL** | Guardar a tabela final (município × ano) | Banco robusto, que segue o padrão SQL e é de código aberto. | SQL Server |
-| **Power BI** | Painel com quadrante e ranking de municípios | Permite visualização interativa e storytelling com os dados. | Excel |
-| **DBeaver** | Ver e consultar o banco de dados | Gratuito, funciona com PostgreSQL e é o programa usado nas aulas de banco de dados. | pgAdmin |
-| **GitHub** | Versionar e entregar o projeto | Controle de versões do código, trabalho colaborativo, segurança e backup na nuvem. | — |
+| **Python (pandas)** | Ler, limpar, unir e conferir as duas bases | Os arquivos do TabNet vêm com acentuação antiga (latin-1), cabeçalho e rodapé de texto, traço (`-`) no lugar de zero e um ano em cada arquivo. A planilha de sífilis tem 36 MB, traz o Brasil inteiro e mistura linhas de total com linhas de município. Com pandas, tudo isso vira código que roda igual toda vez e confere o resultado contra um gabarito, em vez de ser feito à mão no Excel | Excel / Power Query: o tratamento ficaria em cliques difíceis de revisar e repetir, e a planilha de 36 MB fica lenta |
+| **PostgreSQL** | Guardar a tabela final (município × ano) | A tabela tem regras que o próprio banco garante: cada município aparece uma vez por ano (chave primária) e nenhum valor impossível entra, como casos negativos ou mais casos diagnosticados que casos totais (regras `CHECK`). É gratuito e roda localmente, então qualquer pessoa reproduz o projeto | Servidor de banco da faculdade: só funciona dentro da rede da FMU |
+| **Power BI** | Painel com visão geral, quadrante, ranking e detalhe | O público é o gestor de saúde, que precisa filtrar por ano e por município sem saber programar. As porcentagens e taxas são calculadas em DAX somando numerador e denominador, o que evita o erro de tirar média de porcentagens | Gráficos fixos em Python: não deixam o gestor explorar os dados sozinho |
+| **DBeaver** | Ver e consultar o banco | Gratuito, funciona com PostgreSQL e é o programa usado nas aulas de banco de dados. Usamos para conferir a carga com consultas SQL | pgAdmin |
+| **GitHub** | Versionar e entregar o projeto | A entrega é pelo link do repositório. O código, a documentação e o histórico de mudanças ficam públicos, e os dados brutos ficam de fora (são grandes e qualquer um baixa da fonte oficial) | — |
 
 ---
 
@@ -304,13 +281,11 @@ Conversa com o Prof. Gerson em 07/10/2026:
 | Recorte | Livre. O grupo escolheu municípios de SP, de 2019 a 2023 |
 | Banco de dados | Pode ser usado |
 
-<!-- RAQUEL: acrescentar aqui a conversa mais recente com o Prof. Gerson (data e orientações) -->
+Em 03/11/2026, o Prof. Gerson elogiou a primeira parte do trabalho e orientou o grupo a seguir pelo mesmo caminho (ver [Evolução desde o Checkpoint 1](#evolução-desde-o-checkpoint-1)).
 
 ---
 
 ## Evolução desde o Checkpoint 1
-
-<!-- RAQUEL: substituir esta seção pela sua versão final revisada (com o retorno do Gerson preenchido). -->
 
 No Checkpoint 1 apresentamos a ideia e o desenho da solução. No Checkpoint 2, a arquitetura proposta foi construída e está funcionando com dados reais.
 
@@ -321,15 +296,16 @@ No Checkpoint 1 apresentamos a ideia e o desenho da solução. No Checkpoint 2, 
 | Tratamento | Previsto | Script `src/tratamento.py`, que une as bases pelo código IBGE e confere os resultados contra um gabarito | Garantir que todo número do painel tem origem rastreável e verificada |
 | Banco de dados | "Banco da disciplina" | PostgreSQL instalado localmente, com script SQL versionado | O servidor da faculdade só funciona na rede da FMU; com o banco local, qualquer pessoa reproduz o projeto |
 | Documentação | README com problema, solução, bases e identidade visual | + dicionário de dados, guia de download das bases, requisitos e instruções de execução | Permitir que outra pessoa rode o projeto sem ajuda |
-| Requisitos | Não existiam | [`docs/requisitos.md`](docs/requisitos.md) | Exigência do edital para o 2º semestre |
+| Requisitos | Não existiam | [`docs/requisitos.md`](docs/requisitos.md) *(em construção)* | Exigência do edital para o 2º semestre |
+| Tecnologias | Justificativas genéricas | Justificativas reescritas a partir dos problemas reais que encontramos nos dados | Mostrar por que cada ferramenta resolve um problema do nosso projeto |
 | Planejamento | Tarefas do protótipo pensadas como um aplicativo | Tarefas revisadas para o que o protótipo é: painel + pipeline de dados | Coerência entre o plano e a solução proposta no CP1 |
 
-| Data | O que o Professor Gerson disse | O que o grupo fez |
-|---|---|---|---|
-| Data: 07/10/2026 | Power BI conta como protótipo; machine learning seria um diferencial; IA pode ser usada, desde que documentada no repositório; banco de dados pode ser usado; o recorte é livre; a entrega é pelo link do repositório. | Mantivemos Power BI + PostgreSQL, registramos o uso de IA no README, entregamos pelo repositório e ficamos com SP, 2019 a 2023. O agrupamento por machine learning ficou como ideia para depois do CP2 |
-| Data: 03/11/2026 | Mentor elogiou a primeira parte e orientou que seguissemos pelo mesmo caminho.| Não houveram alterações |
+### Retorno do mentor ao longo do CP2
 
-<!-- Linha de Tecnologias: incluir SOMENTE se o Vitor reescrever as justificativas até quinta. -->
+| Data | O que o Prof. Gerson disse | O que o grupo fez |
+|---|---|---|
+| 07/10/2026 | Power BI conta como protótipo; machine learning seria um diferencial; IA pode ser usada, desde que documentada no repositório; banco de dados pode ser usado; o recorte é livre; a entrega é pelo link do repositório. | Mantivemos Power BI + PostgreSQL, registramos o uso de IA no README, entregamos pelo repositório e ficamos com SP, de 2019 a 2023. O agrupamento por machine learning ficou como ideia para depois do CP2. |
+| 03/11/2026 | Elogiou a primeira parte do trabalho e orientou o grupo a seguir pelo mesmo caminho. | Mantivemos o planejamento e seguimos com a construção do pipeline de dados e do painel. |
 
 ---
 
@@ -357,6 +333,8 @@ Seguindo a orientação do mentor, documentamos aqui como a inteligência artifi
 | Documentação | Rascunho do guia de download das bases, dos requisitos e da seção de evolução | A Vitória testou o guia seguindo o texto e apontou três pontos confusos, que foram corrigidos; a Raquel revisou e ajustou requisitos e evolução |
 | Tema do painel | Explicação dos campos do tema do Power BI e teste de contraste das cores | A Vitória escolheu as cores e corrigiu a escolha que tinha contraste baixo |
 | Análise | Cálculo e conferência dos indicadores dos 5 anos | Interpretação dos achados e das limitações discutida pelo grupo |
+| Vídeo de demonstração | Animação feita com os dados reais do projeto e sincronização com a narração | A Raquel escreveu e gravou a narração; o grupo escolheu usar a animação |
+| README final | Integração das partes de cada integrante e revisão do texto | O organizador revisou e publicou a versão final |
 
 **Princípios que seguimos:**
 
@@ -385,11 +363,11 @@ Datasuspeitos/
 │   └── carga_postgres.py       → carrega a tabela final no PostgreSQL
 ├── sql/
 │   └── criar_tabela.sql        → cria a tabela e as regras de qualidade no banco
-├── dashboard/                  → arquivo do painel em Power BI (.pbix)
+├── dashboard/                  → arquivo do painel em Power BI (.pbix) (em construção)
 └── docs/
-    ├── requisitos.md           → requisitos da solução
+    ├── requisitos.md           → requisitos da solução (em construção)
     ├── identidade/             → logo e tema de cores do Power BI
-    └── prints/                 → capturas do protótipo
+    └── prints/                 → capturas do protótipo (em construção)
 ```
 
 ---
@@ -410,13 +388,13 @@ Datasuspeitos/
 
 **Checkpoint 2 - Protótipo** (entrega em 27/11/2026)
 
-- [ ] Protótipo funcional com o fluxo principal navegável
+- [ ] Protótipo funcional com o fluxo principal navegável *(em construção)*
 - [x] Código no repositório público do GitHub
 - [x] README com detalhes do projeto
-- [ ] README com instruções de "como executar" testadas
-- [ ] Prints do protótipo no repositório
+- [ ] README com instruções de "como executar" testadas *(em construção: pipeline completo já rodado do zero em computador do grupo; falta testar a abertura do painel)*
+- [ ] Prints do protótipo no repositório *(em construção)*
 - [x] Tecnologias utilizadas documentadas
-- [ ] Vídeo de demonstração do funcionamento
+- [x] Vídeo de demonstração do funcionamento
 - [x] Evolução em relação ao Checkpoint 1 registrada
 
 **Próxima etapa:** Banca final (07 e 08/12/2026)
