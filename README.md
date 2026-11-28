@@ -124,12 +124,17 @@ Medir as três é necessário porque, em 2023, 82,7% dos bebês com sífilis no 
 ### Como os dados chegam ao painel
 
 ```text
-Dados públicos            Tratamento (Python)           Banco de dados             Painel
-TabNet (5 CSVs)    →   src/tratamento.py         →   PostgreSQL            →   Power BI
-Painel de Sífilis      limpa, une pelo código        tabela                    visão geral, quadrante,
-(planilha .xlsx)       IBGE e confere os números     fato_municipio_ano        ranking e detalhe
-                       contra um gabarito            (src/carga_postgres.py)   do município
+Dados públicos            Tratamento (Python)           Tabela final                      Painel
+TabNet (5 CSVs)    →   src/tratamento.py         →   data/processed/          →   Power BI
+Painel de Sífilis      limpa, une pelo código        tabela_final.csv              visão geral, quadrante,
+(planilha .xlsx)       IBGE e confere os números            │                      ranking e detalhe
+                       contra um gabarito                   ↓                      do município
+                                                     Banco de dados
+                                                     PostgreSQL · fato_municipio_ano
+                                                     (src/carga_postgres.py)
 ```
+
+Nesta versão, o painel traz a tabela final **embutida no próprio arquivo**, para abrir em qualquer computador sem precisar instalar um banco de dados. O PostgreSQL guarda a mesma tabela com regras de qualidade e permite consultas em SQL. Conectar o painel direto ao banco é o próximo passo do projeto.
 
 A qualidade dos dados é conferida duas vezes: o script de tratamento para se encontrar linha repetida, município faltando, contagem impossível ou número do estado diferente do gabarito, e o próprio banco recusa dados incoerentes por meio de regras na tabela (`sql/criar_tabela.sql`).
 
@@ -161,7 +166,17 @@ O protótipo é um painel em Power BI com 4 páginas, alimentado pelos dados rea
 
 ### Prints
 
-*(em construção)*
+#### Visão geral
+![Visão geral](docs/prints/01-visao-geral.png)
+
+#### Quadrante
+![Quadrante](docs/prints/02-quadrante.png)
+
+#### Ranking
+![Ranking](docs/prints/03-ranking.png)
+
+#### Detalhe do município
+![Detalhe do município](docs/prints/04-detalhe-municipio.png)
 
 ### Vídeo de demonstração
 
@@ -197,7 +212,13 @@ O vídeo é uma animação feita com os dados reais do projeto: mostra o pipelin
 
 Há dois caminhos, dependendo do que você quer fazer.
 
-### Caminho A · Só ver o painel *(em construção)*
+### Caminho A · Só ver o painel
+
+**Pré-requisito:** [Power BI Desktop](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop) (gratuito, só para Windows).
+
+1. Baixe o repositório: botão verde **Code → Download ZIP**, e descompacte.
+2. Abra o arquivo `dashboard/painel_datasuspeitos.pbix`. Os dados já vêm dentro do arquivo, então não é preciso instalar mais nada.
+3. Use o filtro **Ano** no topo das páginas. O painel abre em 2023.
 
 ### Caminho B · Rodar o pipeline completo (dados → banco → painel)
 
@@ -218,7 +239,16 @@ Há dois caminhos, dependendo do que você quer fazer.
    python src/carga_postgres.py
    ```
    O script cria a tabela `fato_municipio_ano`, carrega as 3.225 linhas de `data/processed/tabela_final.csv` e confere o resultado. O esperado é terminar com `Carga OK.`
-6. **Abra o painel no Power BI** *(em construção)*
+6. **Consulte o banco** pelo DBeaver. Por exemplo, os 5 municípios com maior taxa de sífilis congênita em 2023, entre os que têm 1.000 nascidos vivos ou mais:
+   ```sql
+   SELECT municipio,
+          ROUND(casos_sc * 1000.0 / nascidos_vivos, 1) AS taxa_por_mil
+   FROM fato_municipio_ano
+   WHERE ano = 2023 AND elegivel_ranking
+   ORDER BY taxa_por_mil DESC
+   LIMIT 5;
+   ```
+   O resultado deve começar por Osasco (33,6). Para ver o painel, siga o Caminho A: ele usa a mesma tabela final, embutida no arquivo.
 
 **Opcional · refazer o tratamento a partir das bases originais:** baixe as bases seguindo [`data/README.md`](data/README.md), coloque os arquivos em `data/raw/` e rode, antes do passo 5:
 ```
@@ -313,7 +343,7 @@ No Checkpoint 1 apresentamos a ideia e o desenho da solução. No Checkpoint 2, 
 
 Seguindo a orientação do mentor, documentamos aqui como a inteligência artificial foi usada. A IA foi uma ferramenta de apoio; **as decisões do projeto são do grupo**, e cada integrante revisou e é responsável pelo que subiu com o próprio nome.
 
-**Ferramentas:** Claude (Anthropic), usado principalmente pelo organizador do grupo; Gemini (Google), usado por integrantes para revisar a redação dos textos e gerar o logo.
+**Ferramentas:** Claude (Anthropic), usado principalmente pelo organizador do grupo e, no painel, pelo responsável pelo Power BI; Gemini (Google), usado por integrantes para revisar a redação dos textos e gerar o logo.
 
 ### Checkpoint 1
 
@@ -333,6 +363,7 @@ Seguindo a orientação do mentor, documentamos aqui como a inteligência artifi
 | Documentação | Rascunho do guia de download das bases, dos requisitos e da seção de evolução | A Vitória testou o guia seguindo o texto e apontou três pontos confusos, que foram corrigidos; a Raquel revisou e ajustou requisitos e evolução |
 | Tema do painel | Explicação dos campos do tema do Power BI e teste de contraste das cores | A Vitória escolheu as cores e corrigiu a escolha que tinha contraste baixo |
 | Análise | Cálculo e conferência dos indicadores dos 5 anos | Interpretação dos achados e das limitações discutida pelo grupo |
+| Painel em Power BI | Escrita das medidas DAX (porcentagens, taxa, média do estado e regra de prioritário) | O Vitor montou o painel e revisou as medidas. O organizador conferiu os números contra a tabela final e corrigiu o que estava errado: cores dos prioritários no quadrante, linhas da média do estado (que mostravam a média só dos municípios do gráfico) e ordem do ranking (trocada de um índice composto para a taxa de sífilis congênita, porque o índice colocava municípios com 1 caso entre os mais críticos) |
 | Vídeo de demonstração | Animação feita com os dados reais do projeto e sincronização com a narração | A Raquel escreveu e gravou a narração; o grupo escolheu usar a animação |
 | README final | Integração das partes de cada integrante e revisão do texto | O organizador revisou e publicou a versão final |
 
@@ -363,11 +394,12 @@ Datasuspeitos/
 │   └── carga_postgres.py       → carrega a tabela final no PostgreSQL
 ├── sql/
 │   └── criar_tabela.sql        → cria a tabela e as regras de qualidade no banco
-├── dashboard/                  → arquivo do painel em Power BI (.pbix) (em construção)
+├── dashboard/
+│   └── painel_datasuspeitos.pbix → painel em Power BI (com a tabela final embutida)
 └── docs/
     ├── requisitos.md           → requisitos da solução
     ├── identidade/             → logo e tema de cores do Power BI
-    └── prints/                 → capturas do protótipo (em construção)
+    └── prints/                 → capturas do protótipo
 ```
 
 ---
@@ -388,13 +420,17 @@ Datasuspeitos/
 
 **Checkpoint 2 - Protótipo** (entrega em 27/11/2026)
 
-- [ ] Protótipo funcional com o fluxo principal navegável *(em construção)*
+- [x] Protótipo funcional com o fluxo principal navegável
 - [x] Código no repositório público do GitHub
 - [x] README com detalhes do projeto
-- [ ] README com instruções de "como executar" testadas *(em construção: pipeline completo já rodado do zero em computador do grupo; falta testar a abertura do painel)*
-- [ ] Prints do protótipo no repositório *(em construção)*
+- [x] README com instruções de "como executar" testadas *(pipeline completo rodado do zero em computador do grupo; guia de download testado por outra integrante)*
+- [x] Prints do protótipo no repositório
 - [x] Tecnologias utilizadas documentadas
 - [x] Vídeo de demonstração do funcionamento
 - [x] Evolução em relação ao Checkpoint 1 registrada
 
-**Próxima etapa:** Banca final (07 e 08/12/2026)
+**Próximos passos (banca final, 07 e 08/12/2026):**
+
+- [ ] Conectar o painel direto ao PostgreSQL, no lugar da tabela embutida
+- [ ] Incluir os municípios com menos de 1.000 nascidos vivos na comparação, somando os 5 anos
+- [ ] Clicar num município do ranking e abrir direto a página de detalhe (RF07)
